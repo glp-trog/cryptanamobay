@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-01",
+  "profiles": [
+    {
+      "id": "example-person",
+      "name": "Example Person",
+      "type": "individual",
+      "status": "alleged",
+      "tags": ["fraud"],
+      "summary": "Example entry. Replace with verified, neutrally-worded facts and citations.",
+      "jurisdiction": ["US"],
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "event": "Example event with a credible citation.",
+          "sources": [
+            {
+              "title": "Example source",
+              "publisher": "Example Publisher",
+              "url": "https://example.com",
+              "type": "news",
+              "date": "2025-01-01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

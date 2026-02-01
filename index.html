@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CryptAnamoBay — Crypto Misconduct Tracker</title>
+  <meta name="description" content="A fact-forward directory of alleged, charged, convicted, or sanctioned crypto misconduct with citations." />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">
+        <h1>CryptAnamoBay</h1>
+        <p>
+          A fact-forward directory of <strong>alleged / charged / convicted / sanctioned</strong> crypto misconduct.
+          Each entry should be backed by primary sources (court filings, regulator actions, credible reporting).
+        </p>
+        <div class="badges">
+          <span class="badge"><strong>Important:</strong> This site is informational. It may contain errors.</span>
+          <span class="badge"><strong>Labels matter:</strong> “Alleged” ≠ proven.</span>
+        </div>
+      </div>
+      <div class="nav">
+        <a href="./pages/methodology.html">Methodology</a>
+        <a href="./pages/disclaimer.html">Disclaimer</a>
+        <a href="./pages/contact.html">Contact / Corrections</a>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="panel">
+        <h2>Directory</h2>
+
+        <div class="controls">
+          <div class="input">
+            <label for="q">Search</label>
+            <input id="q" placeholder="Search by name, tags, summary…" />
+          </div>
+          <div class="input">
+            <label for="status">Status</label>
+            <select id="status">
+              <option value="any">Any</option>
+              <option value="alleged">Alleged</option>
+              <option value="charged">Charged</option>
+              <option value="convicted">Convicted</option>
+              <option value="sanctioned">Sanctioned</option>
+              <option value="settled">Settled</option>
+            </select>
+          </div>
+          <div class="input">
+            <label for="type">Type</label>
+            <select id="type">
+              <option value="any">Any</option>
+              <option value="individual">Individual</option>
+              <option value="entity">Entity</option>
+              <option value="project">Project</option>
+            </select>
+          </div>
+          <div class="input">
+            <label for="tag">Tag</label>
+            <select id="tag">
+              <option value="any">Any</option>
+            </select>
+          </div>
+        </div>
+
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-top:12px">
+          <div id="counts" class="small">—</div>
+          <div class="small">Data: <code>data/profiles.json</code></div>
+        </div>
+
+        <div style="margin-top:10px;overflow:auto">
+          <table class="table">
+            <thead>
+              <tr>
+                <th style="min-width:520px">Profile</th>
+                <th style="min-width:120px">Jurisdiction</th>
+                <th style="min-width:120px">Actions</th>
+              </tr>
+            </thead>
+            <tbody id="tbody">
+              <tr><td colspan="3" class="small">Loading…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>How to use this</h2>
+        <p class="small">
+          Use the filters to narrow down entries. Click <strong>View</strong> to see a timeline and source links.
+          If you think an entry is wrong or incomplete, use the corrections link.
+        </p>
+
+        <div class="badges">
+          <span class="badge"><strong>Source standard:</strong> prefer primary docs.</span>
+          <span class="badge"><strong>No doxxing:</strong> avoid personal addresses/phones.</span>
+          <span class="badge"><strong>Neutral tone:</strong> state facts, cite sources.</span>
+        </div>
+
+        <hr style="border:0;border-top:1px solid var(--border);margin:14px 0" />
+
+        <h2>Submission note</h2>
+        <p class="small">
+          This site is intentionally <strong>anonymous (no login)</strong>. Submissions will require verification.
+          We may reject or edit content that lacks sources or uses defamatory language.
+        </p>
+      </div>
+    </div>
+
+    <div class="footer">
+      © <span id="year"></span> CryptAnamoBay. Built for factual tracking — not harassment.
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal-backdrop" id="modalBackdrop" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-label="Profile details">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px">
+        <div>
+          <h3 id="modalTitle">—</h3>
+          <div id="modalStatus"></div>
+        </div>
+        <button class="button" id="modalClose">Close</button>
+      </div>
+
+      <div class="kv" id="modalKV"></div>
+
+      <h3 style="margin-top:16px">Timeline</h3>
+      <div class="timeline" id="modalTimeline"></div>
+
+      <div style="margin-top:14px" class="small">
+        See <a href="./pages/disclaimer.html">disclaimer</a> and <a href="./pages/methodology.html">methodology</a>.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+  <script src="./assets/app.js"></script>
+</body>
+</html>
