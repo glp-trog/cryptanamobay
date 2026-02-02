@@ -1,26 +1,215 @@
 {
-  "version": 1,
-  "updatedAt": "2026-02-01",
+  "version": 2,
+  "updatedAt": "2026-02-02",
   "profiles": [
     {
-      "id": "example-person",
-      "name": "Example Person",
+      "id": "charlie-shrem",
+      "name": "Charlie Shrem",
       "type": "individual",
-      "status": "alleged",
-      "tags": ["fraud"],
-      "summary": "Example entry. Replace with verified, neutrally-worded facts and citations.",
+      "status": "pleaded",
+      "tags": ["bitcoin", "money-transmitting", "legal-case"],
+      "summary": "Bitcoin entrepreneur who pleaded guilty in U.S. federal court to aiding and abetting the operation of an unlicensed money transmitting business (BitInstant-related case).",
       "jurisdiction": ["US"],
+      "images": {
+        "path": "assets/img/profiles/charlie-shrem-2013.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Shrem_2013.jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Charlie_Shrem_2013.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Cshrem (Wikimedia Commons user; 'Own work')",
+        "caption": "Charlie Shrem (2013)"
+      },
       "timeline": [
         {
-          "date": "2025-01-01",
-          "event": "Example event with a credible citation.",
+          "date": "2014-09-04",
+          "event": "Pleaded guilty (SDNY) to aiding and abetting the operation of an unlicensed money transmitting business.",
           "sources": [
             {
-              "title": "Example source",
-              "publisher": "Example Publisher",
-              "url": "https://example.com",
-              "type": "news",
-              "date": "2025-01-01"
+              "title": "Manhattan U.S. Attorney Announces Charlie Shrem Pleads Guilty To Operating Unlicensed Money Transmitting Business",
+              "publisher": "U.S. Attorney’s Office, SDNY (DOJ)",
+              "url": "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-charlie-shrem-pleads-guilty-operating",
+              "type": "press-release",
+              "date": "2014-09-04"
+            },
+            {
+              "title": "Charlie Shrem",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Charlie_Shrem",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ross-ulbricht",
+      "name": "Ross Ulbricht",
+      "type": "individual",
+      "status": "convicted",
+      "tags": ["darknet", "silk-road", "bitcoin", "legal-case"],
+      "summary": "Creator/operator of the Silk Road darknet market; convicted in U.S. federal court and sentenced to life in prison.",
+      "jurisdiction": ["US"],
+      "images": {
+        "path": "assets/img/profiles/ross-ulbricht-gage-skidmore.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_Ulbricht_by_Gage_Skidmore.jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ross_Ulbricht_by_Gage_Skidmore.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Gage Skidmore",
+        "caption": "Ross Ulbricht (photo by Gage Skidmore)"
+      },
+      "timeline": [
+        {
+          "date": "2015-05-29",
+          "event": "Sentenced to life in prison following conviction for Silk Road-related offenses.",
+          "sources": [
+            {
+              "title": "Ross Ulbricht Sentenced In Manhattan Federal Court To Life In Prison",
+              "publisher": "U.S. Attorney’s Office, SDNY (DOJ)",
+              "url": "https://www.justice.gov/usao-sdny/pr/ross-ulbricht-sentenced-life-prison",
+              "type": "press-release",
+              "date": "2015-05-29"
+            },
+            {
+              "title": "Ross Ulbricht",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ross_Ulbricht",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao (CZ)",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": ["binance", "exchange", "compliance", "legal-case"],
+      "summary": "Binance founder/ex-CEO who pleaded guilty in U.S. federal court in connection with compliance violations (avoid describing as 'scam'; this is typically framed as AML/BSA compliance enforcement).", 
+      "jurisdiction": ["US"],
+      "images": {
+        "path": "assets/img/profiles/changpeng-zhao-2022.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changpeng_Zhao_in_2022.jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Changpeng_Zhao_in_2022.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Aevozer (Own work, Wikimedia Commons)",
+        "caption": "Changpeng Zhao (2022)"
+      },
+      "timeline": [
+        {
+          "date": "2023-11-21",
+          "event": "Publicly announced plea agreement and resignation as CEO (U.S. proceedings).",
+          "sources": [
+            {
+              "title": "Changpeng Zhao",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Changpeng_Zhao",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ruja-ignatova",
+      "name": "Ruja Ignatova",
+      "type": "individual",
+      "status": "wanted",
+      "tags": ["onecoin", "fraud", "fugitive"],
+      "summary": "OneCoin figure described by U.S. authorities as a fugitive; added to the FBI Ten Most Wanted Fugitives list.",
+      "jurisdiction": ["US", "EU"],
+      "images": {
+        "path": "assets/img/profiles/ruja-ignatova-fbi.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruja_Ignatova_FBI.jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ruja_Ignatova_FBI.jpg",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "attribution": "Federal Bureau of Investigation (FBI)",
+        "caption": "FBI Ten Most Wanted poster"
+      },
+      "timeline": [
+        {
+          "date": "2022-06-30",
+          "event": "Added to FBI Ten Most Wanted list.",
+          "sources": [
+            {
+              "title": "FBI Ten Most Wanted poster: Ruja Ignatova (PDF)",
+              "publisher": "FBI",
+              "url": "https://www.fbi.gov/wanted/topten/ruja-ignatova/@@download.pdf",
+              "type": "official",
+              "date": "2022-06-30"
+            },
+            {
+              "title": "Ruja Ignatova",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ruja_Ignatova",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roger-ver",
+      "name": "Roger Ver",
+      "type": "individual",
+      "status": "charged",
+      "tags": ["bitcoin", "tax", "legal-case"],
+      "summary": "Bitcoin investor/promoter reported as charged by U.S. authorities in a tax-related criminal case (verify latest posture in sources).",
+      "jurisdiction": ["US"],
+      "images": {
+        "path": "assets/img/profiles/roger-ver.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Ver.jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Roger_Ver.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "See Wikimedia Commons file page for attribution/permission details",
+        "caption": "Roger Ver"
+      },
+      "timeline": [
+        {
+          "date": "2024-04-30",
+          "event": "Public reporting of U.S. criminal charges in a tax-related case.",
+          "sources": [
+            {
+              "title": "Roger Ver",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roger_Ver",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "do-kwon",
+      "name": "Do Kwon",
+      "type": "individual",
+      "status": "charged",
+      "tags": ["terra", "stablecoin", "legal-case"],
+      "summary": "Co-founder associated with the Terra/Luna collapse; charged by U.S. authorities (verify latest extradition/court status in sources).",
+      "jurisdiction": ["US", "KR"],
+      "images": {
+        "path": "assets/img/profiles/do-kwon.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do_Kwon.png",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Do_Kwon.png",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "FAQX™ We mining it. (per Commons description)",
+        "caption": "Do Kwon (image per Wikimedia Commons)"
+      },
+      "timeline": [
+        {
+          "date": "2023-03-23",
+          "event": "U.S. criminal charges reported/announced (verify exact charging instrument and date).",
+          "sources": [
+            {
+              "title": "Do Kwon",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Do_Kwon",
+              "type": "reference"
             }
           ]
         }

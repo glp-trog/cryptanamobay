@@ -11,6 +11,8 @@ function statusLabel(status){
     alleged: 'Alleged',
     charged: 'Charged',
     convicted: 'Convicted',
+    pleaded: 'Pleaded guilty',
+    wanted: 'Wanted',
     settled: 'Settled',
     sanctioned: 'Sanctioned'
   };
@@ -19,7 +21,7 @@ function statusLabel(status){
 
 function statusClass(status){
   const s = (status||'').toLowerCase();
-  if(['alleged','charged','convicted','sanctioned'].includes(s)) return s;
+  if(['alleged','charged','convicted','pleaded','wanted','sanctioned','settled'].includes(s)) return s;
   return 'charged';
 }
 
@@ -68,17 +70,24 @@ function renderTable(rows){
   tbody.innerHTML = rows.map(p=>{
     const tags = (p.tags||[]).slice(0,3).map(t=>`<span class="badge"><strong>#</strong>${escapeHtml(t)}</span>`).join(' ');
     const more = (p.tags||[]).length > 3 ? `<span class="badge">+${(p.tags||[]).length-3}</span>` : '';
+    const imgPath = p.images?.path ? `./${p.images.path}` : null;
+    const avatar = imgPath
+      ? `<img class="avatar" src="${escapeHtml(imgPath)}" alt="${escapeHtml(p.images.caption || p.name)}" loading="lazy" />`
+      : `<div class="avatar" aria-hidden="true"></div>`;
+
     return `
       <tr>
         <td>
-          <div style="display:flex;flex-direction:column;gap:6px">
-            <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
-              <strong>${escapeHtml(p.name)}</strong>
-              <span class="pill ${statusClass(p.status)}">${escapeHtml(statusLabel(p.status))}</span>
-              <span class="badge">${escapeHtml(p.type||'')}</span>
+          <div style="display:flex;gap:12px;align-items:flex-start">
+            ${avatar}
+            <div style="display:flex;flex-direction:column;gap:6px">
+              <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+                <strong>${escapeHtml(p.name)}</strong>
+                <span class="pill ${statusClass(p.status)}">${escapeHtml(statusLabel(p.status))}</span>
+              </div>
+              <div class="small">${escapeHtml(p.summary||'')}</div>
+              <div class="badges">${tags}${more}</div>
             </div>
-            <div class="small">${escapeHtml(p.summary||'')}</div>
-            <div class="badges">${tags}${more}</div>
           </div>
         </td>
         <td>${escapeHtml((p.jurisdiction||[]).join(', ') || '—')}</td>
@@ -106,12 +115,25 @@ function openModal(id){
   $('#modalStatus').innerHTML = `<span class="pill ${statusClass(p.status)}">${escapeHtml(statusLabel(p.status))}</span>`;
 
   const kv = [
-    ['Type', p.type || '—'],
     ['Status', statusLabel(p.status) || '—'],
     ['Jurisdiction', (p.jurisdiction||[]).join(', ') || '—'],
     ['Tags', (p.tags||[]).join(', ') || '—'],
   ];
-  $('#modalKV').innerHTML = kv.map(([k,v])=>`<div>${escapeHtml(k)}</div><div>${escapeHtml(v)}</div>`).join('');
+
+  const imgPath = p.images?.path ? `./${p.images.path}` : null;
+  const imgHtml = imgPath
+    ? `<div style="display:flex;gap:12px;align-items:flex-start;margin-top:10px">
+         <img class="avatar" style="width:88px;height:88px" src="${escapeHtml(imgPath)}" alt="${escapeHtml(p.images.caption || p.name)}" loading="lazy" />
+         <div class="small">
+           <div><strong>Image attribution</strong></div>
+           <div>${escapeHtml(p.images.attribution || '—')}</div>
+           <div>${p.images.licenseUrl ? `<a href="${escapeHtml(p.images.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(p.images.license || 'License')}</a>` : escapeHtml(p.images.license || '—')}</div>
+           <div><a href="${escapeHtml(p.images.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source</a></div>
+         </div>
+       </div>`
+    : '';
+
+  $('#modalKV').innerHTML = kv.map(([k,v])=>`<div>${escapeHtml(k)}</div><div>${escapeHtml(v)}</div>`).join('') + imgHtml;
 
   const timeline = (p.timeline||[]).map(item=>{
     const srcs = (item.sources||[]).map(s=>{
