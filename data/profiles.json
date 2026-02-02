@@ -1,15 +1,259 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-02-02",
   "profiles": [
+    {
+      "id": "alex-mashinsky",
+      "name": "Alex Mashinsky",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "celsius",
+        "lending",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "Former Celsius CEO; publicly reported as charged by U.S. authorities in connection with Celsius-related allegations (verify latest posture when integrating).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-07-13",
+          "event": "U.S. criminal/agency charges publicly reported in connection with Celsius.",
+          "sources": [
+            {
+              "title": "Alex Mashinsky",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Alex_Mashinsky",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alexandre-cazes",
+      "name": "Alexandre Cazes",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "alphabay",
+        "darknet",
+        "legal-case"
+      ],
+      "summary": "Alleged AlphaBay operator; arrested and charged, later died in custody (per public reporting).",
+      "jurisdiction": [
+        "US",
+        "TH",
+        "CA"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2017-07-05",
+          "event": "Arrested in Thailand in connection with AlphaBay takedown.",
+          "sources": [
+            {
+              "title": "Alexandre Cazes",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Alexandre_Cazes",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alexey-pertsev",
+      "name": "Alexey Pertsev",
+      "type": "individual",
+      "status": "convicted",
+      "tags": [
+        "tornado-cash",
+        "mixer",
+        "legal-case"
+      ],
+      "summary": "Tornado Cash developer prosecuted in the Netherlands; convicted in a money laundering-related case (per public reporting).",
+      "jurisdiction": [
+        "NL"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2024-05-14",
+          "event": "Reported conviction in the Netherlands connected to Tornado Cash.",
+          "sources": [
+            {
+              "title": "Alexey Pertsev",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Alexey_Pertsev",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arthur-budovsky",
+      "name": "Arthur Budovsky",
+      "type": "individual",
+      "status": "convicted",
+      "tags": [
+        "liberty-reserve",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Liberty Reserve founder; convicted in U.S. federal court in a major money laundering case (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2016-05-06",
+          "event": "Sentenced in U.S. Liberty Reserve money laundering case (verify exact date).",
+          "sources": [
+            {
+              "title": "Arthur Budovsky",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Arthur_Budovsky",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avraham-eisenberg",
+      "name": "Avraham Eisenberg",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "mango-markets",
+        "defi",
+        "market-manipulation",
+        "legal-case"
+      ],
+      "summary": "Charged by the CFTC in connection with an alleged manipulative and deceptive scheme involving Mango Markets.",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-01-09",
+          "event": "CFTC filed civil enforcement action alleging manipulative/deceptive scheme to misappropriate over $110M from Mango Markets (SDNY).",
+          "sources": [
+            {
+              "title": "CFTC Charges Avraham Eisenberg with Manipulative and Deceptive Scheme to Misappropriate Over $110 million from Mango Markets, a Digital Asset Exchange",
+              "publisher": "CFTC",
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/8647-23",
+              "type": "press-release",
+              "date": "2023-01-09"
+            },
+            {
+              "title": "Avraham Eisenberg",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Avraham_Eisenberg",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caroline-ellison",
+      "name": "Caroline Ellison",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "ftx",
+        "alameda",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "Former Alameda Research CEO; charged in CFTC action and entered a guilty plea in a parallel SDNY criminal case (per CFTC).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-12-21",
+          "event": "CFTC filed amended complaint adding fraud charges against Ellison in the FTX civil action (SDNY).",
+          "sources": [
+            {
+              "title": "CFTC Charges Alameda CEO and Alameda and FTX Co-Founder with Fraud in Action Against Sam Bankman-Fried and his Companies",
+              "publisher": "CFTC",
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/8644-22",
+              "type": "press-release",
+              "date": "2022-12-21"
+            },
+            {
+              "title": "Caroline Ellison",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Caroline_Ellison",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao (CZ)",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "binance",
+        "exchange",
+        "compliance",
+        "legal-case"
+      ],
+      "summary": "Binance founder/ex-CEO who pleaded guilty in U.S. federal court in connection with compliance violations (avoid describing as 'scam'; this is typically framed as AML/BSA compliance enforcement).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": {
+        "path": "assets/img/profiles/changpeng-zhao-2022.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changpeng_Zhao_in_2022.jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Changpeng_Zhao_in_2022.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Aevozer (Own work, Wikimedia Commons)",
+        "caption": "Changpeng Zhao (2022)"
+      },
+      "timeline": [
+        {
+          "date": "2023-11-21",
+          "event": "Publicly announced plea agreement and resignation as CEO (U.S. proceedings).",
+          "sources": [
+            {
+              "title": "Changpeng Zhao",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Changpeng_Zhao",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "charlie-shrem",
       "name": "Charlie Shrem",
       "type": "individual",
       "status": "pleaded",
-      "tags": ["bitcoin", "money-transmitting", "legal-case"],
+      "tags": [
+        "bitcoin",
+        "money-transmitting",
+        "legal-case"
+      ],
       "summary": "Bitcoin entrepreneur who pleaded guilty in U.S. federal court to aiding and abetting the operation of an unlicensed money transmitting business (BitInstant-related case).",
-      "jurisdiction": ["US"],
+      "jurisdiction": [
+        "US"
+      ],
       "images": {
         "path": "assets/img/profiles/charlie-shrem-2013.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Shrem_2013.jpg",
@@ -42,13 +286,513 @@
       ]
     },
     {
+      "id": "do-kwon",
+      "name": "Do Kwon",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "terra",
+        "stablecoin",
+        "legal-case"
+      ],
+      "summary": "Co-founder associated with the Terra/Luna collapse; charged by U.S. authorities (verify latest extradition/court status in sources).",
+      "jurisdiction": [
+        "US",
+        "KR"
+      ],
+      "images": {
+        "path": "assets/img/profiles/do-kwon.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do_Kwon.png",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Do_Kwon.png",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "FAQX™ We mining it. (per Commons description)",
+        "caption": "Do Kwon (image per Wikimedia Commons)"
+      },
+      "timeline": [
+        {
+          "date": "2023-03-23",
+          "event": "U.S. criminal charges reported/announced (verify exact charging instrument and date).",
+          "sources": [
+            {
+              "title": "Do Kwon",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Do_Kwon",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glenn-arcaro",
+      "name": "Glenn Arcaro",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "bitconnect",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "BitConnect promoter who pleaded guilty in U.S. federal proceedings (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2021-09-01",
+          "event": "Reported guilty plea in BitConnect case.",
+          "sources": [
+            {
+              "title": "Glenn Arcaro",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Glenn_Arcaro",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heather-morgan",
+      "name": "Heather Morgan",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "bitfinex",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Pleaded guilty in U.S. proceedings connected to laundering of funds tied to the Bitfinex hack (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-08-03",
+          "event": "Reported guilty plea to money laundering conspiracy related to Bitfinex hack proceeds.",
+          "sources": [
+            {
+              "title": "Heather Morgan",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Heather_Morgan",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ilya-lichtenstein",
+      "name": "Ilya Lichtenstein",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "bitfinex",
+        "hack",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Pleaded guilty in U.S. proceedings connected to laundering of funds tied to the Bitfinex hack (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-08-03",
+          "event": "Reported guilty plea to money laundering conspiracy related to Bitfinex hack proceeds.",
+          "sources": [
+            {
+              "title": "Ilya Lichtenstein",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ilya_Lichtenstein",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "konstantin-ignatov",
+      "name": "Konstantin Ignatov",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "onecoin",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "OneCoin-related figure who pleaded guilty in U.S. federal proceedings (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2019-03-06",
+          "event": "Reported guilty plea in OneCoin-related case.",
+          "sources": [
+            {
+              "title": "Konstantin Ignatov",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Konstantin_Ignatov",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "larry-dean-harmon",
+      "name": "Larry Dean Harmon",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "mixer",
+        "helix",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Operator tied to a virtual currency mixer; pleaded guilty in U.S. proceedings (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-08-08",
+          "event": "Treasury press release summarizing mixer enforcement and DPRK laundering context (anchor source; verify Harmon-specific case during integration).",
+          "sources": [
+            {
+              "title": "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash",
+              "publisher": "U.S. Department of the Treasury",
+              "url": "https://home.treasury.gov/news/press-releases/jy0916",
+              "type": "official",
+              "date": "2022-08-08"
+            },
+            {
+              "title": "Larry Dean Harmon",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Larry_Dean_Harmon",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mark-karpeles",
+      "name": "Mark Karpelès",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "mtgox",
+        "exchange",
+        "legal-case"
+      ],
+      "summary": "Former Mt. Gox CEO; prosecuted in Japan in connection with Mt. Gox collapse (per public reporting).",
+      "jurisdiction": [
+        "JP"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2015-08-01",
+          "event": "Prosecution/charges in Japan connected to Mt. Gox collapse (verify exact date).",
+          "sources": [
+            {
+              "title": "Mark Karpelès",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mark_Karpel%C3%A8s",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mark-scott-onecoin",
+      "name": "Mark Scott",
+      "type": "individual",
+      "status": "convicted",
+      "tags": [
+        "onecoin",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Attorney convicted in U.S. federal court in a case tied to laundering OneCoin-related proceeds (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2019-11-21",
+          "event": "Reported conviction in OneCoin-related money laundering case.",
+          "sources": [
+            {
+              "title": "Mark Scott (lawyer)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mark_Scott_(lawyer)",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nishad-singh",
+      "name": "Nishad Singh",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "ftx",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "Former FTX engineering executive; charged by the CFTC and entered a guilty plea in a parallel SDNY criminal case (per CFTC).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-02-28",
+          "event": "CFTC filed civil fraud charges against Singh in SDNY.",
+          "sources": [
+            {
+              "title": "CFTC Charges FTX Co-Owner with Fraud by Misappropriation and Aiding and Abetting Fraud Related to Digital Asset Commodities",
+              "publisher": "CFTC",
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/8669-23",
+              "type": "press-release",
+              "date": "2023-02-28"
+            },
+            {
+              "title": "Nishad Singh",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nishad_Singh",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "park-jin-hyok",
+      "name": "Park Jin-hyok",
+      "type": "individual",
+      "status": "wanted",
+      "tags": [
+        "north-korea",
+        "hacking",
+        "lazarus-group",
+        "wanted"
+      ],
+      "summary": "North Korean hacker publicly identified in U.S. criminal proceedings and widely reported in attribution for major cyber activity; included due to repeated DPRK-linked crypto theft/laundering context.",
+      "jurisdiction": [
+        "US",
+        "KP"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-08-08",
+          "event": "Treasury press release describing DPRK-linked laundering context.",
+          "sources": [
+            {
+              "title": "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash",
+              "publisher": "U.S. Department of the Treasury",
+              "url": "https://home.treasury.gov/news/press-releases/jy0916",
+              "type": "official",
+              "date": "2022-08-08"
+            },
+            {
+              "title": "Park Jin-hyok",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Park_Jin-hyok",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "robert-faiella",
+      "name": "Robert Faiella",
+      "type": "individual",
+      "status": "convicted",
+      "tags": [
+        "silk-road",
+        "money-transmitting",
+        "legal-case"
+      ],
+      "summary": "Bitcoin exchanger linked to Silk Road-era activity; convicted in U.S. federal court (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2014-12-19",
+          "event": "Reported guilty plea/conviction in SDNY case involving unlicensed money transmitting tied to Silk Road-related laundering.",
+          "sources": [
+            {
+              "title": "Robert Faiella",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Robert_Faiella",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roger-ver",
+      "name": "Roger Ver",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "bitcoin",
+        "tax",
+        "legal-case"
+      ],
+      "summary": "Bitcoin investor/promoter reported as charged by U.S. authorities in a tax-related criminal case (verify latest posture in sources).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": {
+        "path": "assets/img/profiles/roger-ver.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Ver.jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Roger_Ver.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "See Wikimedia Commons file page for attribution/permission details",
+        "caption": "Roger Ver"
+      },
+      "timeline": [
+        {
+          "date": "2024-04-30",
+          "event": "Public reporting of U.S. criminal charges in a tax-related case.",
+          "sources": [
+            {
+              "title": "Roger Ver",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roger_Ver",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roman-semenov",
+      "name": "Roman Semenov",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "tornado-cash",
+        "mixer",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Tornado Cash co-founder; charged in the U.S. (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-08-23",
+          "event": "Reported U.S. criminal charges related to Tornado Cash.",
+          "sources": [
+            {
+              "title": "Roman Semenov",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roman_Semenov",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roman-storm",
+      "name": "Roman Storm",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "tornado-cash",
+        "mixer",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Tornado Cash co-founder; charged in the U.S. (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-08-23",
+          "event": "Reported U.S. criminal charges related to Tornado Cash.",
+          "sources": [
+            {
+              "title": "Roman Storm",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roman_Storm",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roni-cohen-pavon",
+      "name": "Roni Cohen-Pavon",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "celsius",
+        "legal-case"
+      ],
+      "summary": "Former Celsius executive; publicly reported to have pleaded guilty in a U.S. case related to Celsius.",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-09-22",
+          "event": "Reported guilty plea in U.S. Celsius-related criminal case (confirm during integration).",
+          "sources": [
+            {
+              "title": "Roni Cohen-Pavon",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roni_Cohen-Pavon",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "ross-ulbricht",
       "name": "Ross Ulbricht",
       "type": "individual",
       "status": "convicted",
-      "tags": ["darknet", "silk-road", "bitcoin", "legal-case"],
+      "tags": [
+        "darknet",
+        "silk-road",
+        "bitcoin",
+        "legal-case"
+      ],
       "summary": "Creator/operator of the Silk Road darknet market; convicted in U.S. federal court and sentenced to life in prison.",
-      "jurisdiction": ["US"],
+      "jurisdiction": [
+        "US"
+      ],
       "images": {
         "path": "assets/img/profiles/ross-ulbricht-gage-skidmore.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_Ulbricht_by_Gage_Skidmore.jpg",
@@ -81,45 +825,20 @@
       ]
     },
     {
-      "id": "changpeng-zhao",
-      "name": "Changpeng Zhao (CZ)",
-      "type": "individual",
-      "status": "pleaded",
-      "tags": ["binance", "exchange", "compliance", "legal-case"],
-      "summary": "Binance founder/ex-CEO who pleaded guilty in U.S. federal court in connection with compliance violations (avoid describing as 'scam'; this is typically framed as AML/BSA compliance enforcement).", 
-      "jurisdiction": ["US"],
-      "images": {
-        "path": "assets/img/profiles/changpeng-zhao-2022.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changpeng_Zhao_in_2022.jpg",
-        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Changpeng_Zhao_in_2022.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "attribution": "Aevozer (Own work, Wikimedia Commons)",
-        "caption": "Changpeng Zhao (2022)"
-      },
-      "timeline": [
-        {
-          "date": "2023-11-21",
-          "event": "Publicly announced plea agreement and resignation as CEO (U.S. proceedings).",
-          "sources": [
-            {
-              "title": "Changpeng Zhao",
-              "publisher": "Wikipedia",
-              "url": "https://en.wikipedia.org/wiki/Changpeng_Zhao",
-              "type": "reference"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ruja-ignatova",
       "name": "Ruja Ignatova",
       "type": "individual",
       "status": "wanted",
-      "tags": ["onecoin", "fraud", "fugitive"],
+      "tags": [
+        "onecoin",
+        "fraud",
+        "fugitive"
+      ],
       "summary": "OneCoin figure described by U.S. authorities as a fugitive; added to the FBI Ten Most Wanted Fugitives list.",
-      "jurisdiction": ["US", "EU"],
+      "jurisdiction": [
+        "US",
+        "EU"
+      ],
       "images": {
         "path": "assets/img/profiles/ruja-ignatova-fbi.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruja_Ignatova_FBI.jpg",
@@ -152,31 +871,58 @@
       ]
     },
     {
-      "id": "roger-ver",
-      "name": "Roger Ver",
+      "id": "sam-bankman-fried",
+      "name": "Sam Bankman-Fried",
       "type": "individual",
-      "status": "charged",
-      "tags": ["bitcoin", "tax", "legal-case"],
-      "summary": "Bitcoin investor/promoter reported as charged by U.S. authorities in a tax-related criminal case (verify latest posture in sources).",
-      "jurisdiction": ["US"],
+      "status": "convicted",
+      "tags": [
+        "ftx",
+        "alameda",
+        "exchange",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "FTX founder; charged by U.S. regulators and later convicted in U.S. federal court in connection with FTX’s collapse.",
+      "jurisdiction": [
+        "US"
+      ],
       "images": {
-        "path": "assets/img/profiles/roger-ver.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Ver.jpg",
-        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Roger_Ver.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "attribution": "See Wikimedia Commons file page for attribution/permission details",
-        "caption": "Roger Ver"
+        "path": "assets/img/profiles/sam-bankman-fried-cointelegraph-2021.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sam_Bankman-Fried_(cropped).png",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sam_Bankman-Fried_%28cropped%29.png",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Cointelegraph",
+        "caption": "Sam Bankman-Fried (Bitcoin 2021 interview still)"
       },
       "timeline": [
         {
-          "date": "2024-04-30",
-          "event": "Public reporting of U.S. criminal charges in a tax-related case.",
+          "date": "2022-12-13",
+          "event": "CFTC filed civil fraud complaint against Bankman-Fried, FTX, and Alameda (SDNY).",
           "sources": [
             {
-              "title": "Roger Ver",
+              "title": "CFTC Charges Sam Bankman-Fried, FTX Trading and Alameda with Fraud and Material Misrepresentations",
+              "publisher": "CFTC",
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/8638-22",
+              "type": "press-release",
+              "date": "2022-12-13"
+            },
+            {
+              "title": "Sam Bankman-Fried",
               "publisher": "Wikipedia",
-              "url": "https://en.wikipedia.org/wiki/Roger_Ver",
+              "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
+              "type": "reference"
+            }
+          ]
+        },
+        {
+          "date": "2023-11-02",
+          "event": "Convicted in U.S. federal court on multiple counts (FTX-related criminal case).",
+          "sources": [
+            {
+              "title": "Sam Bankman-Fried",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
               "type": "reference"
             }
           ]
@@ -184,31 +930,98 @@
       ]
     },
     {
-      "id": "do-kwon",
-      "name": "Do Kwon",
+      "id": "satish-kumbhani",
+      "name": "Satish Kumbhani",
       "type": "individual",
       "status": "charged",
-      "tags": ["terra", "stablecoin", "legal-case"],
-      "summary": "Co-founder associated with the Terra/Luna collapse; charged by U.S. authorities (verify latest extradition/court status in sources).",
-      "jurisdiction": ["US", "KR"],
-      "images": {
-        "path": "assets/img/profiles/do-kwon.png",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do_Kwon.png",
-        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Do_Kwon.png",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "attribution": "FAQX™ We mining it. (per Commons description)",
-        "caption": "Do Kwon (image per Wikimedia Commons)"
-      },
+      "tags": [
+        "bitconnect",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "BitConnect founder charged/indicted in U.S. proceedings (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
       "timeline": [
         {
-          "date": "2023-03-23",
-          "event": "U.S. criminal charges reported/announced (verify exact charging instrument and date).",
+          "date": "2022-02-25",
+          "event": "Reported U.S. indictment/charges in BitConnect case.",
           "sources": [
             {
-              "title": "Do Kwon",
+              "title": "Satish Kumbhani",
               "publisher": "Wikipedia",
-              "url": "https://en.wikipedia.org/wiki/Do_Kwon",
+              "url": "https://en.wikipedia.org/wiki/Satish_Kumbhani",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "virgil-griffith",
+      "name": "Virgil Griffith",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "ethereum",
+        "sanctions",
+        "north-korea",
+        "legal-case"
+      ],
+      "summary": "Developer associated with the Ethereum community; pleaded guilty in a U.S. case involving North Korea sanctions-related conduct (per public reporting).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2021-09-27",
+          "event": "Reported guilty plea in U.S. sanctions-related case involving North Korea.",
+          "sources": [
+            {
+              "title": "Virgil Griffith",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Virgil_Griffith",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gary-wang",
+      "name": "Zixiao \"Gary\" Wang",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "ftx",
+        "alameda",
+        "fraud",
+        "legal-case"
+      ],
+      "summary": "FTX co-founder; charged in CFTC amended complaint and entered a guilty plea in a parallel SDNY criminal case (per CFTC).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-12-21",
+          "event": "CFTC filed amended complaint adding fraud charges against Wang in the FTX civil action (SDNY).",
+          "sources": [
+            {
+              "title": "CFTC Charges Alameda CEO and Alameda and FTX Co-Founder with Fraud in Action Against Sam Bankman-Fried and his Companies",
+              "publisher": "CFTC",
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/8644-22",
+              "type": "press-release",
+              "date": "2022-12-21"
+            },
+            {
+              "title": "Gary Wang (businessman)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gary_Wang_(businessman)",
               "type": "reference"
             }
           ]
