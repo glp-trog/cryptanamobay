@@ -1,4 +1,4 @@
-# CryptAnamoBay (cryptanamobay.com)
+# CryptanamoBay (cryptanamobay.com)
 
 Static site (no login) for tracking alleged/charged/convicted crypto misconduct with source citations.
 
