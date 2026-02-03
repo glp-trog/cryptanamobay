@@ -147,6 +147,15 @@ patch = {
     'licenseUrl': 'https://creativecommons.org/licenses/by-sa/2.0',
     'attribution': 'U.S. Department of the Interior (via Flickr; per Commons)',
     'caption': 'Ne-Yo performs (2014)'
+  },
+  'lil-yachty': {
+    'path': 'assets/img/profiles/lil-yachty-nicolas-padovani-2018.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:FEQ_July_2018_Lil_Yachty_(44779183032).jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/FEQ_July_2018_Lil_Yachty_%2844779183032%29.jpg',
+    'license': 'CC BY 2.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by/2.0',
+    'attribution': 'Nicolas Padovani (via Flickr; per Commons)',
+    'caption': 'Lil Yachty (Festival d’été de Québec, 2018)'
   }
 }
 

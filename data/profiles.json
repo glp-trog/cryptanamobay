@@ -3559,7 +3559,15 @@
       "jurisdiction": [
         "US"
       ],
-      "images": null,
+      "images": {
+        "path": "assets/img/profiles/lil-yachty-nicolas-padovani-2018.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:FEQ_July_2018_Lil_Yachty_(44779183032).jpg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/FEQ_July_2018_Lil_Yachty_%2844779183032%29.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Nicolas Padovani (via Flickr; per Commons)",
+        "caption": "Lil Yachty (Festival d’été de Québec, 2018)"
+      },
       "timeline": [
         {
           "date": "2023-03-22",
