@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>CryptanamoBay — Crypto Misconduct Tracker</title>
   <meta name="description" content="A fact-forward directory of alleged, charged, convicted, or sanctioned crypto misconduct with citations." />
-  <link rel="stylesheet" href="./assets/styles.css?v=20260202b" />
+  <link rel="stylesheet" href="./assets/styles.css?v=20260202c" />
 </head>
 <body>
   <div class="container">
@@ -58,8 +58,14 @@
             <select id="type">
               <option value="any">Any</option>
               <option value="individual">Individual</option>
-              <option value="entity">Entity</option>
-              <option value="project">Project</option>
+              <option value="celebrity">Celebrity</option>
+            </select>
+          </div>
+          <div class="input">
+            <label for="sort">Sort</label>
+            <select id="sort">
+              <option value="name-asc">Name (A–Z)</option>
+              <option value="recent">Most recent</option>
             </select>
           </div>
           <div class="input">
@@ -144,6 +150,6 @@
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
-  <script src="./assets/app.js?v=20260202b"></script>
+  <script src="./assets/app.js?v=20260202c"></script>
 </body>
 </html>

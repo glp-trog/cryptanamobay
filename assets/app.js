@@ -53,6 +53,16 @@ function matchesFilters(p, filters){
   return true;
 }
 
+function mostRecentDateKey(p){
+  const dates = (p.timeline||[]).map(x=>String(x?.date||'')).filter(Boolean);
+  if(!dates.length) return '';
+  // normalize YYYY-MM-?? -> YYYY-MM-00 for sorting
+  return dates
+    .map(d=>d.replaceAll('??','00'))
+    .sort()
+    .at(-1) || '';
+}
+
 function buildTagOptions(profiles){
   const tags = new Set();
   for(const p of profiles){
@@ -178,11 +188,29 @@ function apply(){
     tag: $('#tag').value,
   };
 
+  // Backward compatibility: if everything is still typed as "individual",
+  // treat "celebrity" filter as matching tag "celebrity".
+  if(filters.type === 'celebrity'){
+    filters.type = 'any';
+    filters.tag = (filters.tag && filters.tag !== 'any') ? filters.tag : 'celebrity';
+  }
+  const sort = ($('#sort')?.value) || 'name-asc';
+
   const all = DATA.profiles || [];
-  const rows = all
+  let rows = all
     .filter(p=>matchesFilters(p, filters))
-    .filter(p=>matchesQuery(p, q))
-    .sort((a,b)=> (a.name||'').localeCompare(b.name||''));
+    .filter(p=>matchesQuery(p, q));
+
+  if(sort === 'recent'){
+    rows = rows.sort((a,b)=>{
+      const da = mostRecentDateKey(a);
+      const db = mostRecentDateKey(b);
+      if(da !== db) return db.localeCompare(da);
+      return (a.name||'').localeCompare(b.name||'');
+    });
+  } else {
+    rows = rows.sort((a,b)=> (a.name||'').localeCompare(b.name||''));
+  }
 
   renderCounts(all.length, rows.length);
   renderTable(rows);
@@ -203,9 +231,11 @@ async function main(){
     .join('');
 
   // events
-  ['q','status','type','tag'].forEach(id=>{
-    $('#'+id).addEventListener('input', apply);
-    $('#'+id).addEventListener('change', apply);
+  ['q','status','type','tag','sort'].forEach(id=>{
+    const el = $('#'+id);
+    if(!el) return;
+    el.addEventListener('input', apply);
+    el.addEventListener('change', apply);
   });
 
   apply();
