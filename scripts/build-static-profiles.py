@@ -129,7 +129,10 @@ def build_page(p: dict, updated_at: str) -> str:
   <div class=\"container\">
     <div class=\"header\">
       <div class=\"brand\">
-        <h1><a href=\"../index.html\" style=\"color:inherit\">CryptanamoBay</a></h1>
+        <div class=\"brandline\">
+          <img class=\"logo\" src=\"../assets/img/logo.jpg\" alt=\"CryptanamoBay logo\" />
+          <h1 style=\"margin:0\"><a href=\"../index.html\" style=\"color:inherit\">CryptanamoBay</a></h1>
+        </div>
         <p>Profile details (timeline + sources). If something is wrong, use Contact / Corrections.</p>
       </div>
       <div class=\"nav\">
