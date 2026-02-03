@@ -129,6 +129,24 @@ patch = {
     'licenseUrl': 'https://creativecommons.org/licenses/by-sa/3.0',
     'attribution': 'Gage Skidmore (Own work; per Commons)',
     'caption': 'Lindsay Lohan at CinemaCon (2025)'
+  },
+  'austin-mahone': {
+    'path': 'assets/img/profiles/austin-mahone-sachyn-mital-2013.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Austin_Mahone_by_Sachyn_Mital.jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Austin_Mahone_by_Sachyn_Mital.jpg',
+    'license': 'CC BY-SA 3.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by-sa/3.0',
+    'attribution': 'Sachyn Mital (Own work; per Commons)',
+    'caption': 'Austin Mahone at a Style 360 Fashion Show (2013)'
+  },
+  'ne-yo': {
+    'path': 'assets/img/profiles/ne-yo-usinterior-2014.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Ne-Yo_(15329874953).jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Ne-Yo_%2815329874953%29.jpg',
+    'license': 'CC BY-SA 2.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by-sa/2.0',
+    'attribution': 'U.S. Department of the Interior (via Flickr; per Commons)',
+    'caption': 'Ne-Yo performs (2014)'
   }
 }
 
