@@ -1,5 +1,5 @@
 ﻿{
-    "version":  11,
+    "version":  12,
     "updatedAt":  "2026-02-02",
     "profiles":  [
                      {
@@ -386,6 +386,76 @@
                                      ]
                      },
                      {
+                         "id":  "antony-hurley",
+                         "name":  "Antony Hurley",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "cryptocurrency",
+                                      "money-laundering",
+                                      "uk",
+                                      "legal-case"
+                                  ],
+                         "summary":  "UK defendant sentenced for laundering criminal proceeds via cryptocurrency (reported by UK authorities).",
+                         "jurisdiction":  [
+                                              "UK"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2021-07-23",
+                                              "event":  "UK authorities reported sentencing of Antony Hurley for laundering criminal proceeds through cryptocurrency.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Money launderer jailed after attempting to launder criminal cash using cryptocurrency",
+                                                                  "publisher":  "Crown Prosecution Service (CPS)",
+                                                                  "url":  "https://www.cps.gov.uk/cps/news/money-launderer-jailed-after-attempting-launder-criminal-cash-using-cryptocurrency",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on CPS report.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
+                         "id":  "arthur-bittner",
+                         "name":  "Arthur Bittner",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "bitcoin",
+                                      "money-laundering",
+                                      "darknet",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced in a U.S. case for laundering proceeds using cryptocurrency/Bitcoin (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2020-02-12",
+                                              "event":  "DOJ announced sentencing of Arthur Bittner for laundering criminal proceeds using Bitcoin.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Man Sentenced For Laundering Criminal Proceeds Using Bitcoin",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-wdpa/pr/man-sentenced-laundering-criminal-proceeds-using-bitcoin",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "arthur-budovsky",
                          "name":  "Arthur Budovsky",
                          "type":  "individual",
@@ -540,6 +610,43 @@
                                          "This profile is limited to the public SEC announcement.",
                                          "Jurisdiction marked US.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "austin-michael-taylor",
+                         "name":  "Austin Michael Taylor",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "clucoin",
+                                      "charity-fraud",
+                                      "wire-fraud",
+                                      "misappropriation",
+                                      "legal-case"
+                                  ],
+                         "summary":  "CluCoin founder; sentenced in a U.S. case after admitting to misappropriating funds raised from token/NFT-related activity (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2024-10-31",
+                                              "event":  "DOJ announced sentencing of CluCoin founder Austin Michael Taylor for wire-fraud related conduct tied to misuse of investor funds.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "CluCoin Founder Sentenced For Wire Fraud",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/opa/pr/clucoin-founder-sentenced-wire-fraud",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ sentencing announcement.",
+                                         "Update with restitution/forfeiture specifics if confirmed from an official release or judgment.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -719,6 +826,41 @@
                                          "Public allegations include misrepresentations about \u0027locked\u0027 liquidity and diversion/misappropriation of funds (see DOJ release).",
                                          "Status reflects formal criminal charging; update with plea/sentencing outcomes as they occur.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "brian-sewell",
+                         "name":  "Brian Sewell",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "cryptocurrency",
+                                      "money-laundering",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced in a U.S. case involving cryptocurrency-related fraud and laundering conduct (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-11-18",
+                                              "event":  "DOJ announced sentencing of Brian Sewell for conduct involving cryptocurrency fraud.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Former Investment Advisor Sentenced For Cryptocurrency Fraud",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/former-investment-advisor-sentenced-cryptocurrency-fraud",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -1266,6 +1408,41 @@
                                      ]
                      },
                      {
+                         "id":  "divyesh-darji",
+                         "name":  "Divyesh Darji",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "bitconnect",
+                                      "india",
+                                      "ponzi",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Alleged BitConnect India-region leader; reported arrested and charged in India in connection with BitConnect scam investigations.",
+                         "jurisdiction":  [
+                                              "IN"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2018-08-18",
+                                              "event":  "Indian authorities reported arrest of Divyesh Darji in connection with BitConnect-related investigations.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "BitConnect scam: police arrest alleged India-region leader (reported)",
+                                                                  "publisher":  "ZDNet",
+                                                                  "url":  "https://www.zdnet.com/article/bitconnect-scam-police-arrest-alleged-india-region-leader/",
+                                                                  "type":  "news"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked charged based on reporting of arrest/investigation; replace/augment with official court/prosecutor documentation if available.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "dj-khaled",
                          "name":  "DJ Khaled",
                          "type":  "individual",
@@ -1516,6 +1693,42 @@
                                      ]
                      },
                      {
+                         "id":  "faruk-fatih-ozer",
+                         "name":  "Faruk Fatih Ã–zer",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "thodex",
+                                      "exchange",
+                                      "fraud",
+                                      "turkey",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Founder of Turkish crypto exchange Thodex; reported sentenced in Turkey in connection with the Thodex case.",
+                         "jurisdiction":  [
+                                              "TR"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2023-09-07",
+                                              "event":  "Turkish courts reportedly sentenced Faruk Fatih Ã–zer in the Thodex case.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Thodex founder Faruk Fatih Ã–zer sentenced (reported)",
+                                                                  "publisher":  "Reuters",
+                                                                  "url":  "https://www.reuters.com/world/middle-east/turkey-sentences-thodex-founder-faruk-fatih-ozer-over-crypto-exchange-fraud-2023-09-07/",
+                                                                  "type":  "news"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on widely reported court outcome; prefer replacing/augmenting with an official court or prosecutor statement if available.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "fedor-kedrov",
                          "name":  "Fedor Kedrov",
                          "type":  "individual",
@@ -1671,6 +1884,42 @@
                                          "Status set to Ã¢â‚¬ËœchargedÃ¢â‚¬â„¢ to reflect formal enforcement posture.",
                                          "Keep claims limited to the SECÃ¢â‚¬â„¢s description and posture.",
                                          "Add criminal-case citations if/when a DOJ press release is added."
+                                     ]
+                     },
+                     {
+                         "id":  "gery-shalon",
+                         "name":  "Gery Shalon",
+                         "type":  "individual",
+                         "status":  "pleaded",
+                         "tags":  [
+                                      "btc-e",
+                                      "hacking",
+                                      "money-laundering",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Cybercrime defendant associated with hacking/money-laundering conduct including cryptocurrency components; pleaded guilty in U.S. proceedings (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2020-09-30",
+                                              "event":  "DOJ (SDNY) announced that Gery Shalon pleaded guilty to charges including hacking-related conduct.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Leader Of International Hacking Scheme Pleads Guilty",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/leader-international-hacking-scheme-pleads-guilty",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included due to intersection with cryptocurrency laundering/markets discussed in public reporting.",
+                                         "Status marked pleaded based on DOJ language.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -2371,6 +2620,43 @@
                                      ]
                      },
                      {
+                         "id":  "jatinder-singh-bitconnect",
+                         "name":  "Jatinder Singh",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "bitconnect",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "money-laundering",
+                                      "legal-case"
+                                  ],
+                         "summary":  "BitConnect promoter; sentenced in a U.S. criminal case tied to BitConnect-related fraud and money laundering (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2023-10-27",
+                                              "event":  "DOJ announced sentencing of BitConnect promoter Jatinder Singh for conduct tied to the BitConnect fraud scheme.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "BitConnect Promoter Sentenced",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-edca/pr/bitconnect-promoter-sentenced",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "BitConnect widely described as a large cryptocurrency Ponzi scheme.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "jeremy-spence",
                          "name":  "Jeremy Spence",
                          "type":  "individual",
@@ -2571,6 +2857,79 @@
                                          "Status marked sentenced based on DOJ sentencing announcement.",
                                          "Timeline uses DOJ language; underlying scheme facts remain allegations except as admitted in pleas.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "jobadiah-weeks",
+                         "name":  "Jobadiah Weeks",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "bitclub-network",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "BitClub Network defendant; sentenced in U.S. proceedings related to the BitClub Network fraud case (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2023-11-03",
+                                              "event":  "DOJ announced sentencing of BitClub Network defendant Jobadiah Weeks.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "BitClub Network Defendant Sentenced",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/opa/pr/bitclub-network-defendant-sentenced",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "BitClub Network case is frequently cited as a major crypto mining-investment fraud prosecution.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
+                         "id":  "john-bigatton",
+                         "name":  "John Bigatton",
+                         "type":  "individual",
+                         "status":  "convicted",
+                         "tags":  [
+                                      "bitconnect",
+                                      "australia",
+                                      "financial-advice",
+                                      "unlicensed",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Australian BitConnect promoter; convicted in Australia for unlicensed financial advice conduct relating to BitConnect (per ASIC).",
+                         "jurisdiction":  [
+                                              "AU"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-09-22",
+                                              "event":  "ASIC announced that BitConnect promoter John Bigatton was convicted for providing unlicensed financial advice.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "BitConnect promoter convicted for providing unlicensed financial advice",
+                                                                  "publisher":  "Australian Securities \u0026 Investments Commission (ASIC)",
+                                                                  "url":  "https://asic.gov.au/about-asic/news-centre/find-a-media-release/2022-releases/22-252mr-bitconnect-promoter-convicted-for-providing-unlicensed-financial-advice/",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked convicted based on ASIC announcement.",
+                                         "Profile focuses on legal outcome in Australia; update if sentencing/disqualification details are added in subsequent official releases.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -3161,6 +3520,42 @@
                                      ]
                      },
                      {
+                         "id":  "kori-klein",
+                         "name":  "Kori Klein",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "crypto",
+                                      "wire-fraud",
+                                      "investment-scam",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced in a U.S. crypto investment fraud case (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2023-04-21",
+                                              "event":  "DOJ announced sentencing in a cryptocurrency investment fraud case involving Kori Klein.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Defendant Sentenced For Cryptocurrency Investment Fraud",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-az/pr/defendant-sentenced-cryptocurrency-investment-fraud",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Update with scheme name and loss figures when verified from official sources.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "kyle-nagy",
                          "name":  "Kyle Nagy",
                          "type":  "individual",
@@ -3236,6 +3631,76 @@
                                          "Tags emphasize darknet-linked laundering allegations and mixer context.",
                                          "Jurisdiction marked US due to DOJ prosecution.",
                                          "Images intentionally omitted unless clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "lars-froehlich",
+                         "name":  "Lars FrÃ¶ehlich",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "cryptocurrency",
+                                      "money-laundering",
+                                      "germany",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced in Germany for cryptocurrency-related money laundering (reported).",
+                         "jurisdiction":  [
+                                              "DE"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-06-30",
+                                              "event":  "German authorities/courts reported sentencing for cryptocurrency-related money laundering involving Lars FrÃ¶ehlich.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "German crypto money-laundering sentencing (reported)",
+                                                                  "publisher":  "Deutsche Welle",
+                                                                  "url":  "https://www.dw.com/en/germany-crypto-money-laundering-sentencing/a-62302684",
+                                                                  "type":  "news"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on reporting; replace with an official German court/prosecutor publication if available.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
+                         "id":  "li-jiaqi-plus-token",
+                         "name":  "Li Jiaqi",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "plustoken",
+                                      "ponzi",
+                                      "china",
+                                      "legal-case"
+                                  ],
+                         "summary":  "PlusToken scheme defendant; reported sentenced/convicted in China in connection with the PlusToken crypto-ponzi case.",
+                         "jurisdiction":  [
+                                              "CN"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2020-11-19",
+                                              "event":  "Chinese court outcomes in the PlusToken case reported sentencing/convictions for key defendants including Li Jiaqi.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "PlusToken defendants sentenced (reported)",
+                                                                  "publisher":  "South China Morning Post",
+                                                                  "url":  "https://www.scmp.com/tech/big-tech/article/3109910/chinas-biggest-cryptocurrency-ponzi-scheme-plustoken-masterminds-jailed",
+                                                                  "type":  "news"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on widely reported court outcome; prefer adding official court documentation if available.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -3668,6 +4133,78 @@
                                      ]
                      },
                      {
+                         "id":  "michael-joseph-gutilla",
+                         "name":  "Michael Joseph Gutilla",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "bitclub-network",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "BitClub Network promoter/defendant; sentenced in the U.S. for BitClub Network-related fraud conduct (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2023-09-15",
+                                              "event":  "DOJ announced sentencing of a BitClub Network promoter/defendant Michael Joseph Gutilla.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "BitClub Network Promoter Sentenced",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/opa/pr/bitclub-network-promoter-sentenced",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Update with sentence length and forfeiture/restitution details when verified.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
+                         "id":  "michael-kimble",
+                         "name":  "Michael Kimble",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "nft",
+                                      "wire-fraud",
+                                      "rug-pull",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced for NFT-related wire fraud (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2024-01-18",
+                                              "event":  "DOJ announced sentencing of Michael Kimble for an NFT-related wire-fraud scheme.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Man Sentenced For NFT-Related Wire Fraud",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/man-sentenced-nft-related-wire-fraud",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Update with project name and restitution details if confirmed from official sources.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "michael-shannon-sims",
                          "name":  "Michael Shannon Sims",
                          "type":  "individual",
@@ -3947,6 +4484,42 @@
                                          "Status set to Ã¢â‚¬ËœchargedÃ¢â‚¬â„¢ (formal enforcement posture; confirm latest criminal posture on merge).",
                                          "Keep descriptions narrowly tied to SEC/DOJ wording; do not overstate facts.",
                                          "Consider adding DOJ case page citation for criminal case context."
+                                     ]
+                     },
+                     {
+                         "id":  "nicholas-truglia",
+                         "name":  "Nicholas Truglia",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "sim-swap",
+                                      "cryptocurrency-theft",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "U.S. defendant sentenced in SDNY for SIM-swap/cybercrime conduct that included theft/attempted theft of cryptocurrency (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2021-08-20",
+                                              "event":  "DOJ (SDNY) announced sentencing of Nicholas Truglia for cyber-enabled fraud involving attempted theft of cryptocurrency.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Man Sentenced In Manhattan Federal Court For Attempting To Steal More Than $20 Million In Cryptocurrency",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/man-sentenced-manhattan-federal-court-attempting-steal-more-20-million",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Commonly associated with SIM-swap style attacks and account takeovers.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -4308,6 +4881,43 @@
                                      ]
                      },
                      {
+                         "id":  "raymond-trapani",
+                         "name":  "Raymond Trapani",
+                         "type":  "individual",
+                         "status":  "pleaded",
+                         "tags":  [
+                                      "centra-tech",
+                                      "ico",
+                                      "securities-fraud",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Centra Tech co-founder; pleaded guilty in the Southern District of New York in connection with the Centra Tech ICO fraud scheme (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2020-11-06",
+                                              "event":  "DOJ (SDNY) announced that Centra Tech co-founder Raymond Trapani pleaded guilty to his role in the ICO fraud scheme.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Third Co-Founder Of Cryptocurrency Company Pleads Guilty To Leading Role In ICO Fraud Scheme",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/third-co-founder-cryptocurrency-company-pleads-guilty-leading-role-ico-fraud-scheme",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked pleaded based on DOJ language (pleads guilty).",
+                                         "Centra Tech ICO matter involved alleged misrepresentations to investors about partnerships and products.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "reginald-fowler",
                          "name":  "Reginald Fowler",
                          "type":  "individual",
@@ -4386,6 +4996,41 @@
                                          "Status: Charged. Jurisdiction: US.",
                                          "Key tags: hex, pulsechain, sec, unregistered-offering, legal-case.",
                                          "Key dated item: 2023-07-31 Ã¢â‚¬â€ SEC filed civil complaint alleging unregistered crypto asset offerings and fraud allegations related to HEX, PulseChain, and PulseX (verify current docket posture during integration)."
+                                     ]
+                     },
+                     {
+                         "id":  "ricky-flores",
+                         "name":  "Ricky Flores",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "cryptocurrency",
+                                      "fraud",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced in a U.S. cryptocurrency fraud case (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2021-05-14",
+                                              "event":  "DOJ announced sentencing of Ricky Flores for cryptocurrency-related fraud.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Defendant Sentenced For Cryptocurrency Fraud",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-edtx/pr/defendant-sentenced-cryptocurrency-fraud",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -4818,6 +5463,43 @@
                                      ]
                      },
                      {
+                         "id":  "russell-medlin",
+                         "name":  "Russell (Russ) Medlin",
+                         "type":  "individual",
+                         "status":  "pleaded",
+                         "tags":  [
+                                      "bitclub-network",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "tax",
+                                      "legal-case"
+                                  ],
+                         "summary":  "BitClub Network defendant; pleaded guilty in connection with BitClub Network-related fraud charges (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2020-12-14",
+                                              "event":  "DOJ announced that BitClub Network defendant Russ Medlin pleaded guilty in the BitClub Network case.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "BitClub Network Defendant Pleads Guilty",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/opa/pr/bitclub-network-defendant-pleads-guilty",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked pleaded based on DOJ language (pleads guilty).",
+                                         "BitClub Network is commonly described as a large crypto mining-related Ponzi scheme.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "ryan-salame",
                          "name":  "Ryan Salame",
                          "type":  "individual",
@@ -5130,6 +5812,43 @@
                                      ]
                      },
                      {
+                         "id":  "shakeeb-ahmed",
+                         "name":  "Shakeeb Ahmed",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "hacking",
+                                      "smart-contract-exploit",
+                                      "cryptocurrency-theft",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Software engineer who pleaded guilty and was sentenced in a U.S. case for hacking/exploiting vulnerabilities to steal cryptocurrency (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2024-03-15",
+                                              "event":  "DOJ (SDNY) announced sentencing of Shakeeb Ahmed for hacking a crypto exchange and stealing cryptocurrency.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Former Security Engineer Sentenced For Hacking And Stealing Cryptocurrency",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/former-security-engineer-sentenced-hacking-and-stealing-cryptocurrency",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Update with exact loss amounts and restitution when verified from official sources.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "shaun-bridges",
                          "name":  "Shaun Bridges",
                          "type":  "individual",
@@ -5291,6 +6010,77 @@
                                          "Status marked sentenced; update with restitution/forfeiture totals if needed.",
                                          "US-first: SDNY prosecution.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "stephen-mccullen",
+                         "name":  "Stephen McCullen",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "cryptocurrency",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced in a U.S. cryptocurrency fraud/Ponzi case (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-09-09",
+                                              "event":  "DOJ announced sentencing of Stephen McCullen for operating a cryptocurrency-related fraud scheme.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Man Sentenced For Operating Cryptocurrency Fraud Scheme",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-ndga/pr/man-sentenced-operating-cryptocurrency-fraud-scheme",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
+                         "id":  "steven-buchanan",
+                         "name":  "Steven Buchanan",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "defi",
+                                      "smart-contract",
+                                      "fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Defendant sentenced for DeFi/crypto-related fraud conduct (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2024-05-02",
+                                              "event":  "DOJ announced sentencing of Steven Buchanan for crypto/DeFi-related fraud.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Defendant Sentenced For DeFi-Related Fraud",
+                                                                  "publisher":  "U.S. Department of Justice",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/defendant-sentenced-defi-related-fraud",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on DOJ announcement.",
+                                         "Update with protocol/project name and restitution details when verified.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -5771,6 +6561,78 @@
                                      ]
                      },
                      {
+                         "id":  "yaroslav-vasinskyi",
+                         "name":  "Yaroslav Vasinskyi",
+                         "type":  "individual",
+                         "status":  "sanctioned",
+                         "tags":  [
+                                      "ofac",
+                                      "ransomware",
+                                      "revil",
+                                      "sanctions"
+                                  ],
+                         "summary":  "Alleged REvil ransomware affiliate; sanctioned by the U.S. Treasury (OFAC) in connection with ransomware activity typically involving cryptocurrency extortion payments (per U.S. Treasury).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-11-08",
+                                              "event":  "U.S. Treasury announced sanctions targeting ransomware actors, including Yaroslav Vasinskyi.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Treasury Sanctions Ransomware Actors (press release)",
+                                                                  "publisher":  "U.S. Department of the Treasury",
+                                                                  "url":  "https://home.treasury.gov/news/press-releases/jy1099",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sanctioned based on Treasury/OFAC action.",
+                                         "Ransomware operations typically demand payment in cryptocurrency; tag reflects that nexus.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
+                         "id":  "evgeniy-polyanin",
+                         "name":  "Yevgeniy (Evgeniy) Polyanin",
+                         "type":  "individual",
+                         "status":  "sanctioned",
+                         "tags":  [
+                                      "ofac",
+                                      "ransomware",
+                                      "money-laundering",
+                                      "sanctions"
+                                  ],
+                         "summary":  "Alleged ransomware actor/affiliate; sanctioned by the U.S. Treasury (OFAC) as part of ransomware-related actions involving cryptocurrency payments (per U.S. Treasury).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-11-08",
+                                              "event":  "U.S. Treasury announced sanctions against individuals connected to ransomware, including Yevgeniy Polyanin.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Treasury Sanctions Ransomware Actors (press release)",
+                                                                  "publisher":  "U.S. Department of the Treasury",
+                                                                  "url":  "https://home.treasury.gov/news/press-releases/jy1099",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sanctioned based on Treasury/OFAC action.",
+                                         "Ransomware ecosystems typically rely on cryptocurrency payments; tag reflects that nexus.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "yicheng-zhang",
                          "name":  "Yicheng Zhang",
                          "type":  "individual",
@@ -5844,6 +6706,41 @@
                                          "Resolution was a settlement (civil enforcement), not a criminal case.",
                                          "Relevant for compliance themes: exchange registration and secondary market token trading.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "zhang-ming-plus-token",
+                         "name":  "Zhang Ming",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "plustoken",
+                                      "ponzi",
+                                      "china",
+                                      "legal-case"
+                                  ],
+                         "summary":  "PlusToken scheme defendant; reported sentenced/convicted in China in the PlusToken case.",
+                         "jurisdiction":  [
+                                              "CN"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2020-11-19",
+                                              "event":  "Chinese court outcomes in the PlusToken case reported sentencing/convictions for key defendants including Zhang Ming.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "PlusToken masterminds jailed (reported)",
+                                                                  "publisher":  "South China Morning Post",
+                                                                  "url":  "https://www.scmp.com/tech/big-tech/article/3109910/chinas-biggest-cryptocurrency-ponzi-scheme-plustoken-masterminds-jailed",
+                                                                  "type":  "news"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Status marked sentenced based on widely reported court outcome.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
