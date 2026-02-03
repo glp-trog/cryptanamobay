@@ -8,6 +8,30 @@ if (-not $wavePath) { throw 'Usage: merge-wave.ps1 <wave.json>' }
 $base = Get-Content $basePath -Raw | ConvertFrom-Json
 $wave = Get-Content $wavePath -Raw | ConvertFrom-Json
 
+# Optional: normalize incoming IDs using scripts/id-aliases.json (if present)
+$aliasesPath = Join-Path $PSScriptRoot 'id-aliases.json'
+$aliases = @{}
+if (Test-Path $aliasesPath) {
+  $aliasesJson = Get-Content $aliasesPath -Raw | ConvertFrom-Json
+  if ($aliasesJson.aliases) {
+    foreach ($k in $aliasesJson.aliases.PSObject.Properties.Name) {
+      $aliases[$k] = $aliasesJson.aliases.$k
+    }
+  }
+}
+
+$rewrites = 0
+foreach ($p in $wave) {
+  if ($p.id -and $aliases.ContainsKey($p.id)) {
+    $old = $p.id
+    $p.id = $aliases[$old]
+    $rewrites++
+  }
+}
+if ($rewrites -gt 0) {
+  Write-Host "Normalized IDs via aliases: rewrote=$rewrites" 
+}
+
 # index existing
 $map = @{}
 foreach ($p in $base.profiles) { $map[$p.id] = $p }
