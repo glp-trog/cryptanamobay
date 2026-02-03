@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updatedAt": "2026-02-03",
   "profiles": [
     {
@@ -36,6 +36,44 @@
         "The release text (as indexed) names Adam Davis and describes restitution and imprisonment.",
         "The case is framed by DOJ as theft of cryptocurrency from a victim.",
         "Images omitted (null) absent clear rights/licensing for a portrait."
+      ]
+    },
+    {
+      "id": "agustin-carstens",
+      "name": "Agustín Carstens",
+      "type": "individual",
+      "status": "public_official",
+      "tags": [
+        "BIS",
+        "central-banking",
+        "financial-stability",
+        "crypto",
+        "press-release"
+      ],
+      "summary": "General Manager of the Bank for International Settlements (BIS); senior central banking figure whose public remarks frequently address cryptoassets and financial stability.",
+      "jurisdiction": [
+        "CH"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2016-12-01",
+          "event": "BIS announced the appointment of Agustín Carstens as General Manager (effective 1 October 2017).",
+          "sources": [
+            {
+              "title": "Agustín Carstens appointed as BIS General Manager",
+              "publisher": "Bank for International Settlements (BIS)",
+              "url": "https://www.bis.org/press/p161201.htm",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Appointed by the BIS Board as General Manager (per BIS press release; effective 1 October 2017).",
+        "BIS is headquartered in Basel, Switzerland and convenes central banks on global monetary and financial stability issues.",
+        "As BIS General Manager, Carstens has been a high-profile voice on the risks and policy questions raised by cryptoassets and tokenised finance.",
+        "Images omitted (null) to avoid portrait licensing uncertainty."
       ]
     },
     {
@@ -804,6 +842,44 @@
       ]
     },
     {
+      "id": "benoit-coeure",
+      "name": "Benoît Cœuré",
+      "type": "individual",
+      "status": "public_official",
+      "tags": [
+        "BIS",
+        "Innovation Hub",
+        "fintech",
+        "stablecoins",
+        "payments"
+      ],
+      "summary": "Head of the BIS Innovation Hub (appointed by BIS Board); involved in international central bank collaboration on fintech topics including stablecoins, tokenisation, and payment infrastructure.",
+      "jurisdiction": [
+        "CH"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2019-11-11",
+          "event": "BIS announced Benoît Cœuré’s appointment to head the BIS Innovation Hub (starting 15 January 2020).",
+          "sources": [
+            {
+              "title": "Benoît Cœuré appointed to head BIS Innovation Hub",
+              "publisher": "Bank for International Settlements (BIS)",
+              "url": "https://www.bis.org/press/p191111.htm",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Appointed by the BIS Board of Directors to lead the BIS Innovation Hub (start date 15 January 2020, per BIS press release).",
+        "The BIS Innovation Hub focuses on central bank collaboration on financial technology, including areas relevant to cryptoassets and tokenised payments.",
+        "BIS noted his involvement in international work on global stablecoins and payments/market infrastructures.",
+        "Images omitted (null) to avoid portrait licensing/rights ambiguity."
+      ]
+    },
+    {
       "id": "blake-benthall",
       "name": "Blake Benthall",
       "type": "individual",
@@ -1364,6 +1440,40 @@
       ]
     },
     {
+      "id": "daniel-schatt",
+      "name": "Daniel Schatt",
+      "type": "individual",
+      "status": "charged_or_litigated",
+      "tags": [
+        "USAO-NDCA",
+        "case"
+      ],
+      "summary": "Listed as a defendant on an official DOJ USAO-NDCA case page (U.S. v. Daniel Schatt and Joseph Podulka …).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": null,
+          "event": "DOJ case page entry referencing U.S. v. Daniel Schatt (and related defendants) in a listed matter.",
+          "sources": [
+            {
+              "title": "U.S. v. Daniel Schatt and Joseph Podulka, 24-CR-00243 WHA (and related)",
+              "publisher": "U.S. Department of Justice (USAO-NDCA)",
+              "url": "https://www.justice.gov/usao-ndca/us-v-daniel-schatt-and-joseph-podulka-24-cr-00243-wha-and-us-v-james-alexander-24-cr",
+              "type": "case-page"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Included based on DOJ-hosted case page listing.",
+        "This entry is derived from the case page URL and caption.",
+        "Images omitted (null) absent clear rights/licensing for a portrait."
+      ]
+    },
+    {
       "id": "daniel-schatt-cred",
       "name": "Daniel Schatt",
       "type": "individual",
@@ -1397,40 +1507,6 @@
         "Case page summarizes alleged misrepresentations about lending practices, hedging, solvency, and insurance coverage.",
         "Status marked charged based on indictment posture.",
         "Images omitted (null) absent clear CC/PD verification."
-      ]
-    },
-    {
-      "id": "daniel-schatt",
-      "name": "Daniel Schatt",
-      "type": "individual",
-      "status": "charged_or_litigated",
-      "tags": [
-        "USAO-NDCA",
-        "case"
-      ],
-      "summary": "Listed as a defendant on an official DOJ USAO-NDCA case page (U.S. v. Daniel Schatt and Joseph Podulka …).",
-      "jurisdiction": [
-        "US"
-      ],
-      "images": null,
-      "timeline": [
-        {
-          "date": null,
-          "event": "DOJ case page entry referencing U.S. v. Daniel Schatt (and related defendants) in a listed matter.",
-          "sources": [
-            {
-              "title": "U.S. v. Daniel Schatt and Joseph Podulka, 24-CR-00243 WHA (and related)",
-              "publisher": "U.S. Department of Justice (USAO-NDCA)",
-              "url": "https://www.justice.gov/usao-ndca/us-v-daniel-schatt-and-joseph-podulka-24-cr-00243-wha-and-us-v-james-alexander-24-cr",
-              "type": "case-page"
-            }
-          ]
-        }
-      ],
-      "details": [
-        "Included based on DOJ-hosted case page listing.",
-        "This entry is derived from the case page URL and caption.",
-        "Images omitted (null) absent clear rights/licensing for a portrait."
       ]
     },
     {
@@ -1902,6 +1978,44 @@
         "Status: Charged. Jurisdiction: US.",
         "Key tags: nft, rug-pull, wire-fraud, money-laundering, legal-case.",
         "Key dated item: 2022-03-24 Ã¢â‚¬â€ Public reporting of U.S. charges related to Ã¢â‚¬Å“FrostiesÃ¢â‚¬Â NFT fraud and money laundering allegations."
+      ]
+    },
+    {
+      "id": "fabio-panetta",
+      "name": "Fabio Panetta",
+      "type": "individual",
+      "status": "public_official",
+      "tags": [
+        "ECB",
+        "euro-area",
+        "cryptoassets",
+        "CBDC",
+        "speech"
+      ],
+      "summary": "Member of the Executive Board of the European Central Bank (ECB); prominent commentator on crypto-assets, stablecoins, and central bank digital currencies.",
+      "jurisdiction": [
+        "EU"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-04-25",
+          "event": "Delivered the ECB speech “For a few cryptos more: the Wild West of crypto finance” at Columbia University.",
+          "sources": [
+            {
+              "title": "For a few cryptos more: the Wild West of crypto finance",
+              "publisher": "European Central Bank (ECB)",
+              "url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220425~6436006db0.en.html",
+              "type": "speech"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "ECB Executive Board member with responsibilities in areas including payments and financial stability discussions.",
+        "Has delivered multiple ECB speeches analyzing crypto-asset risks and policy responses (and arguments for a CBDC as a public anchor).",
+        "The referenced speech explicitly discusses crypto-asset market dynamics and consumer/investor risk narratives.",
+        "Images omitted (null) to avoid portrait licensing/rights ambiguity."
       ]
     },
     {
@@ -2792,40 +2906,6 @@
       ]
     },
     {
-      "id": "james-alexander",
-      "name": "James Alexander",
-      "type": "individual",
-      "status": "charged_or_litigated",
-      "tags": [
-        "USAO-NDCA",
-        "case"
-      ],
-      "summary": "Referenced as a defendant in the caption of an official DOJ USAO-NDCA case page that also lists Daniel Schatt and Joseph Podulka.",
-      "jurisdiction": [
-        "US"
-      ],
-      "images": null,
-      "timeline": [
-        {
-          "date": null,
-          "event": "DOJ case page entry referencing U.S. v. James Alexander in a listed matter.",
-          "sources": [
-            {
-              "title": "U.S. v. Daniel Schatt and Joseph Podulka … and U.S. v. James Alexander …",
-              "publisher": "U.S. Department of Justice (USAO-NDCA)",
-              "url": "https://www.justice.gov/usao-ndca/us-v-daniel-schatt-and-joseph-podulka-24-cr-00243-wha-and-us-v-james-alexander-24-cr",
-              "type": "case-page"
-            }
-          ]
-        }
-      ],
-      "details": [
-        "Included based on DOJ-hosted case page listing.",
-        "This entry is derived from the case page URL/caption.",
-        "Images omitted (null) absent clear rights/licensing for a portrait."
-      ]
-    },
-    {
       "id": "james-alexander-cred",
       "name": "James Alexander",
       "type": "individual",
@@ -2859,6 +2939,40 @@
         "Case page provides a link to the Alexander indictment and court events schedule.",
         "Status marked charged based on indictment posture.",
         "Images omitted (null) absent clear CC/PD verification."
+      ]
+    },
+    {
+      "id": "james-alexander",
+      "name": "James Alexander",
+      "type": "individual",
+      "status": "charged_or_litigated",
+      "tags": [
+        "USAO-NDCA",
+        "case"
+      ],
+      "summary": "Referenced as a defendant in the caption of an official DOJ USAO-NDCA case page that also lists Daniel Schatt and Joseph Podulka.",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": null,
+          "event": "DOJ case page entry referencing U.S. v. James Alexander in a listed matter.",
+          "sources": [
+            {
+              "title": "U.S. v. Daniel Schatt and Joseph Podulka … and U.S. v. James Alexander …",
+              "publisher": "U.S. Department of Justice (USAO-NDCA)",
+              "url": "https://www.justice.gov/usao-ndca/us-v-daniel-schatt-and-joseph-podulka-24-cr-00243-wha-and-us-v-james-alexander-24-cr",
+              "type": "case-page"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Included based on DOJ-hosted case page listing.",
+        "This entry is derived from the case page URL/caption.",
+        "Images omitted (null) absent clear rights/licensing for a portrait."
       ]
     },
     {
@@ -5084,6 +5198,44 @@
       ]
     },
     {
+      "id": "nikhil-rathi",
+      "name": "Nikhil Rathi",
+      "type": "individual",
+      "status": "public_official",
+      "tags": [
+        "FCA",
+        "HM Treasury",
+        "UK",
+        "cryptoassets",
+        "financial-regulation"
+      ],
+      "summary": "Chief Executive of the UK Financial Conduct Authority (FCA); reappointed by the UK government for a further term as the FCA oversees UK cryptoasset registration and related consumer-protection policy.",
+      "jurisdiction": [
+        "GB"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-04-10",
+          "event": "UK government announced Nikhil Rathi’s reappointment as Chief Executive of the Financial Conduct Authority for a second five-year term.",
+          "sources": [
+            {
+              "title": "Nikhil Rathi reappointed as Chief Executive of the Financial Conduct Authority",
+              "publisher": "UK Government (HM Treasury) - GOV.UK",
+              "url": "https://www.gov.uk/government/news/nikhil-rathi-reappointed-as-chief-executive-of-the-financial-conduct-authority",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Serves as Chief Executive of the UK Financial Conduct Authority (FCA).",
+        "Role includes oversight of UK financial services regulation and work touching cryptoasset markets (eg, consumer warnings, registration/AML supervision where applicable).",
+        "Reappointment announced by the UK government for a further five-year term (until September 2030, per the GOV.UK announcement).",
+        "Images omitted (null) to avoid licensing/rights ambiguity for portraits."
+      ]
+    },
+    {
       "id": "nikhil-wahi",
       "name": "Nikhil Wahi",
       "type": "individual",
@@ -7061,6 +7213,44 @@
         "Included based on DOJ-hosted case page listing.",
         "Consult the DOJ page for official updates and docket/case identifiers.",
         "Images omitted (null) absent clear rights/licensing for a portrait."
+      ]
+    },
+    {
+      "id": "verena-ross",
+      "name": "Verena Ross",
+      "type": "individual",
+      "status": "public_official",
+      "tags": [
+        "ESMA",
+        "EU",
+        "MiCA",
+        "securities-regulation",
+        "speech"
+      ],
+      "summary": "Chair of the European Securities and Markets Authority (ESMA), the EU financial markets regulator; speaks publicly on EU market reforms including the Markets in Crypto-Assets Regulation (MiCA).",
+      "jurisdiction": [
+        "EU"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2026-01-28",
+          "event": "Delivered a public speech at the European Banking Summit (ESMA-published speech document).",
+          "sources": [
+            {
+              "title": "ESMA24-225943895-405 Verena Ross' speech at the European Banking Summit, 28 January 2026 (PDF)",
+              "publisher": "European Securities and Markets Authority (ESMA)",
+              "url": "https://www.esma.europa.eu/sites/default/files/2026-01/ESMA24-225943895-405_Verena_Ross_speech_European_Banking_Summit_2026.pdf",
+              "type": "speech"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Chair of ESMA, the European Union authority responsible for enhancing investor protection and promoting stable and orderly financial markets.",
+        "Public-facing role includes speeches and statements that often intersect with EU digital finance and crypto-asset policy (including MiCA implementation topics).",
+        "The linked ESMA PDF is an official publication with a dated speech reference.",
+        "Images omitted (null) to avoid portrait licensing uncertainty."
       ]
     },
     {
