@@ -82,7 +82,7 @@ function renderTable(rows){
             ${avatar}
             <div style="display:flex;flex-direction:column;gap:6px">
               <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
-                <strong>${escapeHtml(p.name)}</strong>
+                <strong><a href="./profile.html?id=${encodeURIComponent(p.id)}">${escapeHtml(p.name)}</a></strong>
                 <span class="pill ${statusClass(p.status)}">${escapeHtml(statusLabel(p.status))}</span>
               </div>
               <div class="small">${escapeHtml(p.summary||'')}</div>

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CryptanamoBay — Profile</title>
+  <meta name="description" content="Profile details with timeline and sources." />
+  <link rel="stylesheet" href="./assets/styles.css?v=20260203a" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">
+        <h1><a href="./index.html" style="color:inherit">CryptanamoBay</a></h1>
+        <p>Profile details (timeline + sources). If something is wrong, use Contact / Corrections.</p>
+      </div>
+      <div class="nav">
+        <a href="./index.html">Directory</a>
+        <a href="./pages/methodology.html">Methodology</a>
+        <a href="./pages/disclaimer.html">Disclaimer</a>
+        <a href="./pages/contact.html">Contact / Corrections</a>
+      </div>
+    </div>
+
+    <div class="panel" style="margin-top:16px">
+      <div id="pError" class="badge" style="display:none"></div>
+      <div style="display:flex;gap:14px;align-items:flex-start">
+        <div id="pAvatar" class="avatar" aria-hidden="true"></div>
+        <div style="flex:1;display:flex;flex-direction:column;gap:8px">
+          <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+            <h2 id="pName" style="margin:0;font-size:18px"></h2>
+            <div id="pStatus"></div>
+          </div>
+          <div id="pSummary" class="small"></div>
+          <div id="pMeta" class="kv" style="margin-top:6px"></div>
+        </div>
+      </div>
+
+      <div style="margin-top:14px">
+        <h3 style="margin:0 0 8px 0">Timeline</h3>
+        <div id="pTimeline" class="timeline"></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div>Data source: <code>data/profiles.json</code></div>
+    </div>
+  </div>
+
+  <script src="./assets/profile.js?v=20260203a"></script>
+</body>
+</html>
