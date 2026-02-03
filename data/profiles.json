@@ -1,7 +1,45 @@
 ﻿{
-    "version":  9,
+    "version":  10,
     "updatedAt":  "2026-02-02",
     "profiles":  [
+                     {
+                         "id":  "aleksei-andriunin",
+                         "name":  "Aleksei Andriunin",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "gotbit",
+                                      "market-manipulation",
+                                      "wash-trading",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Founder/CEO of crypto market-maker Gotbit; charged in the District of Massachusetts in connection with alleged wash-trading/market-manipulation and wire-fraud conspiracy conduct (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2024-10-31",
+                                              "event":  "DOJ (District of Massachusetts) announced an indictment charging Gotbit founder Aleksei Andriunin with conspiracy to commit market manipulation and wire fraud, and wire fraud.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Founder of Cryptocurrency Financial Services Firm \"Gotbit\" Indicted for Market Manipulation and Fraud Conspiracy",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-D. Mass.)",
+                                                                  "url":  "https://www.justice.gov/usao-ma/pr/founder-cryptocurrency-financial-services-firm-gotbit-indicted-market-manipulation-and",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "DOJ release alleges Gotbit provided wash-trading services to create artificial trading volume for client crypto projects.",
+                                         "Status reflects formal U.S. criminal charges; allegations remain unproven unless adjudicated.",
+                                         "Jurisdiction marked US due to federal prosecution.",
+                                         "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
                      {
                          "id":  "alex-mashinsky",
                          "name":  "Alex Mashinsky",
@@ -1056,6 +1094,80 @@
                                      ]
                      },
                      {
+                         "id":  "david-brend-icomtech",
+                         "name":  "David Brend",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "icomtech",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "IcomTech defendant/promoter referenced in SDNY public case-page materials (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-12-14",
+                                              "event":  "DOJ (SDNY) case page lists David Brend among defendants charged in the IcomTech wire-fraud conspiracy indictment.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "U.S. v. David Carmona, et al., 22 Cr. 551 (JLR) (IcomTech)",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/us-v-david-carmona-et-al-22-cr-551-jlr-icomtech",
+                                                                  "type":  "case-page"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included as individual accountability in the IcomTech case.",
+                                         "Status marked charged based on DOJ case-page posture.",
+                                         "Update with plea/sentencing outcomes when verified.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
+                         "id":  "david-carmona-icomtech",
+                         "name":  "David Carmona",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "icomtech",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Founder of IcomTech; identified as a defendant in SDNY proceedings related to an alleged crypto-MLM/Ponzi scheme (per DOJ SDNY case page).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-12-14",
+                                              "event":  "DOJ (SDNY) case page notes the unsealing/announcement of an indictment charging David Carmona and others with conspiracy to commit wire fraud based on their involvement with IcomTech.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "U.S. v. David Carmona, et al., 22 Cr. 551 (JLR) (IcomTech)",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/us-v-david-carmona-et-al-22-cr-551-jlr-icomtech",
+                                                                  "type":  "case-page"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Profile is limited to information in DOJ SDNY public case-page updates.",
+                                         "Status marked charged based on indictment/case-page posture.",
+                                         "Update status (plea/sentencing) as additional official releases/docket updates become available.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "david-saffron",
                          "name":  "David Saffron",
                          "type":  "individual",
@@ -1300,6 +1412,43 @@
                                      ]
                      },
                      {
+                         "id":  "fedor-kedrov",
+                         "name":  "Fedor Kedrov",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "gotbit",
+                                      "market-manipulation",
+                                      "wash-trading",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Gotbit director (Director of Market Making); charged as part of the Gotbit market-manipulation/wash-trading case described by DOJ (per USAO-D. Mass.).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2024-10-31",
+                                              "event":  "DOJ (District of Massachusetts) press release describing the Gotbit indictment identifies Gotbit directors as co-defendants.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Founder of Cryptocurrency Financial Services Firm \"Gotbit\" Indicted for Market Manipulation and Fraud Conspiracy",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-D. Mass.)",
+                                                                  "url":  "https://www.justice.gov/usao-ma/pr/founder-cryptocurrency-financial-services-firm-gotbit-indicted-market-manipulation-and",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included as an individual accountability profile tied to the Gotbit prosecution.",
+                                         "Status marked charged based on DOJ announcement.",
+                                         "Timeline anchored to the USAO-D. Mass. public release.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "flavio-goncalves",
                          "name":  "Flavio Goncalves",
                          "type":  "individual",
@@ -1534,6 +1683,43 @@
                                          "Status marked pleaded based on DOJ guilty-plea announcement.",
                                          "US-first: DOJ BSA/AML enforcement.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "gustavo-rodriguez-icomtech",
+                         "name":  "Gustavo Rodriguez",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "icomtech",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "IcomTech defendant referenced in SDNY public case-page materials (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-12-14",
+                                              "event":  "DOJ (SDNY) case page lists Gustavo Rodriguez among defendants charged in the IcomTech wire-fraud conspiracy indictment.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "U.S. v. David Carmona, et al., 22 Cr. 551 (JLR) (IcomTech)",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/us-v-david-carmona-et-al-22-cr-551-jlr-icomtech",
+                                                                  "type":  "case-page"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included as individual accountability in the IcomTech case.",
+                                         "Status marked charged based on DOJ case-page posture.",
+                                         "Update with plea/sentencing outcomes when verified.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -2366,6 +2552,43 @@
                                      ]
                      },
                      {
+                         "id":  "joseph-oconnor",
+                         "name":  "Joseph James O\u0027Connor",
+                         "type":  "individual",
+                         "status":  "pleaded",
+                         "tags":  [
+                                      "hacking",
+                                      "sim-swap",
+                                      "cryptocurrency-theft",
+                                      "legal-case"
+                                  ],
+                         "summary":  "U.K. citizen (aka â€œPlugwalkJoeâ€); DOJ SDNY announced extradition and guilty plea to cybercrime offenses involving, among other conduct, theft/diversion of cryptocurrency (per DOJ).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2023-06-23",
+                                              "event":  "DOJ (SDNY) announced that U.K. citizen Joseph James Oâ€™Connor was extradited and pleaded guilty to cybercrime offenses, including conduct involving theft/diversion of cryptocurrency.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "U.K. Citizen Extradited And Pleads Guilty To Cybercrime Offenses",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/uk-citizen-extradited-and-pleads-guilty-cybercrime-offenses",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "DOJ press release describes multiple cybercrime counts and includes conduct involving stolen cryptocurrency.",
+                                         "Status marked pleaded based on DOJ language (pleads guilty).",
+                                         "Jurisdiction marked US due to SDNY prosecution.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "joseph-wong",
                          "name":  "Joseph Wong",
                          "type":  "individual",
@@ -2439,6 +2662,43 @@
                                          "Status marked charged; confirm any later plea or sentencing.",
                                          "Maintain careful language: allegations remain allegations unless adjudicated.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "juan-arellano-icomtech",
+                         "name":  "Juan Arellano",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "icomtech",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "IcomTech defendant/promoter referenced in SDNY public case-page materials (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-12-14",
+                                              "event":  "DOJ (SDNY) case page lists Juan Arellano among defendants charged in the IcomTech wire-fraud conspiracy indictment.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "U.S. v. David Carmona, et al., 22 Cr. 551 (JLR) (IcomTech)",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/us-v-david-carmona-et-al-22-cr-551-jlr-icomtech",
+                                                                  "type":  "case-page"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included as individual accountability in the IcomTech case.",
+                                         "Status marked charged based on DOJ case-page posture.",
+                                         "Add plea/sentencing outcomes when verified.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -2592,6 +2852,44 @@
                                          "Case framing centers on alleged AML/BSA compliance failures and U.S.-facing operations (see DOJ release).",
                                          "Prefer updating this profile with indictment/docket details when available.",
                                          "Images intentionally omitted unless a clear CC/PD photo is located."
+                                     ]
+                     },
+                     {
+                         "id":  "keonne-rodriguez-samourai",
+                         "name":  "Keonne Rodriguez",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "samourai-wallet",
+                                      "mixer",
+                                      "money-transmitting",
+                                      "money-laundering",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Samourai Wallet co-founder/CEO; sentenced in a U.S. case involving operation of an unlicensed money transmitting business and transmission of criminal proceeds (per IRS-CI release).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2025-11-19",
+                                              "event":  "IRS Criminal Investigation announced sentencing of Samourai Wallet co-founders for a conspiracy to operate an illegal money transmitting business and for laundering criminal proceeds.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Founders of Samourai Wallet cryptocurrency mixing service sentenced to five and four years in prison",
+                                                                  "publisher":  "Internal Revenue Service (IRS-CI)",
+                                                                  "url":  "https://www.irs.gov/compliance/criminal-investigation/founders-of-samourai-wallet-cryptocurrency-mixing-service-sentenced-to-five-and-four-years-in-prison",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "IRS-CI release describes Samourai as a cryptocurrency mixer facilitating substantial volumes of illegal transactions.",
+                                         "Status marked sentenced based on IRS-CI announcement.",
+                                         "Jurisdiction marked US.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -2899,6 +3197,43 @@
                                          "Status marked convicted based on DOJ release.",
                                          "Consider adding SEC parallel actions if needed for a fuller record.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "marco-ruiz-ochoa-icomtech",
+                         "name":  "Marco Ruiz Ochoa",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "icomtech",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "IcomTech defendant/promoter referenced in SDNY public case-page materials (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-12-14",
+                                              "event":  "DOJ (SDNY) case page lists Marco Ruiz Ochoa among defendants charged in the IcomTech wire-fraud conspiracy indictment.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "U.S. v. David Carmona, et al., 22 Cr. 551 (JLR) (IcomTech)",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/us-v-david-carmona-et-al-22-cr-551-jlr-icomtech",
+                                                                  "type":  "case-page"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included as individual accountability in the IcomTech case.",
+                                         "Status marked charged based on DOJ case-page posture.",
+                                         "Prefer updating this profile with plea/sentencing details when verified from an official release or docket update.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -3247,6 +3582,43 @@
                                          "Case illustrates cryptocurrency used as a transfer mechanism in terror-financing conduct.",
                                          "Status marked sentenced based on DOJ sentencing announcement.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "moses-valdez-icomtech",
+                         "name":  "Moses Valdez",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "icomtech",
+                                      "ponzi",
+                                      "wire-fraud",
+                                      "legal-case"
+                                  ],
+                         "summary":  "IcomTech defendant/promoter referenced in SDNY public case-page materials (per DOJ SDNY).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2022-12-14",
+                                              "event":  "DOJ (SDNY) case page lists Moses Valdez among defendants charged in the IcomTech wire-fraud conspiracy indictment.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "U.S. v. David Carmona, et al., 22 Cr. 551 (JLR) (IcomTech)",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/us-v-david-carmona-et-al-22-cr-551-jlr-icomtech",
+                                                                  "type":  "case-page"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included as individual accountability in the IcomTech case.",
+                                         "Status marked charged based on DOJ case-page posture.",
+                                         "Add plea/sentencing outcomes when verified.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -3608,6 +3980,43 @@
                                      ]
                      },
                      {
+                         "id":  "qawi-jalili",
+                         "name":  "Qawi Jalili",
+                         "type":  "individual",
+                         "status":  "charged",
+                         "tags":  [
+                                      "gotbit",
+                                      "market-manipulation",
+                                      "wash-trading",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Gotbit director (Director of Sales); charged as part of the Gotbit market-manipulation/wash-trading case described by DOJ (per USAO-D. Mass.).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2024-10-31",
+                                              "event":  "DOJ (District of Massachusetts) press release describing the Gotbit indictment identifies Gotbit directors as co-defendants.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Founder of Cryptocurrency Financial Services Firm \"Gotbit\" Indicted for Market Manipulation and Fraud Conspiracy",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-D. Mass.)",
+                                                                  "url":  "https://www.justice.gov/usao-ma/pr/founder-cryptocurrency-financial-services-firm-gotbit-indicted-market-manipulation-and",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "Included as an individual accountability profile tied to the Gotbit prosecution.",
+                                         "Status marked charged based on DOJ announcement.",
+                                         "Timeline anchored to the USAO-D. Mass. public release.",
+                                         "Images omitted (null) absent clear CC/PD verification."
+                                     ]
+                     },
+                     {
                          "id":  "randall-crater",
                          "name":  "Randall Crater",
                          "type":  "individual",
@@ -3652,34 +4061,35 @@
                          "status":  "sentenced",
                          "tags":  [
                                       "crypto-capital",
-                                      "money-laundering",
-                                      "unlicensed-money-transmitting",
+                                      "shadow-banking",
+                                      "money-transmitting",
+                                      "bank-fraud",
                                       "legal-case"
                                   ],
-                         "summary":  "Principal associated with Crypto Capital; sentenced in SDNY for bank fraud / unlicensed money transmitting conduct tied to crypto-related payment processing (per DOJ public releases).",
+                         "summary":  "Former co-owner of the Minnesota Vikings; sentenced in SDNY for conduct described by DOJ as providing shadow-banking services and operating an illegal money-transmission business for cryptocurrency clients (per DOJ SDNY).",
                          "jurisdiction":  [
                                               "US"
                                           ],
                          "images":  null,
                          "timeline":  [
                                           {
-                                              "date":  "2022-06-14",
-                                              "event":  "DOJ (SDNY) announced the sentencing of Reginald Fowler in a case involving an unlicensed money transmitting business and related conduct.",
+                                              "date":  "2023-06-05",
+                                              "event":  "DOJ (SDNY) announced sentencing of former Minnesota Vikings co-owner Reginald Fowler for providing shadow-banking services and related offenses.",
                                               "sources":  [
                                                               {
-                                                                  "title":  "Reginald Fowler Sentenced For Running Unlicensed Money Transmitting Business",
-                                                                  "publisher":  "U.S. Department of Justice (SDNY)",
-                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/reginald-fowler-sentenced-running-unlicensed-money-transmitting-business",
+                                                                  "title":  "Former Co-Owner Of Minnesota Vikings Sentenced To 75 Months In Prison For Providing Shadow Banking Services To Cryptocurrency Industry",
+                                                                  "publisher":  "U.S. Department of Justice (USAO-SDNY)",
+                                                                  "url":  "https://www.justice.gov/usao-sdny/pr/former-co-owner-minnesota-vikings-sentenced-75-months-prison-providing-shadow-banking",
                                                                   "type":  "press-release"
                                                               }
                                                           ]
                                           }
                                       ],
                          "details":  [
-                                         "Associated in public reporting and filings with Crypto Capital-style payment processing for crypto businesses.",
-                                         "Status marked sentenced based on DOJ sentencing announcement.",
-                                         "Prefer later enrichment: add docket number and forfeiture/restitution specifics.",
-                                         "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                         "Status marked sentenced based on DOJ SDNY announcement.",
+                                         "Case is frequently discussed as part of the crypto-industry â€˜shadow bankingâ€™/payment processing ecosystem.",
+                                         "Jurisdiction marked US.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
@@ -4929,6 +5339,44 @@
                                          "Relevance to crypto stems from Ethereum expertise and alleged services provided.",
                                          "Jurisdiction marked US.",
                                          "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+                                     ]
+                     },
+                     {
+                         "id":  "william-lonergan-hill-samourai",
+                         "name":  "William Lonergan Hill",
+                         "type":  "individual",
+                         "status":  "sentenced",
+                         "tags":  [
+                                      "samourai-wallet",
+                                      "mixer",
+                                      "money-transmitting",
+                                      "money-laundering",
+                                      "legal-case"
+                                  ],
+                         "summary":  "Samourai Wallet co-founder/CTO; sentenced in a U.S. case involving operation of an unlicensed money transmitting business and transmission of criminal proceeds (per IRS-CI release).",
+                         "jurisdiction":  [
+                                              "US"
+                                          ],
+                         "images":  null,
+                         "timeline":  [
+                                          {
+                                              "date":  "2025-11-19",
+                                              "event":  "IRS Criminal Investigation announced sentencing of Samourai Wallet co-founders for a conspiracy to operate an illegal money transmitting business and for laundering criminal proceeds.",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Founders of Samourai Wallet cryptocurrency mixing service sentenced to five and four years in prison",
+                                                                  "publisher":  "Internal Revenue Service (IRS-CI)",
+                                                                  "url":  "https://www.irs.gov/compliance/criminal-investigation/founders-of-samourai-wallet-cryptocurrency-mixing-service-sentenced-to-five-and-four-years-in-prison",
+                                                                  "type":  "press-release"
+                                                              }
+                                                          ]
+                                          }
+                                      ],
+                         "details":  [
+                                         "IRS-CI release describes Hill as Samouraiâ€™s Chief Technology Officer.",
+                                         "Status marked sentenced based on IRS-CI announcement.",
+                                         "Jurisdiction marked US.",
+                                         "Images omitted (null) absent clear CC/PD verification."
                                      ]
                      },
                      {
