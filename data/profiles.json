@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-02-02",
   "profiles": [
     {
@@ -227,6 +227,46 @@
         "Bitzlato has been publicly described as a high-risk exchange in AML enforcement contexts.",
         "Status is set to ‘pleaded’ based on DOJ language (pleaded guilty).",
         "Add sentencing/docket updates as they become available."
+      ]
+    },
+    {
+      "id": "andean-medjedovic",
+      "name": "Andean Medjedovic",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "defi",
+        "kyberswap",
+        "indexed-finance",
+        "smart-contract-exploit",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Canadian man charged in EDNY for alleged DeFi protocol exploits (KyberSwap and Indexed Finance) and related money laundering and extortion offenses (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-02-03",
+          "event": "DOJ announced an unsealed indictment in New York charging Andean Medjedovic with offenses related to alleged exploits of the KyberSwap and Indexed Finance DeFi protocols and related laundering/extortion conduct.",
+          "sources": [
+            {
+              "title": "Canadian Man Charged in $65M Cryptocurrency Hacking Schemes",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/canadian-man-charged-65m-cryptocurrency-hacking-schemes",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ alleges exploitation of smart-contract vulnerabilities and deceptive trading to withdraw investor funds at artificial prices.",
+        "Press release alleges subsequent laundering through swaps/bridges and use of a digital-asset mixer.",
+        "Also alleges an attempted extortion/sham settlement demand tied to the KyberSwap incident.",
+        "Status reflects formal U.S. criminal charges; allegations remain unproven unless adjudicated.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -678,6 +718,44 @@
       ]
     },
     {
+      "id": "changgui-huang",
+      "name": "Changgui Huang",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "investment-fraud",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in an investment fraud and money laundering case tied to pig-butchering schemes (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Changgui Huang and others in alleged investment fraud and money laundering schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges participation in laundering proceeds from pig-butchering investment fraud.",
+        "Allegations include use of bank and cryptocurrency accounts opened under false names.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with docket developments as they become available.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "changpeng-zhao",
       "name": "Changpeng Zhao (CZ)",
       "type": "individual",
@@ -772,6 +850,85 @@
       ]
     },
     {
+      "id": "chen-chen-edny",
+      "name": "Chen Chen",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "investment-fraud",
+        "money-laundering",
+        "identity-theft",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in a pig-butchering investment fraud and money laundering case (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Chen Chen and others in alleged investment fraud, money laundering, and related schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release describes alleged laundering of nearly $18 million from more than 200 victims.",
+        "Allegations include opening bank and cryptocurrency accounts under false names using forged documents.",
+        "Case includes alleged wire fraud, bank fraud, money laundering, and identity-theft-related charges.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "chen-zhi-prince-group",
+      "name": "Chen Zhi",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "crypto-investment-fraud",
+        "forced-labor",
+        "money-laundering",
+        "forfeiture",
+        "legal-case"
+      ],
+      "summary": "Prince Group founder/chairman; indicted in EDNY for alleged wire-fraud and money-laundering conspiracies connected to forced-labor scam compounds and cryptocurrency investment fraud schemes (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-10-14",
+          "event": "DOJ announced an unsealed indictment charging Cambodian national Chen Zhi (aka Vincent) and a related civil forfeiture complaint tied to alleged proceeds from pig-butchering cryptocurrency investment scams.",
+          "sources": [
+            {
+              "title": "Chairman of Prince Group Indicted for Operating Cambodian Forced Labor Scam Compounds Engaged in Cryptocurrency Fraud Schemes",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ alleges direction of scam-compound operations where victims were induced to transfer cryptocurrency based on false investment promises ('pig butchering').",
+        "Press release alleges trafficking/forced labor of workers compelled to run online scams.",
+        "DOJ announcement describes a parallel civil forfeiture action targeting a large amount of bitcoin allegedly tied to the scheme.",
+        "Status reflects formal U.S. criminal charging; defendant described as at large in the DOJ release.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "chun-gan",
       "name": "Chun Gan",
       "type": "individual",
@@ -807,6 +964,82 @@
         "Case framing centers on alleged AML/BSA compliance failures and U.S.-facing operations (see DOJ release).",
         "Prefer updating this profile with indictment/docket details when available.",
         "Images intentionally omitted unless a clear CC/PD photo is located."
+      ]
+    },
+    {
+      "id": "daren-li",
+      "name": "Daren Li",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "money-laundering",
+        "crypto-investment-scams",
+        "tether",
+        "legal-case"
+      ],
+      "summary": "Foreign national who pleaded guilty to conspiracy to commit money laundering involving proceeds from cryptocurrency investment scams (per DOJ archived press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2024-11-12",
+          "event": "DOJ announced Daren Li pleaded guilty to conspiracy to commit money laundering in connection with laundering proceeds from cryptocurrency investment scams.",
+          "sources": [
+            {
+              "title": "Foreign National Pleads Guilty to Laundering Millions in Proceeds from Cryptocurrency Investment Scams",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs) — Archive",
+              "url": "https://www.justice.gov/archives/opa/pr/foreign-national-pleads-guilty-laundering-millions-proceeds-cryptocurrency-investment-scams",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes Li as a dual citizen of China and St. Kitts and Nevis.",
+        "Press release describes use of shell companies and bank accounts to receive victim funds and convert to USDT.",
+        "Status marked pleaded based on DOJ guilty-plea announcement.",
+        "Track sentencing and forfeiture announcements for later updates.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "david-saffron",
+      "name": "David Saffron",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "ponzi",
+        "crypto-investment",
+        "alleged",
+        "legal-case"
+      ],
+      "summary": "Identified by DOJ as a co-defendant in a case alleging a $13M cryptocurrency investment fraud/ponzi scheme involving Mind Capital and Cloud9Capital (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-07-28",
+          "event": "DOJ press release on Vincent Mazzotta Jr.'s guilty plea describes David Saffron as a co-defendant in the alleged $13M crypto investment fraud scheme.",
+          "sources": [
+            {
+              "title": "Arizona Man Pleads Guilty to Money Laundering Charges Related to a $13M Ponzi Scheme",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/arizona-man-pleads-guilty-money-laundering-charges-related-13m-ponzi-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ press release refers to Saffron as a co-defendant in the case; treat underlying conduct as alleged unless adjudicated.",
+        "Allegations center on promises of high-yield profits from cryptocurrency trading via purported automated trading systems.",
+        "Profile should be updated with the specific charging instrument/case disposition when a dedicated DOJ release or docket details are added.",
+        "Status set to charged based on DOJ characterization as a co-defendant.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -1175,6 +1408,45 @@
       ]
     },
     {
+      "id": "gregory-armand",
+      "name": "Gregory Armand",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "investment-fraud",
+        "money-laundering",
+        "unlicensed-money-transmitting",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in an investment fraud and money laundering case tied to pig-butchering schemes and alleged use of false identities and crypto accounts (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Gregory Armand and others in alleged investment fraud, money laundering, and unlicensed money transmitting business schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges laundering of proceeds from an investment fraud scheme involving fake trading platforms.",
+        "Press release alleges use of forged identity documents to open bank and cryptocurrency accounts.",
+        "Also alleges operation of an unlicensed money transmitting business converting cash to cashier’s checks.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "gregory-dwyer",
       "name": "Gregory Dwyer",
       "type": "individual",
@@ -1330,6 +1602,44 @@
       ]
     },
     {
+      "id": "hua-zhou-edny",
+      "name": "Hua Zhou",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "money-laundering",
+        "unlicensed-money-transmitting",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in a pig-butchering investment fraud and money laundering case (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Hua Zhou and others in alleged investment fraud, money laundering, and unlicensed money transmitting business schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges laundering proceeds from pig-butchering investment fraud affecting victims nationwide.",
+        "Allegations include use of false identities and forged passports/ID.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with plea/sentencing outcomes if later announced.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "ilya-lichtenstein",
       "name": "Ilya Lichtenstein",
       "type": "individual",
@@ -1437,6 +1747,46 @@
         "Case involves alleged misuse of confidential listing information for trading advantage.",
         "Status marked pleaded based on DOJ announcement of guilty plea.",
         "Track sentencing and forfeiture/restitution orders for downstream updates.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "iurii-gugnin",
+      "name": "Iurii Gugnin",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "sanctions-evasion",
+        "money-laundering",
+        "unlicensed-money-transmitting",
+        "tether",
+        "bsa",
+        "legal-case"
+      ],
+      "summary": "Founder of Evita Investments/Evita Pay; charged in EDNY in a case alleging large-scale laundering through U.S. banks and crypto exchanges, including transactions involving sanctioned Russian banks (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-06-09",
+          "event": "DOJ announced a 22-count indictment charging Iurii Gugnin (aka Iurii Mashukov / George Goognin) for alleged sanctions/export-control evasion, fraud, BSA violations, and money laundering tied to his cryptocurrency payment company.",
+          "sources": [
+            {
+              "title": "Founder of Cryptocurrency Payment Company Charged with Evading Sanctions and Export Controls, Defrauding Financial Institutions, and Violating the Bank Secrecy Act",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/founder-cryptocurrency-payment-company-charged-evading-sanctions-and-export-controls",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ alleges use of a U.S.-based crypto payment business as a conduit to move hundreds of millions of dollars through the U.S. financial system.",
+        "Press release alleges dealings involving sanctioned Russian banks and concealment of counterparties and audit trails.",
+        "Includes alleged BSA/AML program failures and false statements in connection with money transmitter registration/licensing.",
+        "Status reflects formal U.S. criminal charging; allegations remain unproven unless adjudicated.",
         "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
@@ -1590,6 +1940,172 @@
       ]
     },
     {
+      "id": "jiahui-miao",
+      "name": "Jiahui Miao",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "money-laundering",
+        "investment-fraud",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in a pig-butchering investment fraud and money laundering case (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Jiahui Miao and others in alleged investment fraud and money laundering schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges laundering proceeds from a pig-butchering investment fraud targeting hundreds of victims.",
+        "Allegations include use of false identities and forged documentation.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with disposition details when available.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "jin-fu-zhang",
+      "name": "Jin Fu Zhang",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "money-laundering",
+        "investment-fraud",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in an investment fraud and money laundering case tied to pig-butchering schemes (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Jin Fu Zhang and others in alleged investment fraud and money laundering schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges laundering proceeds from a pig-butchering investment fraud scheme.",
+        "Allegations include use of forged identification and false names for account opening.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with docket outcomes as they occur.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "jin-hua-zhang-edny",
+      "name": "Jin Hua Zhang",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "investment-fraud",
+        "money-laundering",
+        "unlicensed-money-transmitting",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in a pig-butchering investment fraud and money laundering case alleging use of false identities and cryptocurrency accounts (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Jin Hua Zhang and other defendants in alleged investment fraud, money laundering, and unlicensed money transmitting business schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release describes a 'Sha Zu Pan'/'pig butchering' scam and laundering proceeds from more than 200 victims.",
+        "Press release alleges opening bank and cryptocurrency accounts under false names using forged identification.",
+        "Also alleges operation of an unlicensed money transmitting business converting cash into cashier’s checks.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "jingliang-su",
+      "name": "Jingliang Su",
+      "type": "individual",
+      "status": "sentenced",
+      "tags": [
+        "pig-butchering",
+        "money-transmitting",
+        "tether",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Chinese national sentenced to 46 months for role in laundering proceeds from a digital-asset investment scam conspiracy targeting Americans (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-06-01",
+          "event": "DOJ states Jingliang Su pleaded guilty (June 2025) to conspiracy to operate an illegal/unlicensed money transmitting business in the scam-center laundering case.",
+          "sources": [
+            {
+              "title": "Chinese National Sentenced to Prison for Role in Crypto Scam Targeting Americans",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans",
+              "type": "press-release"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-27",
+          "event": "DOJ announced Jingliang Su was sentenced to 46 months in prison and ordered to pay restitution for his role in laundering proceeds from a digital-asset investment scam conspiracy.",
+          "sources": [
+            {
+              "title": "Chinese National Sentenced to Prison for Role in Crypto Scam Targeting Americans",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes the scheme as run from scam centers in Cambodia and involving fake 'cryptocurrency trading platform' websites.",
+        "Press release describes conversion of victim funds to USDT and transfers to wallets controlled in Cambodia.",
+        "Status marked sentenced based on DOJ sentencing announcement.",
+        "Timeline uses DOJ language; underlying scheme facts remain allegations except as admitted in pleas.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "john-mcafee",
       "name": "John McAfee",
       "type": "individual",
@@ -1631,6 +2147,95 @@
         "Cybersecurity entrepreneur; included due to publicly reported U.S. criminal charges related to crypto promotion/tax matters (verify posture in cited sources).",
         "Ensure any claims about outcomes are supported by official or primary documentation before adding them.",
         "If expanding, prefer DOJ press releases and charging documents."
+      ]
+    },
+    {
+      "id": "jose-somarriba",
+      "name": "Jose Somarriba",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "axis-digital",
+        "money-transmitting",
+        "tether",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Axis Digital-related defendant; DOJ announced his guilty plea in a scam-center digital-asset investment fraud money-laundering case (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-04-14",
+          "event": "DOJ states Jose Somarriba pleaded guilty to conspiracy to operate an unlicensed money transmitting business in the Axis Digital scam-center laundering case.",
+          "sources": [
+            {
+              "title": "California Man Sentenced for Role in Global Digital Asset Investment Scam Conspiracy Resulting in Theft of More than $36.9M from Victims",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/california-man-sentenced-role-global-digital-asset-investment-scam-conspiracy-resulting",
+              "type": "press-release"
+            }
+          ]
+        },
+        {
+          "date": "2025-06-09",
+          "event": "DOJ announced guilty pleas by multiple defendants in the global digital-asset investment scam laundering conspiracy, including Jose Somarriba.",
+          "sources": [
+            {
+              "title": "Five Men Plead Guilty for Their Roles in Global Digital Asset Investment Scam Conspiracy Resulting in Theft of More than $36.9 Million from Victims",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/five-men-plead-guilty-their-roles-global-digital-asset-investment-scam-conspiracy-resulting",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes Somarriba as associated with Axis Digital and the Deltec Bank account used in the scheme.",
+        "Press release describes conversion of victim funds to USDT and transfers to wallets controlled in Cambodia.",
+        "Status marked pleaded based on DOJ guilty-plea announcements; update if sentenced.",
+        "Use careful language: scheme details are allegations except as admitted in pleas.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "joseph-wong",
+      "name": "Joseph Wong",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "money-laundering",
+        "shell-companies",
+        "digital-asset-scam",
+        "legal-case"
+      ],
+      "summary": "DOJ-announced defendant who pleaded guilty to money laundering conspiracy in a scam-center digital-asset investment fraud laundering network (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-06-09",
+          "event": "DOJ announced Joseph Wong pleaded guilty to money laundering conspiracy for his role in laundering proceeds from a global digital-asset investment scam conspiracy.",
+          "sources": [
+            {
+              "title": "Five Men Plead Guilty for Their Roles in Global Digital Asset Investment Scam Conspiracy Resulting in Theft of More than $36.9 Million from Victims",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/five-men-plead-guilty-their-roles-global-digital-asset-investment-scam-conspiracy-resulting",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ states Wong managed a network of money launderers in Los Angeles who registered shell companies and opened bank accounts.",
+        "Press release describes laundering of victim funds through U.S. accounts and international transfers before conversion to USDT.",
+        "Status marked pleaded based on DOJ guilty-plea announcement.",
+        "Track sentencing and restitution orders for updates.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -1860,6 +2465,82 @@
         "Status: Pleaded guilty. Jurisdiction: US.",
         "Key tags: mixer, helix, money-laundering, legal-case.",
         "Key dated item: 2022-08-08 — Treasury press release summarizing mixer enforcement and DPRK laundering context (anchor source; verify Harmon-specific case during integration)."
+      ]
+    },
+    {
+      "id": "lingming-zeng",
+      "name": "Lingming Zeng",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "money-laundering",
+        "investment-fraud",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in a pig-butchering investment fraud and money laundering case (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Lingming Zeng and others in alleged investment fraud and money laundering schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges laundering of fraud proceeds and use of cryptocurrency accounts opened under false names.",
+        "Case described as part of an OCDETF-led investigation.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with any plea/sentencing announcements.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "lu-zhang-money-laundering",
+      "name": "Lu Zhang",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "money-laundering",
+        "crypto-investment-scams",
+        "alleged",
+        "legal-case"
+      ],
+      "summary": "Identified by DOJ as having pleaded guilty to conspiracy to commit money laundering in connection with a scam-center digital-asset investment fraud laundering network (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2024-05-13",
+          "event": "DOJ press release states Lu Zhang pleaded guilty to conspiracy to commit money laundering in the global digital-asset investment scam laundering matter.",
+          "sources": [
+            {
+              "title": "California Man Sentenced for Role in Global Digital Asset Investment Scam Conspiracy Resulting in Theft of More than $36.9M from Victims",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/california-man-sentenced-role-global-digital-asset-investment-scam-conspiracy-resulting",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes Zhang as a Chinese national illegally in the United States who managed a network of U.S.-based money launderers.",
+        "Press release ties the overall scheme to scam centers in Cambodia and laundering via USDT.",
+        "Status marked pleaded based on DOJ statement of guilty plea.",
+        "Treat broader scheme facts as alleged except as admitted in pleas.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -2123,6 +2804,56 @@
         "Status conservatively set to ‘charged’ based on the case listing.",
         "Update status to ‘pleaded’/‘convicted’ if a definitive plea/conviction source is added.",
         "Avoid adding narrative claims beyond official case materials."
+      ]
+    },
+    {
+      "id": "mohammed-azharuddin-chhipa",
+      "name": "Mohammed Azharuddin Chhipa",
+      "type": "individual",
+      "status": "sentenced",
+      "tags": [
+        "terror-financing",
+        "cryptocurrency",
+        "isis",
+        "legal-case"
+      ],
+      "summary": "Virginia man convicted and later sentenced to 364 months for a crypto-terror financing scheme involving ISIS (per DOJ press releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2024-12-16",
+          "event": "DOJ announced a jury conviction of Mohammed Azharuddin Chhipa for offenses relating to providing material support to ISIS, including converting funds to cryptocurrency and sending it abroad.",
+          "sources": [
+            {
+              "title": "Virginia Man Convicted for Crypto Financing Scheme to ISIS",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs) — Archive",
+              "url": "https://www.justice.gov/archives/opa/pr/virginia-man-convicted-crypto-financing-scheme-isis",
+              "type": "press-release"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-08",
+          "event": "DOJ announced Chhipa was sentenced to 364 months in prison for his role in a crypto-terror financing scheme involving ISIS.",
+          "sources": [
+            {
+              "title": "Man Sentenced to Over 30 Years in Prison for Crypto-Terror Financing Scheme",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/man-sentenced-over-30-years-prison-crypto-terror-financing-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes fundraising via online/social media methods and subsequent conversion to cryptocurrency for transmission.",
+        "Conviction and sentencing are formal U.S. judicial outcomes announced by DOJ.",
+        "Case illustrates cryptocurrency used as a transfer mechanism in terror-financing conduct.",
+        "Status marked sentenced based on DOJ sentencing announcement.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -3326,6 +4057,57 @@
       ]
     },
     {
+      "id": "shengsheng-he",
+      "name": "Shengsheng He",
+      "type": "individual",
+      "status": "sentenced",
+      "tags": [
+        "axis-digital",
+        "money-transmitting",
+        "tether",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Former Axis Digital Limited co-owner; sentenced to 51 months for role in laundering proceeds from a global digital-asset investment scam conspiracy (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-04-10",
+          "event": "DOJ states Shengsheng He pleaded guilty to conspiracy to operate an unlicensed money transmitting business in the Axis Digital scam-center laundering case.",
+          "sources": [
+            {
+              "title": "California Man Sentenced for Role in Global Digital Asset Investment Scam Conspiracy Resulting in Theft of More than $36.9M from Victims",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/california-man-sentenced-role-global-digital-asset-investment-scam-conspiracy-resulting",
+              "type": "press-release"
+            }
+          ]
+        },
+        {
+          "date": "2025-09-08",
+          "event": "DOJ announced Shengsheng He was sentenced to 51 months in prison for his role in laundering proceeds from the scam-center digital-asset investment fraud conspiracy.",
+          "sources": [
+            {
+              "title": "California Man Sentenced for Role in Global Digital Asset Investment Scam Conspiracy Resulting in Theft of More than $36.9M from Victims",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/california-man-sentenced-role-global-digital-asset-investment-scam-conspiracy-resulting",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes He as a former co-owner of Axis Digital Limited and part of a network laundering victim funds.",
+        "Press release describes conversion of victim funds to USDT and transfers to wallets controlled in Cambodia.",
+        "Status marked sentenced based on DOJ sentencing announcement.",
+        "Track additional co-defendant outcomes and restitution orders for future updates.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "sohrab-sharma",
       "name": "Sohrab Sharma",
       "type": "individual",
@@ -3520,6 +4302,57 @@
       ]
     },
     {
+      "id": "travis-ford-wolf-capital",
+      "name": "Travis Ford",
+      "type": "individual",
+      "status": "sentenced",
+      "tags": [
+        "ponzi",
+        "crypto-investment",
+        "wolf-capital",
+        "wire-fraud",
+        "legal-case"
+      ],
+      "summary": "Wolf Capital Crypto Trading LLC CEO/co-founder; sentenced to 60 months in prison for a crypto investment fraud conspiracy (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "event": "DOJ states Travis Ford pleaded guilty (January 2025) to conspiracy to commit wire fraud tied to the Wolf Capital crypto investment scheme.",
+          "sources": [
+            {
+              "title": "Cryptocurrency Investment Firm Founder Sentenced to Five Years in Prison for Defrauding Investors in $9.4M Ponzi Scheme",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/cryptocurrency-investment-firm-founder-sentenced-five-years-prison-defrauding-investors-94m",
+              "type": "press-release"
+            }
+          ]
+        },
+        {
+          "date": "2025-11-14",
+          "event": "DOJ announced Travis Ford was sentenced to 60 months in prison in connection with a cryptocurrency investment fraud conspiracy involving Wolf Capital.",
+          "sources": [
+            {
+              "title": "Cryptocurrency Investment Firm Founder Sentenced to Five Years in Prison for Defrauding Investors in $9.4M Ponzi Scheme",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/cryptocurrency-investment-firm-founder-sentenced-five-years-prison-defrauding-investors-94m",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes Ford as CEO/co-founder and head trader of Wolf Capital Crypto Trading LLC.",
+        "Press release states the firm raised $9.4 million from ~2,800 investors and promised very high daily returns.",
+        "DOJ states Ford admitted he did not believe the promised returns were consistently achievable and that investor funds were misappropriated.",
+        "Status marked sentenced based on DOJ sentencing announcement.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "trendon-shavers",
       "name": "Trendon Shavers",
       "type": "individual",
@@ -3557,6 +4390,45 @@
       ]
     },
     {
+      "id": "vincent-anthony-mazzotta-jr",
+      "name": "Vincent Anthony Mazzotta Jr.",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "ponzi",
+        "crypto-investment",
+        "money-laundering",
+        "obstruction",
+        "legal-case"
+      ],
+      "summary": "Arizona man (aka Vincent Midnight / Delta Prime) who pleaded guilty to money laundering and obstruction conspiracy in connection with an alleged $13M crypto-investment Ponzi scheme (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-07-28",
+          "event": "DOJ announced Vincent Anthony Mazzotta Jr. pleaded guilty to money laundering and conspiracy to obstruct justice in a case alleging a $13M cryptocurrency investment fraud scheme.",
+          "sources": [
+            {
+              "title": "Arizona Man Pleads Guilty to Money Laundering Charges Related to a $13M Ponzi Scheme",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/arizona-man-pleads-guilty-money-laundering-charges-related-13m-ponzi-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes Mazzotta (aliases include Vincent Midnight / Delta Prime / Director Vinchenzo) as involved in soliciting investments with claims of high-yield crypto trading using AI-powered trading bots.",
+        "Press release alleges a fictitious 'Federal Crypto Reserve' entity was used to further victimize investors.",
+        "DOJ states he pleaded guilty to money laundering and conspiracy to obstruct justice.",
+        "Status reflects guilty plea; track sentencing and restitution/forfeiture outcomes.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "virgil-griffith",
       "name": "Virgil Griffith",
       "type": "individual",
@@ -3590,6 +4462,158 @@
         "Status: Pleaded guilty. Jurisdiction: US.",
         "Key tags: ethereum, sanctions, north-korea, legal-case.",
         "Key dated item: 2021-09-27 — Reported guilty plea in U.S. sanctions-related case involving North Korea."
+      ]
+    },
+    {
+      "id": "xin-jin-edny",
+      "name": "Xin Jin",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "money-laundering",
+        "unlicensed-money-transmitting",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in a pig-butchering investment fraud and money laundering case (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Xin Jin and others in alleged investment fraud, money laundering, and unlicensed money transmitting business schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges laundering of proceeds from an investment fraud scheme and operation of an unlicensed money transmitting business.",
+        "Allegations include using forged passports/ID to open accounts, including cryptocurrency accounts.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with plea/sentencing outcomes if later announced.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "yanbin-chen-edny",
+      "name": "Yanbin Chen",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "investment-fraud",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in an investment fraud and money laundering case tied to pig-butchering schemes (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Yanbin Chen and other defendants in alleged investment fraud and money laundering schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges involvement in laundering proceeds from a pig-butchering investment fraud scheme.",
+        "Allegations include use of false identities and cryptocurrency accounts.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with plea/sentencing outcomes if later announced.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "yanbing-chen-edny",
+      "name": "Yanbing Chen",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "pig-butchering",
+        "investment-fraud",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Charged in EDNY in an investment fraud and money laundering case tied to pig-butchering schemes (per EDNY DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-10-13",
+          "event": "EDNY DOJ press release announced an unsealed indictment charging Yanbing Chen and other defendants in alleged investment fraud and money laundering schemes.",
+          "sources": [
+            {
+              "title": "Eleven Defendants Arrested for Investment Fraud, Money Laundering and Unlicensed Money Transmitting Business Schemes",
+              "publisher": "U.S. Department of Justice (USAO EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/eleven-defendants-arrested-investment-fraud-money-laundering-and-unlicensed-money",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "EDNY press release alleges laundering proceeds from a pig-butchering investment fraud scheme.",
+        "Allegations include opening accounts under false identities and use of forged identification.",
+        "Status reflects formal criminal charging; allegations remain unproven unless adjudicated.",
+        "Update with plea/sentencing outcomes if later announced.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "yicheng-zhang",
+      "name": "Yicheng Zhang",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "money-laundering",
+        "digital-asset-scam",
+        "bank-accounts",
+        "legal-case"
+      ],
+      "summary": "DOJ-announced defendant who pleaded guilty to money laundering conspiracy in a global digital-asset investment scam laundering case (per DOJ press release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-06-09",
+          "event": "DOJ announced Yicheng Zhang pleaded guilty to money laundering conspiracy for operating U.S. bank accounts used to launder victim proceeds from a digital-asset investment scam conspiracy.",
+          "sources": [
+            {
+              "title": "Five Men Plead Guilty for Their Roles in Global Digital Asset Investment Scam Conspiracy Resulting in Theft of More than $36.9 Million from Victims",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/five-men-plead-guilty-their-roles-global-digital-asset-investment-scam-conspiracy-resulting",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ press release describes Zhang as operating bank accounts used in laundering victim funds.",
+        "Case described as tied to scam centers in Cambodia and fake digital-asset investment platforms.",
+        "Status marked pleaded based on DOJ guilty-plea announcement.",
+        "Update this profile if a sentencing announcement is published.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
