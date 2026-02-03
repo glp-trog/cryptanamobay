@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-02-02",
   "profiles": [
     {
@@ -230,6 +230,44 @@
       ]
     },
     {
+      "id": "andre-llacuna",
+      "name": "Andre Llacuna",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "nft",
+        "rug-pull",
+        "wire-fraud",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Co-defendant in the Frosties NFT case; charged in SDNY for an alleged NFT fraud and money laundering scheme (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-03-24",
+          "event": "DOJ (SDNY) announced charges in an alleged 'rug pull' NFT scheme (Frosties), identifying Andre Llacuna as a defendant.",
+          "sources": [
+            {
+              "title": "Two Men Charged In First Ever NFT 'Rug Pull' Scheme",
+              "publisher": "U.S. Department of Justice (SDNY)",
+              "url": "https://www.justice.gov/usao-sdny/pr/two-men-charged-first-ever-nft-rug-pull-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Prosecution described by DOJ as the first NFT 'rug pull' criminal case.",
+        "Allegations include wire fraud conspiracy and money laundering (see DOJ release).",
+        "Status marked charged; update with plea/sentencing if resolved.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "anthony-murgio",
       "name": "Anthony Murgio",
       "type": "individual",
@@ -335,6 +373,44 @@
         "BitMEX co-founder; publicly reported guilty plea in a U.S. Bank Secrecy Act / AML-program case (see timeline sources).",
         "Further depth should cite DOJ OPA releases and/or court documents rather than summaries where possible.",
         "Key dated item: 2022-02-24 — Reported guilty plea in U.S. proceedings alleging willful failure to establish, implement, and maintain an AML program at BitMEX."
+      ]
+    },
+    {
+      "id": "aurelien-michel",
+      "name": "Aurelien Michel",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "nft",
+        "fraud",
+        "wire-fraud",
+        "money-laundering",
+        "legal-case"
+      ],
+      "summary": "Mutant Ape Planet promoter/creator; charged in SDNY in an alleged NFT fraud and money laundering scheme (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2023-01-04",
+          "event": "DOJ (SDNY) announced charges against the creator of an NFT project (Mutant Ape Planet) for allegedly defrauding investors and laundering proceeds.",
+          "sources": [
+            {
+              "title": "NFT Creator Charged In Alleged $2.9 Million Fraud And Money Laundering Scheme",
+              "publisher": "U.S. Department of Justice (SDNY)",
+              "url": "https://www.justice.gov/usao-sdny/pr/nft-creator-charged-alleged-29-million-fraud-and-money-laundering-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ described alleged use of NFT sales proceeds for personal purchases and concealment (see DOJ release).",
+        "US-first: SDNY charging event.",
+        "Status marked charged; update for plea/sentencing outcomes.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -488,12 +564,13 @@
       "status": "charged",
       "tags": [
         "safemoon",
+        "defi",
         "token",
-        "fraud",
+        "securities-fraud",
         "money-laundering",
         "legal-case"
       ],
-      "summary": "SafeMoon executive; charged in U.S. proceedings tied to alleged fraud involving the SafeMoon token ecosystem (per DOJ public releases).",
+      "summary": "SafeMoon executive; charged in EDNY with conspiracies including securities fraud, wire fraud, and money laundering (per DOJ public release).",
       "jurisdiction": [
         "US"
       ],
@@ -501,10 +578,10 @@
       "timeline": [
         {
           "date": "2023-11-01",
-          "event": "DOJ (EDNY) announced that founders/executives of a digital-asset company (SafeMoon) were charged in a multi-million-dollar fraud scheme.",
+          "event": "DOJ (EDNY) announced an unsealed indictment charging SafeMoon executives, including Braden John Karony, with fraud and money laundering conspiracy related to SafeMoon tokens.",
           "sources": [
             {
-              "title": "Founders and Executives of Digital-Asset Company Charged in Multi-Million-Dollar Fraud Scheme",
+              "title": "Founders and Executives of Digital-Asset Company Charged in Multi-Million Dollar International Fraud Scheme",
               "publisher": "U.S. Department of Justice (EDNY)",
               "url": "https://www.justice.gov/usao-edny/pr/founders-and-executives-digital-asset-company-charged-multi-million-dollar",
               "type": "press-release"
@@ -513,10 +590,48 @@
         }
       ],
       "details": [
-        "DOJ (EDNY) press release announced charges involving SafeMoon executives.",
-        "This entry reflects the formal ‘charged’ posture; avoid characterizing allegations as proven.",
-        "Add SEC litigation release cross-citation when integrating.",
-        "Images intentionally omitted unless a clear CC/PD photo is located."
+        "Named by DOJ (EDNY) as a defendant in a criminal case tied to the SafeMoon token project.",
+        "Public allegations include misrepresentations about 'locked' liquidity and diversion/misappropriation of funds (see DOJ release).",
+        "Status reflects formal criminal charging; update with plea/sentencing outcomes as they occur.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "carl-mark-force-iv",
+      "name": "Carl Mark Force IV",
+      "type": "individual",
+      "status": "convicted",
+      "tags": [
+        "silk-road",
+        "corruption",
+        "bitcoin",
+        "law-enforcement",
+        "legal-case"
+      ],
+      "summary": "Former federal agent; convicted/pleaded in connection with extortion and money laundering tied to the Silk Road investigation (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2015-??-??",
+          "event": "DOJ announced guilty plea by Carl Mark Force IV for offenses tied to misconduct during the Silk Road investigation.",
+          "sources": [
+            {
+              "title": "Former Federal Agent Pleads Guilty to Money Laundering and Obstruction in Connection with Silk Road Investigation",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/former-federal-agent-pleads-guilty-money-laundering-and-obstruction-connection-silk-road",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Illustrates risks from compromised investigators in crypto-adjacent cases.",
+        "Status marked convicted (plea/conviction era); enrich with sentencing date and restitution if needed.",
+        "US-first: federal prosecution.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -784,6 +899,82 @@
       ]
     },
     {
+      "id": "dwayne-golden",
+      "name": "Dwayne Golden",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "trade-coin-club",
+        "ponzi",
+        "wire-fraud",
+        "bitcoin",
+        "legal-case"
+      ],
+      "summary": "Trade Coin Club operator; charged in a U.S. case alleging a large bitcoin investment fraud scheme (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-02-16",
+          "event": "DOJ announced charges against the operator of Trade Coin Club for an alleged $295 million bitcoin investment fraud scheme.",
+          "sources": [
+            {
+              "title": "Trade Coin Club Founder Charged With Defrauding Investors of More Than $295 Million in Bitcoin",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/trade-coin-club-founder-charged-defrauding-investors-more-295-million-bitcoin",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes Trade Coin Club as a purported trading club soliciting bitcoin from investors.",
+        "Status marked charged; update with conviction/sentencing where applicable.",
+        "US-first: federal criminal charging.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "emerson-pires",
+      "name": "Emerson Pires",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "empiresx",
+        "ponzi",
+        "commodities-fraud",
+        "wire-fraud",
+        "legal-case"
+      ],
+      "summary": "Alleged EmpiresX co-founder/executive; charged in a U.S. crypto investment fraud case (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-06-30",
+          "event": "DOJ announced charges against individuals behind an alleged crypto investment fraud/ponzi scheme (EmpiresX), including Emerson Pires.",
+          "sources": [
+            {
+              "title": "Founders of Cryptocurrency Investment Platform EmpiresX Charged with International Fraud Scheme",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/founders-cryptocurrency-investment-platform-empiresx-charged-international-fraud-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ release describes an alleged international fraud scheme tied to a crypto investment platform.",
+        "Status marked charged; update with plea/conviction if later resolved.",
+        "US-first: DOJ criminal charging and enforcement.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "ethan-nguyen-frosties",
       "name": "Ethan Nguyen",
       "type": "individual",
@@ -826,6 +1017,44 @@
         "Status: Charged. Jurisdiction: US.",
         "Key tags: nft, rug-pull, wire-fraud, money-laundering, legal-case.",
         "Key dated item: 2022-03-24 — Public reporting of U.S. charges related to “Frosties” NFT fraud and money laundering allegations."
+      ]
+    },
+    {
+      "id": "flavio-goncalves",
+      "name": "Flavio Goncalves",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "empiresx",
+        "ponzi",
+        "commodities-fraud",
+        "wire-fraud",
+        "legal-case"
+      ],
+      "summary": "Alleged EmpiresX co-founder/executive; charged in a U.S. crypto investment fraud case (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-06-30",
+          "event": "DOJ announced charges against individuals behind an alleged crypto investment fraud/ponzi scheme (EmpiresX), including Flavio Goncalves.",
+          "sources": [
+            {
+              "title": "Founders of Cryptocurrency Investment Platform EmpiresX Charged with International Fraud Scheme",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/founders-cryptocurrency-investment-platform-empiresx-charged-international-fraud-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ release alleges solicitation of investors with misrepresentations and misuse of funds.",
+        "Status marked charged; update with any disposition in U.S. proceedings.",
+        "US-first: DOJ criminal charging and enforcement.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -943,6 +1172,44 @@
         "Status: Pleaded guilty. Jurisdiction: US.",
         "Key tags: bitconnect, fraud, legal-case.",
         "Key dated item: 2021-09-01 — Reported guilty plea in BitConnect case."
+      ]
+    },
+    {
+      "id": "gregory-dwyer",
+      "name": "Gregory Dwyer",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "bitmex",
+        "bsa",
+        "aml",
+        "exchange",
+        "legal-case"
+      ],
+      "summary": "Former BitMEX executive; pleaded guilty in a U.S. case related to BSA/AML compliance failures at BitMEX (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-08-11",
+          "event": "DOJ announced guilty plea by a former BitMEX executive (Gregory Dwyer) in connection with alleged BSA/AML violations.",
+          "sources": [
+            {
+              "title": "Former BitMEX Executive Pleads Guilty to Violating the Bank Secrecy Act",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/former-bitmex-executive-pleads-guilty-violating-bank-secrecy-act",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Matter concerns alleged failures to implement required AML program controls and U.S.-facing operations.",
+        "Status marked pleaded based on DOJ guilty-plea announcement.",
+        "US-first: DOJ BSA/AML enforcement.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -1141,35 +1408,74 @@
       "type": "individual",
       "status": "pleaded",
       "tags": [
-        "coinbase",
         "insider-trading",
-        "fraud",
+        "exchange",
+        "wire-fraud",
+        "crypto-assets",
         "legal-case"
       ],
-      "summary": "Former Coinbase employee; pleaded guilty in a U.S. cryptocurrency insider trading case (per DOJ public releases).",
+      "summary": "Former Coinbase product manager; pleaded guilty in a U.S. insider trading case involving crypto assets (per DOJ public releases).",
       "jurisdiction": [
         "US"
       ],
       "images": null,
       "timeline": [
         {
-          "date": "2022-09-06",
-          "event": "DOJ (SDNY) announced that a former Coinbase insider pleaded guilty in the first-ever cryptocurrency insider trading case.",
+          "date": "2023-02-07",
+          "event": "DOJ announced guilty plea by a former Coinbase employee in an insider trading scheme involving crypto assets.",
           "sources": [
             {
-              "title": "Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case",
+              "title": "Former Coinbase Employee Pleads Guilty to Insider Trading Scheme",
               "publisher": "U.S. Department of Justice (SDNY)",
-              "url": "https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case",
+              "url": "https://www.justice.gov/usao-sdny/pr/former-coinbase-employee-pleads-guilty-insider-trading-scheme",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "DOJ (SDNY) press release describes a guilty plea by a former Coinbase employee.",
-        "Matter relates to ‘tipping’/trading around token listing announcements (per DOJ/SEC framing).",
-        "Status set to ‘pleaded’ based on DOJ announcement.",
-        "Consider adding SEC litigation release for cross-citation when integrating."
+        "Case involves alleged misuse of confidential listing information for trading advantage.",
+        "Status marked pleaded based on DOJ announcement of guilty plea.",
+        "Track sentencing and forfeiture/restitution orders for downstream updates.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "ivan-turogin",
+      "name": "Ivan Turõgin",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "hashflare",
+        "ponzi",
+        "wire-fraud",
+        "cryptocurrency",
+        "legal-case"
+      ],
+      "summary": "HashFlare-linked operator; DOJ announced guilty plea in a large cryptocurrency fraud scheme (per DOJ OPA release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-02-13",
+          "event": "DOJ (Office of Public Affairs) announced that Ivan Turõgin pleaded guilty in a $577M cryptocurrency fraud scheme involving HashFlare contracts.",
+          "sources": [
+            {
+              "title": "Two Estonian Nationals Plead Guilty in $577M Cryptocurrency Fraud Scheme",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/two-estonian-nationals-plead-guilty-577m-cryptocurrency-fraud-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes the alleged fraud as global and including U.S. victims (per DOJ release).",
+        "Plea was to conspiracy to commit wire fraud (per DOJ release).",
+        "Track forfeiture/remission announcements; DOJ release references significant forfeiture.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -1328,6 +1634,44 @@
       ]
     },
     {
+      "id": "joshua-nicholas-empiresx",
+      "name": "Joshua Nicholas",
+      "type": "individual",
+      "status": "charged",
+      "tags": [
+        "empiresx",
+        "promoter",
+        "fraud",
+        "crypto-investment",
+        "legal-case"
+      ],
+      "summary": "EmpiresX-related promoter/executive; charged in a U.S. crypto investment fraud case (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2022-06-30",
+          "event": "DOJ announced charges in the EmpiresX case; Joshua Nicholas was identified among the defendants.",
+          "sources": [
+            {
+              "title": "Founders of Cryptocurrency Investment Platform EmpiresX Charged with International Fraud Scheme",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/founders-cryptocurrency-investment-platform-empiresx-charged-international-fraud-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Associated with an alleged crypto investment fraud scheme per DOJ release.",
+        "Status marked charged; confirm any later plea or sentencing.",
+        "Maintain careful language: allegations remain allegations unless adjudicated.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "juan-carlos-reynoso",
       "name": "Juan Carlos Reynoso",
       "type": "individual",
@@ -1440,15 +1784,16 @@
       "id": "kyle-nagy",
       "name": "Kyle Nagy",
       "type": "individual",
-      "status": "wanted",
+      "status": "charged",
       "tags": [
         "safemoon",
+        "defi",
         "token",
-        "fraud",
-        "sec",
+        "securities-fraud",
+        "money-laundering",
         "legal-case"
       ],
-      "summary": "SafeMoon founder/executive named in SEC litigation; reportedly at-large in some reporting (verify current status).",
+      "summary": "SafeMoon founder/executive; charged in EDNY with conspiracies including securities fraud, wire fraud, and money laundering (per DOJ public release).",
       "jurisdiction": [
         "US"
       ],
@@ -1456,22 +1801,22 @@
       "timeline": [
         {
           "date": "2023-11-01",
-          "event": "SEC litigation release named SafeMoon LLC and individuals including Kyle Nagy.",
+          "event": "DOJ (EDNY) announced an unsealed indictment charging Kyle Nagy and other SafeMoon executives in an alleged fraud and money laundering conspiracy.",
           "sources": [
             {
-              "title": "SEC.gov | SafeMoon LLC, SafeMoon US LLC, Kyle Nagy, Braden John Karony, and Thomas Smith",
-              "publisher": "U.S. Securities and Exchange Commission",
-              "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25888",
+              "title": "Founders and Executives of Digital-Asset Company Charged in Multi-Million Dollar International Fraud Scheme",
+              "publisher": "U.S. Department of Justice (EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/founders-and-executives-digital-asset-company-charged-multi-million-dollar",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "Named in SEC litigation release concerning SafeMoon.",
-        "Status set to ‘wanted’ to reflect at-large posture in public reporting; confirm the latest status/custody when merging.",
-        "If ‘wanted’ is retained, add an official custody/USMS/court reference.",
-        "Avoid unverified biographical details."
+        "Identified in a DOJ (EDNY) indictment announcement as a SafeMoon defendant.",
+        "DOJ release states Nagy was at large at the time of the announcement.",
+        "Case includes alleged misrepresentations and diversion of liquidity (see DOJ release).",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -1515,6 +1860,44 @@
         "Status: Pleaded guilty. Jurisdiction: US.",
         "Key tags: mixer, helix, money-laundering, legal-case.",
         "Key dated item: 2022-08-08 — Treasury press release summarizing mixer enforcement and DPRK laundering context (anchor source; verify Harmon-specific case during integration)."
+      ]
+    },
+    {
+      "id": "maksym-zaslavskiy",
+      "name": "Maksym Zaslavskiy",
+      "type": "individual",
+      "status": "convicted",
+      "tags": [
+        "ico",
+        "securities-fraud",
+        "wire-fraud",
+        "recoin",
+        "legal-case"
+      ],
+      "summary": "ICO promoter; convicted in a U.S. securities/wire fraud case related to REcoin/Diamond Reserve Club-style ICO offerings (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2018-11-01",
+          "event": "DOJ announced conviction of Maksym Zaslavskiy for fraud related to ICO offerings.",
+          "sources": [
+            {
+              "title": "ICO Fraudster Convicted of Securities and Wire Fraud",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/usao-edny/pr/ico-fraudster-convicted-securities-and-wire-fraud",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Case is an early U.S. criminal prosecution involving ICO-related fraud representations.",
+        "Status marked convicted based on DOJ release.",
+        "Consider adding SEC parallel actions if needed for a fuller record.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -1749,35 +2132,34 @@
       "status": "convicted",
       "tags": [
         "nft",
-        "opensea",
         "insider-trading",
-        "fraud",
+        "wire-fraud",
         "legal-case"
       ],
-      "summary": "Former OpenSea employee; convicted/sentenced in a U.S. case described by DOJ as the first digital-asset insider trading case (per DOJ public releases).",
+      "summary": "Former OpenSea employee; convicted in SDNY for an NFT-related insider trading scheme (per DOJ public releases).",
       "jurisdiction": [
         "US"
       ],
       "images": null,
       "timeline": [
         {
-          "date": "2023-08-22",
-          "event": "DOJ (SDNY) announced sentencing of a former NFT marketplace employee in the first-ever digital-asset insider trading case.",
+          "date": "2023-05-03",
+          "event": "DOJ (SDNY) announced that a former OpenSea employee was convicted in the first federal insider trading case involving digital assets (NFTs).",
           "sources": [
             {
-              "title": "Former Employee Of NFT Marketplace Sentenced To Prison In First Ever Digital Asset Insider Trading Case",
+              "title": "Former OpenSea Employee Convicted Of Insider Trading In First Digital Asset Insider Trading Trial",
               "publisher": "U.S. Department of Justice (SDNY)",
-              "url": "https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-sentenced-prison-first-ever-digital-asset-insider",
+              "url": "https://www.justice.gov/usao-sdny/pr/former-opensea-employee-convicted-insider-trading-first-digital-asset-insider",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "DOJ (SDNY) framed the matter as the first-ever ‘digital asset’ insider trading case.",
-        "This profile is limited to the formally adjudicated posture (conviction/sentencing per DOJ release).",
-        "Update the timeline if appellate posture changes.",
-        "Images intentionally omitted unless a clear CC/PD photo is located."
+        "Case described misuse of confidential information about which NFTs would be featured.",
+        "Status marked convicted based on DOJ conviction announcement.",
+        "Update with sentencing and any forfeiture orders as they become available.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -1824,35 +2206,35 @@
       "type": "individual",
       "status": "pleaded",
       "tags": [
-        "coinbase",
         "insider-trading",
-        "fraud",
+        "wire-fraud",
+        "crypto-assets",
         "legal-case"
       ],
-      "summary": "Tippee in the Coinbase-related U.S. cryptocurrency insider trading case; pleaded guilty (per DOJ public releases).",
+      "summary": "Defendant in a U.S. crypto-asset insider trading case; pleaded guilty (per DOJ public releases).",
       "jurisdiction": [
         "US"
       ],
       "images": null,
       "timeline": [
         {
-          "date": "2022-09-09",
-          "event": "DOJ (SDNY) announced a guilty plea by a tippee in the first-ever cryptocurrency insider trading case.",
+          "date": "2022-09-12",
+          "event": "DOJ announced guilty plea by Nikhil Wahi in an insider trading scheme involving crypto assets.",
           "sources": [
             {
-              "title": "Tippee Pleads Guilty In First Ever Cryptocurrency Insider Trading Case",
+              "title": "Nikhil Wahi Pleads Guilty in First Ever Digital Asset Insider Trading Case",
               "publisher": "U.S. Department of Justice (SDNY)",
-              "url": "https://www.justice.gov/usao-sdny/pr/tippee-pleads-guilty-first-ever-cryptocurrency-insider-trading-case",
+              "url": "https://www.justice.gov/usao-sdny/pr/nikhil-wahi-pleads-guilty-first-ever-digital-asset-insider-trading-case",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "DOJ (SDNY) described Nikhil Wahi as a tippee who pleaded guilty.",
-        "Case is linked to trading around confidential token-listing information (see DOJ release).",
-        "Status set to ‘pleaded’ based on DOJ announcement.",
-        "Profile can be expanded with sentencing and restitution details when available."
+        "DOJ characterized the matter as a digital asset insider trading prosecution.",
+        "Status marked pleaded based on DOJ guilty-plea announcement.",
+        "Keep timeline updated for sentencing and any final judgments.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -2072,12 +2454,13 @@
       "type": "individual",
       "status": "convicted",
       "tags": [
-        "my-big-coin",
+        "mybigcoin",
         "fraud",
-        "token",
+        "commodities",
+        "cftc",
         "legal-case"
       ],
-      "summary": "My Big Coin founder; convicted in a U.S. cryptocurrency fraud scheme (per DOJ public releases).",
+      "summary": "My Big Coin operator; convicted in a U.S. crypto-related fraud case (per DOJ public releases).",
       "jurisdiction": [
         "US"
       ],
@@ -2085,59 +2468,59 @@
       "timeline": [
         {
           "date": "2022-07-21",
-          "event": "DOJ announced that the My Big Coin founder was convicted of a cryptocurrency fraud scheme.",
+          "event": "DOJ announced conviction of Randall Crater for operating a fraudulent virtual currency scheme (My Big Coin).",
           "sources": [
             {
-              "title": "My Big Coin Founder Convicted of Cryptocurrency Fraud Scheme",
-              "publisher": "U.S. Department of Justice (USAO-MA)",
-              "url": "https://www.justice.gov/usao-ma/pr/my-big-coin-founder-convicted-cryptocurrency-fraud-scheme",
+              "title": "Randall Crater Convicted in My Big Coin Fraud Scheme",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/randall-crater-convicted-my-big-coin-fraud-scheme",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "DOJ (USAO-MA) press release describes conviction for a crypto fraud scheme.",
-        "Status set to ‘convicted’ based on DOJ announcement.",
-        "Add sentencing/restoration orders if/when integrating.",
-        "Images intentionally omitted unless a clear CC/PD photo is located."
+        "My Big Coin has been characterized by U.S. authorities as a fraudulent virtual currency offering.",
+        "Status marked convicted; update with sentencing and restitution details.",
+        "US-first: federal prosecution and related CFTC enforcement context.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
       "id": "reginald-fowler",
       "name": "Reginald Fowler",
       "type": "individual",
-      "status": "pleaded",
+      "status": "sentenced",
       "tags": [
         "crypto-capital",
-        "banking",
-        "money-transmitting",
+        "money-laundering",
+        "unlicensed-money-transmitting",
         "legal-case"
       ],
-      "summary": "Associated with ‘shadow banking’ services for cryptocurrency businesses (per DOJ); pleaded guilty in a U.S. case (per DOJ public releases).",
+      "summary": "Principal associated with Crypto Capital; sentenced in SDNY for bank fraud / unlicensed money transmitting conduct tied to crypto-related payment processing (per DOJ public releases).",
       "jurisdiction": [
         "US"
       ],
       "images": null,
       "timeline": [
         {
-          "date": "2022-04-25",
-          "event": "DOJ (SDNY) announced a guilty plea by a former Minnesota Vikings co-owner tied to providing shadow banking services to cryptocurrency businesses.",
+          "date": "2022-06-14",
+          "event": "DOJ (SDNY) announced the sentencing of Reginald Fowler in a case involving an unlicensed money transmitting business and related conduct.",
           "sources": [
             {
-              "title": "Former Co-Owner Of Vikings Pleads Guilty To Providing Shadow Banking Services To Cryptocurrency Businesses",
+              "title": "Reginald Fowler Sentenced For Running Unlicensed Money Transmitting Business",
               "publisher": "U.S. Department of Justice (SDNY)",
-              "url": "https://www.justice.gov/usao-sdny/pr/former-co-owner-vikings-pleads-guilty-providing-shadow-banking-services-cryptocurrency",
+              "url": "https://www.justice.gov/usao-sdny/pr/reginald-fowler-sentenced-running-unlicensed-money-transmitting-business",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "DOJ (SDNY) press release describes a guilty plea tied to ‘shadow banking’ services for crypto businesses.",
-        "Status set to ‘pleaded’ based on DOJ announcement.",
-        "Add sentencing press release as a later timeline item when desired.",
-        "Avoid describing third-party exchange disputes beyond cited materials."
+        "Associated in public reporting and filings with Crypto Capital-style payment processing for crypto businesses.",
+        "Status marked sentenced based on DOJ sentencing announcement.",
+        "Prefer later enrichment: add docket number and forfeiture/restitution specifics.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -2379,32 +2762,33 @@
         "bitcoin-fog",
         "mixer",
         "money-laundering",
+        "darknet",
         "legal-case"
       ],
-      "summary": "Operator of ‘Bitcoin Fog’ (as described by DOJ); convicted in a U.S. case involving operation of a darknet cryptocurrency money laundering service (per DOJ public releases).",
+      "summary": "Bitcoin Fog operator; convicted in a U.S. money laundering case involving a bitcoin mixing service (per DOJ public releases).",
       "jurisdiction": [
         "US"
       ],
       "images": null,
       "timeline": [
         {
-          "date": "2024-03-12",
-          "event": "DOJ (USAO-DC) announced a jury conviction of the alleged operator of ‘Bitcoin Fog’.",
+          "date": "2024-04-24",
+          "event": "DOJ announced conviction of the operator of Bitcoin Fog, a bitcoin mixing service, for money laundering-related offenses.",
           "sources": [
             {
-              "title": "Jury Finds Russian-Swedish Operator of 'Bitcoin Fog' Guilty of Running Darknet Cryptocurrency Money Laundering Service",
-              "publisher": "U.S. Department of Justice (USAO-DC)",
-              "url": "https://www.justice.gov/usao-dc/pr/jury-finds-russian-swedish-operator-bitcoin-fog-guilty-running-darknet-cryptocurrency",
+              "title": "Operator of Bitcoin Fog Convicted of Money Laundering Conspiracy",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/operator-bitcoin-fog-convicted-money-laundering-conspiracy",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "DOJ (USAO-DC) describes a jury conviction relating to operation of ‘Bitcoin Fog’.",
-        "Status set to ‘convicted’ based on DOJ announcement.",
-        "Add sentencing press release / judgment docket links when integrating.",
-        "Images intentionally omitted unless a clear CC/PD photo is located."
+        "Case relates to alleged laundering of proceeds from darknet markets and other crimes via a mixer.",
+        "Status marked convicted based on DOJ conviction announcement.",
+        "Update with sentencing date and any forfeiture details.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -2617,6 +3001,44 @@
       ]
     },
     {
+      "id": "ryan-salame",
+      "name": "Ryan Salame",
+      "type": "individual",
+      "status": "sentenced",
+      "tags": [
+        "ftx",
+        "alameda",
+        "money-transmitting",
+        "campaign-finance",
+        "legal-case"
+      ],
+      "summary": "Former FTX/Alameda executive; sentenced in SDNY to 90 months in prison (per DOJ public release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2024-05-28",
+          "event": "DOJ (SDNY) announced that former FTX executive Ryan Salame was sentenced to 90 months in prison after pleading guilty to conspiracy offenses.",
+          "sources": [
+            {
+              "title": "Former FTX Executive Ryan Salame Sentenced To 90 Months In Prison",
+              "publisher": "U.S. Department of Justice (SDNY)",
+              "url": "https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ (SDNY) describes Salame as a high-ranking official at Alameda Research and later co-CEO of FTX Digital Markets (Bahamas affiliate).",
+        "Sentencing announcement references conspiracy to operate an unlicensed money transmitting business and a campaign-finance related conspiracy.",
+        "US-first: prosecuted and sentenced in federal court in New York (SDNY).",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "sam-bankman-fried",
       "name": "Sam Bankman-Fried",
       "type": "individual",
@@ -2685,14 +3107,14 @@
       "id": "sameer-ramani",
       "name": "Sameer Ramani",
       "type": "individual",
-      "status": "wanted",
+      "status": "charged",
       "tags": [
-        "coinbase",
         "insider-trading",
-        "fraud",
+        "wire-fraud",
+        "crypto-assets",
         "legal-case"
       ],
-      "summary": "Charged in the Coinbase-related U.S. cryptocurrency insider trading case; publicly reported/announced as charged while not in custody at the time of DOJ announcement (verify current status).",
+      "summary": "Charged in a U.S. crypto-asset insider trading case related to token listings (per DOJ public releases).",
       "jurisdiction": [
         "US"
       ],
@@ -2700,10 +3122,10 @@
       "timeline": [
         {
           "date": "2022-07-21",
-          "event": "DOJ (SDNY) announced charges against three individuals in the first-ever cryptocurrency insider trading tipping scheme (including Sameer Ramani).",
+          "event": "DOJ (SDNY) announced charges in a digital asset insider trading scheme; Sameer Ramani was identified as a defendant.",
           "sources": [
             {
-              "title": "Three Charged In First Ever Cryptocurrency Insider Trading Tipping Scheme",
+              "title": "Three Charged in First Ever Cryptocurrency Insider Trading Tipping Scheme",
               "publisher": "U.S. Department of Justice (SDNY)",
               "url": "https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme",
               "type": "press-release"
@@ -2712,10 +3134,10 @@
         }
       ],
       "details": [
-        "DOJ (SDNY) publicly announced charges naming Ramani in the insider trading tipping scheme.",
-        "Status is set to ‘wanted’ to reflect a charged-at-large posture (confirm current custody/proceedings on merge).",
-        "Use primary docket/USMS information if adding a ‘wanted’ banner later.",
-        "Avoid adding unverified biographical detail beyond cited sources."
+        "Allegations center on advance knowledge of asset listing decisions and related trading.",
+        "Status marked charged based on DOJ announcement; confirm custody status and later pleadings.",
+        "US-first: SDNY charging event.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -2828,6 +3250,82 @@
       ]
     },
     {
+      "id": "sergei-potapenko",
+      "name": "Sergei Potapenko",
+      "type": "individual",
+      "status": "pleaded",
+      "tags": [
+        "hashflare",
+        "ponzi",
+        "wire-fraud",
+        "cryptocurrency",
+        "legal-case"
+      ],
+      "summary": "HashFlare-linked operator; DOJ announced guilty plea in a large cryptocurrency fraud scheme (per DOJ OPA release).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2025-02-13",
+          "event": "DOJ (Office of Public Affairs) announced that Sergei Potapenko pleaded guilty in a $577M cryptocurrency fraud scheme involving HashFlare contracts.",
+          "sources": [
+            {
+              "title": "Two Estonian Nationals Plead Guilty in $577M Cryptocurrency Fraud Scheme",
+              "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+              "url": "https://www.justice.gov/opa/pr/two-estonian-nationals-plead-guilty-577m-cryptocurrency-fraud-scheme",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ describes a scheme selling mining contracts tied to a purported mining service (HashFlare).",
+        "Plea was to conspiracy to commit wire fraud (per DOJ release).",
+        "Update with sentencing outcome and any restitution/remission process details when announced.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
+      "id": "shaun-bridges",
+      "name": "Shaun Bridges",
+      "type": "individual",
+      "status": "convicted",
+      "tags": [
+        "silk-road",
+        "corruption",
+        "bitcoin",
+        "law-enforcement",
+        "legal-case"
+      ],
+      "summary": "Former U.S. Secret Service agent; convicted in connection with theft and laundering of bitcoin tied to the Silk Road investigation (per DOJ public records and releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2015-??-??",
+          "event": "DOJ announced charges/plea involving former federal agent Shaun Bridges for theft and laundering of bitcoin tied to the Silk Road investigation.",
+          "sources": [
+            {
+              "title": "Former Secret Service Agent Pleads Guilty to Money Laundering in Connection with Silk Road Investigation",
+              "publisher": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/former-secret-service-agent-pleads-guilty-money-laundering-connection-silk-road",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "Case is relevant as an example of internal corruption impacting crypto-related investigations.",
+        "Status marked convicted (plea/conviction era); confirm exact sentencing details for timeline expansion.",
+        "US-first: federal prosecution tied to Silk Road.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+      ]
+    },
+    {
       "id": "sohrab-sharma",
       "name": "Sohrab Sharma",
       "type": "individual",
@@ -2862,6 +3360,44 @@
         "Status: Charged. Jurisdiction: US.",
         "Key tags: centra-tech, ico, fraud, legal-case.",
         "Key dated item: 2018-04-02 — DOJ announced charges/arrest related to Centra Tech ICO fraud allegations."
+      ]
+    },
+    {
+      "id": "stefan-qin",
+      "name": "Stefan Qin",
+      "type": "individual",
+      "status": "sentenced",
+      "tags": [
+        "virgil-capital",
+        "hedge-fund",
+        "fraud",
+        "stablecoin",
+        "legal-case"
+      ],
+      "summary": "Virgil Capital founder; sentenced in a U.S. fraud case involving misrepresentations and misappropriation tied to a crypto-focused fund (per DOJ public releases).",
+      "jurisdiction": [
+        "US"
+      ],
+      "images": null,
+      "timeline": [
+        {
+          "date": "2021-07-12",
+          "event": "DOJ (SDNY) announced that Virgil Capital founder Stefan Qin was sentenced in connection with a fraud scheme involving a cryptocurrency hedge fund.",
+          "sources": [
+            {
+              "title": "Founder Of Cryptocurrency Hedge Fund Virgil Capital Sentenced To More Than Seven Years In Prison",
+              "publisher": "U.S. Department of Justice (SDNY)",
+              "url": "https://www.justice.gov/usao-sdny/pr/founder-cryptocurrency-hedge-fund-virgil-capital-sentenced-more-seven-years",
+              "type": "press-release"
+            }
+          ]
+        }
+      ],
+      "details": [
+        "DOJ described investor losses tied to misrepresentations and misuse of assets.",
+        "Status marked sentenced; update with restitution/forfeiture totals if needed.",
+        "US-first: SDNY prosecution.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -2916,12 +3452,13 @@
       "status": "charged",
       "tags": [
         "safemoon",
+        "defi",
         "token",
-        "fraud",
-        "sec",
+        "securities-fraud",
+        "money-laundering",
         "legal-case"
       ],
-      "summary": "SafeMoon executive named in SEC litigation and DOJ materials tied to SafeMoon-related allegations (per SEC/DOJ public releases).",
+      "summary": "SafeMoon executive; charged in EDNY with conspiracies including securities fraud, wire fraud, and money laundering (per DOJ public release).",
       "jurisdiction": [
         "US"
       ],
@@ -2929,22 +3466,22 @@
       "timeline": [
         {
           "date": "2023-11-01",
-          "event": "SEC litigation release named SafeMoon LLC and individuals including Thomas Smith.",
+          "event": "DOJ (EDNY) announced an unsealed indictment charging SafeMoon executives, including Thomas Smith, with fraud and money laundering conspiracy.",
           "sources": [
             {
-              "title": "SEC.gov | SafeMoon LLC, SafeMoon US LLC, Kyle Nagy, Braden John Karony, and Thomas Smith",
-              "publisher": "U.S. Securities and Exchange Commission",
-              "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25888",
+              "title": "Founders and Executives of Digital-Asset Company Charged in Multi-Million Dollar International Fraud Scheme",
+              "publisher": "U.S. Department of Justice (EDNY)",
+              "url": "https://www.justice.gov/usao-edny/pr/founders-and-executives-digital-asset-company-charged-multi-million-dollar",
               "type": "press-release"
             }
           ]
         }
       ],
       "details": [
-        "Named in SEC litigation release concerning SafeMoon.",
-        "Status set to ‘charged’ to reflect a formal enforcement posture.",
-        "Add DOJ criminal press release citation if a specific individual-naming criminal release is included.",
-        "Keep summary limited to cited material."
+        "Named by DOJ (EDNY) in connection with a SafeMoon criminal case.",
+        "DOJ release describes alleged diversion of liquidity and concealment of transactions (see DOJ release).",
+        "Update this profile with plea/sentencing details when the docket progresses.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
@@ -3063,11 +3600,11 @@
       "tags": [
         "etherdelta",
         "dex",
-        "sec",
         "unregistered-exchange",
-        "legal-case"
+        "sec",
+        "enforcement"
       ],
-      "summary": "EtherDelta founder; settled SEC charges related to operating an unregistered exchange (per SEC public release).",
+      "summary": "Founder of EtherDelta; settled SEC charges for operating an unregistered securities exchange (per SEC press release).",
       "jurisdiction": [
         "US"
       ],
@@ -3075,7 +3612,7 @@
       "timeline": [
         {
           "date": "2018-11-08",
-          "event": "SEC announced charges against the EtherDelta founder for operating an unregistered exchange; matter described as a settled administrative action.",
+          "event": "SEC announced settled charges against EtherDelta founder Zachary Coburn for operating an unregistered exchange.",
           "sources": [
             {
               "title": "SEC Charges EtherDelta Founder With Operating an Unregistered Exchange",
@@ -3087,10 +3624,10 @@
         }
       ],
       "details": [
-        "SEC press release describes an enforcement action against EtherDelta’s founder.",
-        "Status set to ‘settled’ based on SEC release framing.",
-        "This is a civil/administrative posture; keep summary limited to SEC statements.",
-        "Images intentionally omitted unless a clear CC/PD photo is located."
+        "SEC described EtherDelta as an online platform for secondary trading of ERC20 tokens.",
+        "Resolution was a settlement (civil enforcement), not a criminal case.",
+        "Relevant for compliance themes: exchange registration and secondary market token trading.",
+        "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
       ]
     },
     {
