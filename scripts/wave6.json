@@ -1,0 +1,985 @@
+[
+  {
+    "id": "changpeng-zhao",
+    "name": "Changpeng Zhao",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "exchange",
+      "binance",
+      "bsa",
+      "aml",
+      "compliance",
+      "legal-case"
+    ],
+    "summary": "Former Binance CEO; pleaded guilty in U.S. federal court to a Bank Secrecy Act violation in connection with a U.S. resolution involving Binance (per DOJ).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-11-21",
+        "event": "DOJ announced that Binance and its CEO Changpeng Zhao pleaded guilty as part of a U.S. resolution concerning violations including Bank Secrecy Act/AML compliance failures.",
+        "sources": [
+          {
+            "title": "Binance and CEO Plead Guilty to Federal Charges in $4B Resolution",
+            "publisher": "U.S. Department of Justice (Office of Public Affairs)",
+            "url": "https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "U.S. resolution described by DOJ involved Binance’s compliance with AML/BSA obligations.",
+      "Profile focuses on the individual executive (Zhao) rather than the corporate entity.",
+      "Status reflects a formal U.S. criminal case milestone/outcome referenced by DOJ.",
+      "Jurisdiction marked US due to DOJ action and federal court process.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "sam-bankman-fried",
+    "name": "Sam Bankman-Fried",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "exchange",
+      "ftx",
+      "fraud",
+      "wire-fraud",
+      "securities-fraud",
+      "legal-case"
+    ],
+    "summary": "Former FTX CEO; sentenced in SDNY following convictions related to the collapse of the FTX crypto exchange (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-03-28",
+        "event": "SDNY announced Sam Bankman-Fried was sentenced to 25 years in prison for crimes described as a massive fraud tied to FTX.",
+        "sources": [
+          {
+            "title": "Sam Bankman-Fried Sentenced To 25 Years In Prison For Orchestrating Massive Fraud",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/sam-bankman-fried-sentenced-25-years-prison-orchestrating-massive-fraud",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Case is tied to the collapse of the FTX exchange and associated entities.",
+      "Status reflects a formal U.S. sentencing announcement.",
+      "Timeline event sourced to SDNY press release; additional details should be checked against court filings.",
+      "Jurisdiction marked US (SDNY federal case).",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "caroline-ellison",
+    "name": "Caroline Ellison",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "ftx",
+      "alameda",
+      "fraud",
+      "plea",
+      "legal-case"
+    ],
+    "summary": "Former Alameda Research CEO; sentenced in SDNY for participation in the FTX-related fraud conspiracy (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-09-24",
+        "event": "SDNY announced Caroline Ellison was sentenced for participating in the FTX fraud conspiracy.",
+        "sources": [
+          {
+            "title": "Caroline Ellison Sentenced To Two Years In Prison For Participating In FTX Fraud Conspiracy",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/caroline-ellison-sentenced-two-years-prison-participating-ftx-fraud-conspiracy",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Profile relates to the FTX/Alameda criminal matter prosecuted in SDNY.",
+      "Status reflects a formal sentencing announcement.",
+      "Allegations and factual summaries should be read in the context of plea/court records.",
+      "Jurisdiction marked US due to SDNY prosecution.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "nishad-singh",
+    "name": "Nishad Singh",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "ftx",
+      "fraud",
+      "plea",
+      "campaign-finance",
+      "legal-case"
+    ],
+    "summary": "Former FTX engineering executive; pleaded guilty in SDNY to charges described by DOJ as participation in the FTX fraud conspiracy.",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-02-28",
+        "event": "SDNY announced Nishad Singh pleaded guilty for participating in the FTX fraud conspiracy.",
+        "sources": [
+          {
+            "title": "Nishad Singh Pleads Guilty To Participating In FTX Fraud Conspiracy",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/nishad-singh-pleads-guilty-participating-ftx-fraud-conspiracy",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects a guilty plea (formal court action) announced by SDNY.",
+      "This profile is limited to the DOJ-described conduct in the SDNY case.",
+      "FTX-related prosecutions involve multiple defendants; roles differ by individual.",
+      "Jurisdiction marked US due to SDNY federal case.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "alex-mashinsky",
+    "name": "Alex Mashinsky",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "celsius",
+      "fraud",
+      "commodities",
+      "securities",
+      "legal-case"
+    ],
+    "summary": "Founder and former CEO of Celsius Network; charged in SDNY in connection with the platform’s failure (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-07-13",
+        "event": "SDNY announced charges against Alex Mashinsky, founder and former CEO of Celsius Network, in connection with the company’s failure.",
+        "sources": [
+          {
+            "title": "Founder And Former CEO Of Celsius Network LLC Charged In Connection With Its Failure",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-celsius-network-llc-charged-connection-its-failure",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects formal U.S. criminal charges; allegations remain unproven unless adjudicated.",
+      "Celsius-related matters include parallel regulatory and bankruptcy proceedings; this profile anchors to the SDNY criminal case.",
+      "Timeline citation is a DOJ SDNY press release.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "heather-morgan",
+    "name": "Heather Morgan",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "money-laundering",
+      "bitfinex",
+      "bitcoin",
+      "legal-case"
+    ],
+    "summary": "Also known as 'Razzlekhan'; sentenced in SDNY in connection with laundering of cryptocurrency tied to the 2016 Bitfinex hack (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-11-18",
+        "event": "SDNY announced Heather Morgan was sentenced in connection with laundering of cryptocurrency associated with the 2016 Bitfinex hack.",
+        "sources": [
+          {
+            "title": "Heather Morgan Sentenced In Connection With Laundering Of Cryptocurrency Stolen From Bitfinex",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/heather-morgan-sentenced-connection-laundering-cryptocurrency-stolen-bitfinex",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects sentencing in a U.S. federal criminal case.",
+      "The matter relates to laundering of funds DOJ links to the 2016 Bitfinex hack.",
+      "Role described in DOJ materials focuses on laundering activity, not necessarily the underlying intrusion.",
+      "Jurisdiction marked US (SDNY).",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "ilya-lichtenstein",
+    "name": "Ilya Lichtenstein",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "money-laundering",
+      "bitfinex",
+      "bitcoin",
+      "legal-case"
+    ],
+    "summary": "Sentenced in SDNY in connection with laundering cryptocurrency DOJ links to the 2016 Bitfinex hack (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-07-18",
+        "event": "SDNY announced Ilya Lichtenstein was sentenced in connection with laundering of cryptocurrency stolen from Bitfinex.",
+        "sources": [
+          {
+            "title": "Ilya Lichtenstein Sentenced In Connection With Laundering Of Cryptocurrency Stolen From Bitfinex",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/ilya-lichtenstein-sentenced-connection-laundering-cryptocurrency-stolen-bitfinex",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects a formal sentencing announcement by SDNY.",
+      "Case is tied to laundering of cryptocurrency DOJ links to the 2016 Bitfinex hack.",
+      "Profile uses DOJ/SDNY public statements as the baseline description.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "roman-storm",
+    "name": "Roman Storm",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "mixer",
+      "tornado-cash",
+      "money-laundering",
+      "sanctions",
+      "legal-case"
+    ],
+    "summary": "Developer associated with Tornado Cash; charged in SDNY for alleged money laundering and sanctions violations (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-08-23",
+        "event": "SDNY announced Roman Storm was charged with offenses described as money laundering and sanctions violations related to Tornado Cash.",
+        "sources": [
+          {
+            "title": "Roman Storm Charged With Money Laundering And Sanctions Violations Related To Tornado Cash",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/roman-storm-charged-money-laundering-and-sanctions-violations-related-tornado-cash",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects formal U.S. criminal charges; allegations remain unproven unless adjudicated.",
+      "Case centers on a crypto mixing service and alleged facilitation of laundering/sanctions violations.",
+      "Timeline anchored to SDNY announcement.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "satish-kumbhani",
+    "name": "Satish Kumbhani",
+    "type": "individual",
+    "status": "wanted",
+    "tags": [
+      "ponzi",
+      "bitconnect",
+      "fraud",
+      "unregistered-securities",
+      "legal-case"
+    ],
+    "summary": "BitConnect founder; charged in SDNY in connection with the BitConnect scheme (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-02-25",
+        "event": "SDNY announced charges against Satish Kumbhani, described as the founder of BitConnect, in connection with the scheme.",
+        "sources": [
+          {
+            "title": "Founder Of BitConnect Charged In Largest Cryptocurrency Fraud Scheme",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/founder-bitconnect-charged-largest-cryptocurrency-fraud-scheme",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status marked wanted to reflect that the DOJ announcement describes charges while the defendant was not in U.S. custody at the time.",
+      "BitConnect has been described by U.S. authorities as a major crypto-related fraud.",
+      "This entry focuses on the indicted individual rather than the broader network of promoters.",
+      "Jurisdiction marked US (SDNY case).",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "avraham-eisenberg",
+    "name": "Avraham Eisenberg",
+    "type": "individual",
+    "status": "convicted",
+    "tags": [
+      "defi",
+      "mango-markets",
+      "market-manipulation",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Trader convicted in SDNY for offenses relating to the Mango Markets DeFi incident (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-04-18",
+        "event": "SDNY announced Avraham Eisenberg was convicted of crimes tied to the Mango Markets incident.",
+        "sources": [
+          {
+            "title": "Manhattan U.S. Attorney Announces Conviction Of Avraham Eisenberg For Commodities Fraud, Commodities Manipulation, And Wire Fraud",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-conviction-avraham-eisenberg-commodities-fraud-commodities-manipulation-and-wire-fraud",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects conviction announced by SDNY.",
+      "Incident involved DeFi protocol Mango Markets and allegations of manipulation/fraud.",
+      "Timeline anchored to the DOJ/SDNY conviction announcement.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "ruja-ignatova",
+    "name": "Ruja Ignatova",
+    "type": "individual",
+    "status": "wanted",
+    "tags": [
+      "onecoin",
+      "fraud",
+      "ponzi",
+      "fbi-most-wanted",
+      "legal-case"
+    ],
+    "summary": "OneCoin founder known as the 'Cryptoqueen'; indicted in SDNY and later added to FBI's Ten Most Wanted list (per DOJ and FBI).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2017-03-09",
+        "event": "SDNY announced charges against Ruja Ignatova in connection with the OneCoin scheme.",
+        "sources": [
+          {
+            "title": "Manhattan U.S. Attorney Announces Charges Against Ruja Ignatova, Founder Of OneCoin",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-charges-against-ruja-ignatova-founder-onecoin",
+            "type": "press-release"
+          }
+        ]
+      },
+      {
+        "date": "2022-06-30",
+        "event": "FBI added Ruja Ignatova to its Ten Most Wanted Fugitives list.",
+        "sources": [
+          {
+            "title": "Ruja Ignatova",
+            "publisher": "Federal Bureau of Investigation (FBI) — Ten Most Wanted",
+            "url": "https://www.fbi.gov/wanted/topten/ruja-ignatova",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status marked wanted based on fugitive posture described by U.S. authorities.",
+      "OneCoin has been described by U.S. prosecutors as a large-scale fraud targeting investors.",
+      "Timeline includes DOJ charging announcement and FBI Ten Most Wanted listing.",
+      "Jurisdiction marked US due to SDNY indictment.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "kim-kardashian",
+    "name": "Kim Kardashian",
+    "type": "individual",
+    "status": "settled",
+    "tags": [
+      "touting",
+      "securities",
+      "disclosure",
+      "sec",
+      "celebrity"
+    ],
+    "summary": "Settled SEC charges related to promoting a crypto asset security without disclosing compensation (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-10-03",
+        "event": "SEC announced Kim Kardashian settled charges for unlawfully touting a crypto asset security without disclosing she was paid for the promotion.",
+        "sources": [
+          {
+            "title": "Kim Kardashian Settles Charges Related to Unlawfully Touting Crypto Security",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2022-183",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects a formal SEC settlement, not a criminal case.",
+      "SEC described the issue as failure to disclose compensation for a promotional post.",
+      "This entry is limited to the SEC’s public announcement and does not assert facts beyond it.",
+      "Jurisdiction marked US (SEC enforcement).",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "jake-paul",
+    "name": "Jake Paul",
+    "type": "individual",
+    "status": "settled",
+    "tags": [
+      "touting",
+      "securities",
+      "sec",
+      "celebrity",
+      "trx"
+    ],
+    "summary": "Agreed to settle SEC allegations tied to promoting crypto asset securities without required disclosures in the SEC’s Tron/BitTorrent enforcement action (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-03-22",
+        "event": "SEC charged Justin Sun and related entities and noted certain celebrities (including Jake Paul) agreed to settle charges for touting crypto asset securities without proper disclosure.",
+        "sources": [
+          {
+            "title": "SEC Charges Crypto Asset Entrepreneur Justin Sun and His Companies for Fraud and Other Securities Law Violations",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2023-59",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects an SEC settlement referenced in the SEC press release.",
+      "The SEC release described alleged unlawful touting without disclosure of compensation.",
+      "This profile focuses on the individual promoter, separate from the issuer/entrepreneur defendants.",
+      "Jurisdiction marked US (SEC enforcement).",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "lindsay-lohan",
+    "name": "Lindsay Lohan",
+    "type": "individual",
+    "status": "settled",
+    "tags": [
+      "touting",
+      "securities",
+      "sec",
+      "celebrity",
+      "trx"
+    ],
+    "summary": "Agreed to settle SEC allegations tied to promoting crypto asset securities without required disclosures in the SEC’s Tron/BitTorrent action (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-03-22",
+        "event": "SEC stated that certain celebrities (including Lindsay Lohan) agreed to settle charges for touting crypto asset securities without proper disclosure.",
+        "sources": [
+          {
+            "title": "SEC Charges Crypto Asset Entrepreneur Justin Sun and His Companies for Fraud and Other Securities Law Violations",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2023-59",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects an SEC settlement referenced by the SEC.",
+      "The SEC described the conduct as touting without disclosing compensation.",
+      "This entry does not infer additional misconduct beyond the SEC’s public statement.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "austin-mahone",
+    "name": "Austin Mahone",
+    "type": "individual",
+    "status": "settled",
+    "tags": [
+      "touting",
+      "securities",
+      "sec",
+      "celebrity",
+      "trx"
+    ],
+    "summary": "Agreed to settle SEC allegations related to touting crypto asset securities without required disclosures in the SEC’s Tron/BitTorrent action (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-03-22",
+        "event": "SEC stated that certain celebrities (including Austin Mahone) agreed to settle charges for touting crypto asset securities without proper disclosure.",
+        "sources": [
+          {
+            "title": "SEC Charges Crypto Asset Entrepreneur Justin Sun and His Companies for Fraud and Other Securities Law Violations",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2023-59",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects an SEC settlement referenced by the SEC.",
+      "The SEC described a disclosure failure (compensation not properly disclosed).",
+      "This profile is limited to the public SEC announcement.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "ne-yo",
+    "name": "Shaffer Smith (Ne-Yo)",
+    "type": "individual",
+    "status": "settled",
+    "tags": [
+      "touting",
+      "securities",
+      "sec",
+      "celebrity",
+      "trx"
+    ],
+    "summary": "Recording artist Ne-Yo (Shaffer Smith); agreed to settle SEC allegations tied to touting crypto asset securities without required disclosures in the SEC’s Tron/BitTorrent action (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-03-22",
+        "event": "SEC stated that certain celebrities (including Shaffer Smith, known as Ne-Yo) agreed to settle charges for touting crypto asset securities without proper disclosure.",
+        "sources": [
+          {
+            "title": "SEC Charges Crypto Asset Entrepreneur Justin Sun and His Companies for Fraud and Other Securities Law Violations",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2023-59",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects an SEC settlement referenced by the SEC.",
+      "SEC’s statement concerned promotional activity and disclosure obligations.",
+      "Identity included as stage name plus legal name for disambiguation.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "lil-yachty",
+    "name": "Miles Parks McCollum (Lil Yachty)",
+    "type": "individual",
+    "status": "settled",
+    "tags": [
+      "touting",
+      "securities",
+      "sec",
+      "celebrity",
+      "trx"
+    ],
+    "summary": "Recording artist Lil Yachty (Miles Parks McCollum); agreed to settle SEC allegations tied to touting crypto asset securities without required disclosures in the SEC’s Tron/BitTorrent action (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-03-22",
+        "event": "SEC stated that certain celebrities (including Miles Parks McCollum, known as Lil Yachty) agreed to settle charges for touting crypto asset securities without proper disclosure.",
+        "sources": [
+          {
+            "title": "SEC Charges Crypto Asset Entrepreneur Justin Sun and His Companies for Fraud and Other Securities Law Violations",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2023-59",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects an SEC settlement referenced by the SEC.",
+      "SEC’s statement concerned promotional activity and disclosure obligations.",
+      "Identity included as stage name plus legal name for disambiguation.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "mark-scott-onecoin",
+    "name": "Mark Scott",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "onecoin",
+      "money-laundering",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Attorney convicted in SDNY for laundering proceeds tied to the OneCoin scheme; sentenced in SDNY (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2020-01-23",
+        "event": "SDNY announced Mark Scott was sentenced for laundering funds tied to the OneCoin scheme.",
+        "sources": [
+          {
+            "title": "Attorney Mark Scott Sentenced To 10 Years In Prison For Laundering Money From OneCoin Fraud Scheme",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/attorney-mark-scott-sentenced-10-years-prison-laundering-money-onecoin-fraud-scheme",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects sentencing in a U.S. federal criminal case.",
+      "OneCoin has been described by U.S. prosecutors as a large-scale fraud scheme.",
+      "This profile focuses on laundering-related convictions described by DOJ.",
+      "Jurisdiction marked US (SDNY).",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "konstantin-ignatov",
+    "name": "Konstantin Ignatov",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "onecoin",
+      "fraud",
+      "plea",
+      "legal-case"
+    ],
+    "summary": "Brother of OneCoin founder; pleaded guilty and was later sentenced in SDNY in the OneCoin case (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-10-06",
+        "event": "SDNY announced Konstantin Ignatov was sentenced in connection with the OneCoin fraud scheme.",
+        "sources": [
+          {
+            "title": "Konstantin Ignatov Sentenced In Connection With OneCoin Fraud Scheme",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/konstantin-ignatov-sentenced-connection-onecoin-fraud-scheme",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects sentencing in SDNY.",
+      "Profile is tied to OneCoin-related fraud case described by U.S. prosecutors.",
+      "Timeline anchored to DOJ/SDNY sentencing announcement.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "karl-greenwood",
+    "name": "Karl Sebastian Greenwood",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "onecoin",
+      "fraud",
+      "sentencing",
+      "legal-case"
+    ],
+    "summary": "OneCoin co-founder; sentenced in SDNY for role in the OneCoin scheme (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-09-13",
+        "event": "SDNY announced Karl Sebastian Greenwood was sentenced in connection with the OneCoin fraud scheme.",
+        "sources": [
+          {
+            "title": "OneCoin Co-Founder Karl Sebastian Greenwood Sentenced To 20 Years In Prison",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/onecoin-co-founder-karl-sebastian-greenwood-sentenced-20-years-prison",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects sentencing announced by SDNY.",
+      "Case relates to OneCoin, which U.S. authorities have described as a major fraud scheme.",
+      "Timeline anchored to DOJ/SDNY press release.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "do-kwon",
+    "name": "Do Kwon",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "terra",
+      "luna",
+      "ust",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Terraform Labs founder and CEO; charged in SDNY with offenses tied to the Terra/LUNA ecosystem collapse (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-03-23",
+        "event": "SDNY announced Do Kwon was charged in connection with the collapse of Terraform Labs’ digital asset ecosystem.",
+        "sources": [
+          {
+            "title": "Terraform Labs Founder and CEO Do Kwon Charged with Fraud",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/terraform-labs-founder-and-ceo-do-kwon-charged-fraud",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects formal U.S. criminal charges; allegations remain unproven unless adjudicated.",
+      "Matter is connected to the Terra/LUNA/UST ecosystem and its collapse.",
+      "Timeline anchored to SDNY announcement.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "justin-sun",
+    "name": "Justin Sun",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "trx",
+      "btt",
+      "sec",
+      "fraud",
+      "market-manipulation"
+    ],
+    "summary": "Crypto asset entrepreneur; charged by the SEC with fraud and other securities law violations relating to TRX and BTT (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-03-22",
+        "event": "SEC charged Justin Sun and his companies with fraud and other securities law violations related to the offer and sale of crypto asset securities TRX and BTT.",
+        "sources": [
+          {
+            "title": "SEC Charges Crypto Asset Entrepreneur Justin Sun and His Companies for Fraud and Other Securities Law Violations",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2023-59",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects an SEC enforcement action (civil), not a criminal conviction.",
+      "SEC press release describes allegations; these remain allegations unless proven in court.",
+      "Profile ties to TRX/BTT promotional and trading-related allegations described by SEC.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "ian-balina",
+    "name": "Ian Balina",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "ico",
+      "touting",
+      "securities",
+      "sec",
+      "influencer"
+    ],
+    "summary": "Crypto influencer; charged by the SEC for allegedly failing to disclose compensation received for promoting an ICO (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-09-19",
+        "event": "SEC announced charges against Ian Balina for allegedly failing to disclose compensation for promoting an initial coin offering.",
+        "sources": [
+          {
+            "title": "SEC Charges Crypto Influencer for Unlawfully Promoting a Token Offering",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2022-170",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects an SEC charging announcement; allegations are not adjudicated facts.",
+      "Case concerns alleged nondisclosure of compensation for promotion (touting).",
+      "This entry is limited to the SEC’s stated allegations and public notice.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "virgil-griffith",
+    "name": "Virgil Griffith",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "sanctions",
+      "dprk",
+      "ethereum",
+      "ieepa",
+      "legal-case"
+    ],
+    "summary": "Ethereum developer; sentenced in SDNY for conspiracy related to sanctions/IEEPA issues connected to North Korea (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-04-12",
+        "event": "SDNY announced Virgil Griffith was sentenced for conspiring to violate U.S. sanctions law in connection with providing services to North Korea.",
+        "sources": [
+          {
+            "title": "Ethereum Developer Virgil Griffith Sentenced In Manhattan Federal Court For Conspiring To Violate The International Emergency Economic Powers Act",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/ethereum-developer-virgil-griffith-sentenced-manhattan-federal-court-conspiring-violate-international-emergency-economic-powers-act",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Status reflects a formal sentencing in a U.S. federal case.",
+      "Case involves sanctions/IEEPA-related conduct described by SDNY.",
+      "Relevance to crypto stems from Ethereum expertise and alleged services provided.",
+      "Jurisdiction marked US.",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  },
+  {
+    "id": "ross-ulbricht",
+    "name": "Ross Ulbricht",
+    "type": "individual",
+    "status": "sentenced",
+    "tags": [
+      "darknet",
+      "silk-road",
+      "bitcoin",
+      "legal-case"
+    ],
+    "summary": "Creator of the Silk Road darknet marketplace; sentenced in SDNY in a case involving criminal activity facilitated via Bitcoin (per DOJ/SDNY).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2015-05-29",
+        "event": "SDNY announced Ross Ulbricht was sentenced in connection with creating and operating the Silk Road online black market.",
+        "sources": [
+          {
+            "title": "Ross Ulbricht (a/k/a Dread Pirate Roberts) Sentenced in Manhattan Federal Court",
+            "publisher": "U.S. Attorney's Office, Southern District of New York",
+            "url": "https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Silk Road is historically significant for early large-scale illicit Bitcoin usage.",
+      "Status reflects a formal U.S. sentencing outcome.",
+      "Timeline anchors to SDNY sentencing announcement.",
+      "Jurisdiction marked US (SDNY).",
+      "Images intentionally omitted unless a clearly licensed (CC/PD) image is verified."
+    ]
+  }
+]
