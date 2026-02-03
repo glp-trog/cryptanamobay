@@ -111,10 +111,29 @@ patch = {
     'licenseUrl': 'https://creativecommons.org/licenses/by/4.0',
     'attribution': 'Press Service of the President of Russia (Kremlin.ru)',
     'caption': 'Steven Seagal (2016)'
+  },
+  'jake-paul': {
+    'path': 'assets/img/profiles/jake-paul-2019.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Jake_Paul_2019.jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Jake_Paul_2019.jpg',
+    'license': 'CC BY 2.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by/2.0',
+    'attribution': 'Erik Drost (via Flickr; per Commons)',
+    'caption': 'Jake Paul (2019)'
+  },
+  'lindsay-lohan': {
+    'path': 'assets/img/profiles/lindsay-lohan-gage-skidmore-2025.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Lindsay_Lohan_by_Gage_Skidmore.jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Lindsay_Lohan_by_Gage_Skidmore.jpg',
+    'license': 'CC BY-SA 3.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by-sa/3.0',
+    'attribution': 'Gage Skidmore (Own work; per Commons)',
+    'caption': 'Lindsay Lohan at CinemaCon (2025)'
   }
 }
 
-with open(DATA, 'r', encoding='utf-8') as f:
+# tolerate UTF-8 BOM introduced by some Windows tooling
+with open(DATA, 'r', encoding='utf-8-sig') as f:
   data = json.load(f)
 
 seen = set()
