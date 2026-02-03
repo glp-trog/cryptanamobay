@@ -130,7 +130,7 @@ def build_page(p: dict, updated_at: str) -> str:
     <div class=\"header\">
       <div class=\"brand\">
         <div class=\"brandline\">
-          <img class=\"logo\" src=\"../assets/img/logo.jpg\" alt=\"CryptanamoBay logo\" />
+          <img class=\"logo\" src=\"../assets/img/logo.png\" alt=\"CryptanamoBay logo\" />
           <h1 style=\"margin:0\"><a href=\"../index.html\" style=\"color:inherit\">CryptanamoBay</a></h1>
         </div>
         <p>Profile details (timeline + sources). If something is wrong, use Contact / Corrections.</p>
