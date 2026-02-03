@@ -1,0 +1,934 @@
+[
+  {
+    "id": "chun-gan",
+    "name": "Chun Gan",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "kucoin",
+      "exchange",
+      "bsa",
+      "aml",
+      "legal-case"
+    ],
+    "summary": "KuCoin co-founder; charged in U.S. proceedings tied to alleged Bank Secrecy Act / AML failures involving KuCoin (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-03-26",
+        "event": "DOJ (SDNY) announced criminal charges involving KuCoin and two co-founders (including Chun Gan) tied to alleged BSA/AML violations.",
+        "sources": [
+          {
+            "title": "Prominent Global Cryptocurrency Exchange KuCoin And Two Of Its Founders Criminally Charged",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Identified in DOJ (SDNY) public releases as a KuCoin co-founder named in U.S. criminal charges.",
+      "Case framing centers on alleged AML/BSA compliance failures and U.S.-facing operations (see DOJ release).",
+      "Prefer updating this profile with indictment/docket details when available.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "ke-tang",
+    "name": "Ke Tang",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "kucoin",
+      "exchange",
+      "bsa",
+      "aml",
+      "legal-case"
+    ],
+    "summary": "KuCoin co-founder; charged in U.S. proceedings tied to alleged Bank Secrecy Act / AML failures involving KuCoin (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-03-26",
+        "event": "DOJ (SDNY) announced criminal charges involving KuCoin and two co-founders (including Ke Tang) tied to alleged BSA/AML violations.",
+        "sources": [
+          {
+            "title": "Prominent Global Cryptocurrency Exchange KuCoin And Two Of Its Founders Criminally Charged",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Identified in DOJ (SDNY) public releases as a KuCoin co-founder named in U.S. criminal charges.",
+      "Case framing centers on alleged AML/BSA compliance failures and U.S.-facing operations (see DOJ release).",
+      "Prefer updating this profile with indictment/docket details when available.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "anatoly-legkodymov",
+    "name": "Anatoly Legkodymov",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "bitzlato",
+      "exchange",
+      "money-transmitting",
+      "aml",
+      "legal-case"
+    ],
+    "summary": "Bitzlato founder/majority owner; pleaded guilty in a U.S. case involving operating an unlicensed money transmitting business (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-07-??",
+        "event": "DOJ (EDNY) announced that the founder and majority owner of a cryptocurrency exchange (Bitzlato) pleaded guilty to operating an unlicensed money transmitting business.",
+        "sources": [
+          {
+            "title": "Founder and Majority Owner of Cryptocurrency Exchange Pleads Guilty to Unlicensed Money Transmitting",
+            "publisher": "U.S. Department of Justice (EDNY)",
+            "url": "https://www.justice.gov/usao-edny/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (EDNY) press release describes a guilty plea tied to Bitzlato’s operation as an unlicensed money transmitting business.",
+      "Bitzlato has been publicly described as a high-risk exchange in AML enforcement contexts.",
+      "Status is set to ‘pleaded’ based on DOJ language (pleaded guilty).",
+      "Add sentencing/docket updates as they become available."
+    ]
+  },
+  {
+    "id": "irina-dilkinska",
+    "name": "Irina Dilkinska",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "onecoin",
+      "fraud",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "OneCoin ‘head of legal and compliance’ (as described by DOJ); pleaded guilty in U.S. proceedings tied to the OneCoin scheme (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-11-03",
+        "event": "DOJ (SDNY) announced that the ‘Head of Legal and Compliance’ for OneCoin pleaded guilty in U.S. proceedings.",
+        "sources": [
+          {
+            "title": "Head Of Legal And Compliance For Multibillion Dollar Cryptocurrency Pyramid Scheme “OneCoin” Pleads Guilty",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/head-legal-and-compliance-multibillion-dollar-cryptocurrency-pyramid-scheme-onecoin",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) publicly described Dilkinska as OneCoin’s head of legal and compliance.",
+      "Status is set to ‘pleaded’ based on DOJ announcement of a guilty plea.",
+      "OneCoin is widely characterized as a major crypto fraud/pyramid scheme; keep claims tethered to cited sources.",
+      "Profile should be updated with sentencing and restitution details if/when published."
+    ]
+  },
+  {
+    "id": "nathaniel-chastain",
+    "name": "Nathaniel Chastain",
+    "type": "individual",
+    "status": "convicted",
+    "tags": [
+      "nft",
+      "opensea",
+      "insider-trading",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Former OpenSea employee; convicted/sentenced in a U.S. case described by DOJ as the first digital-asset insider trading case (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-08-22",
+        "event": "DOJ (SDNY) announced sentencing of a former NFT marketplace employee in the first-ever digital-asset insider trading case.",
+        "sources": [
+          {
+            "title": "Former Employee Of NFT Marketplace Sentenced To Prison In First Ever Digital Asset Insider Trading Case",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-sentenced-prison-first-ever-digital-asset-insider",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) framed the matter as the first-ever ‘digital asset’ insider trading case.",
+      "This profile is limited to the formally adjudicated posture (conviction/sentencing per DOJ release).",
+      "Update the timeline if appellate posture changes.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "ishan-wahi",
+    "name": "Ishan Wahi",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "coinbase",
+      "insider-trading",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Former Coinbase employee; pleaded guilty in a U.S. cryptocurrency insider trading case (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-09-06",
+        "event": "DOJ (SDNY) announced that a former Coinbase insider pleaded guilty in the first-ever cryptocurrency insider trading case.",
+        "sources": [
+          {
+            "title": "Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) press release describes a guilty plea by a former Coinbase employee.",
+      "Matter relates to ‘tipping’/trading around token listing announcements (per DOJ/SEC framing).",
+      "Status set to ‘pleaded’ based on DOJ announcement.",
+      "Consider adding SEC litigation release for cross-citation when integrating."
+    ]
+  },
+  {
+    "id": "nikhil-wahi",
+    "name": "Nikhil Wahi",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "coinbase",
+      "insider-trading",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Tippee in the Coinbase-related U.S. cryptocurrency insider trading case; pleaded guilty (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-09-09",
+        "event": "DOJ (SDNY) announced a guilty plea by a tippee in the first-ever cryptocurrency insider trading case.",
+        "sources": [
+          {
+            "title": "Tippee Pleads Guilty In First Ever Cryptocurrency Insider Trading Case",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/tippee-pleads-guilty-first-ever-cryptocurrency-insider-trading-case",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) described Nikhil Wahi as a tippee who pleaded guilty.",
+      "Case is linked to trading around confidential token-listing information (see DOJ release).",
+      "Status set to ‘pleaded’ based on DOJ announcement.",
+      "Profile can be expanded with sentencing and restitution details when available."
+    ]
+  },
+  {
+    "id": "sameer-ramani",
+    "name": "Sameer Ramani",
+    "type": "individual",
+    "status": "wanted",
+    "tags": [
+      "coinbase",
+      "insider-trading",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Charged in the Coinbase-related U.S. cryptocurrency insider trading case; publicly reported/announced as charged while not in custody at the time of DOJ announcement (verify current status).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-07-21",
+        "event": "DOJ (SDNY) announced charges against three individuals in the first-ever cryptocurrency insider trading tipping scheme (including Sameer Ramani).",
+        "sources": [
+          {
+            "title": "Three Charged In First Ever Cryptocurrency Insider Trading Tipping Scheme",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) publicly announced charges naming Ramani in the insider trading tipping scheme.",
+      "Status is set to ‘wanted’ to reflect a charged-at-large posture (confirm current custody/proceedings on merge).",
+      "Use primary docket/USMS information if adding a ‘wanted’ banner later.",
+      "Avoid adding unverified biographical detail beyond cited sources."
+    ]
+  },
+  {
+    "id": "braden-john-karony",
+    "name": "Braden John Karony",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "safemoon",
+      "token",
+      "fraud",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "SafeMoon executive; charged in U.S. proceedings tied to alleged fraud involving the SafeMoon token ecosystem (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-11-01",
+        "event": "DOJ (EDNY) announced that founders/executives of a digital-asset company (SafeMoon) were charged in a multi-million-dollar fraud scheme.",
+        "sources": [
+          {
+            "title": "Founders and Executives of Digital-Asset Company Charged in Multi-Million-Dollar Fraud Scheme",
+            "publisher": "U.S. Department of Justice (EDNY)",
+            "url": "https://www.justice.gov/usao-edny/pr/founders-and-executives-digital-asset-company-charged-multi-million-dollar",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (EDNY) press release announced charges involving SafeMoon executives.",
+      "This entry reflects the formal ‘charged’ posture; avoid characterizing allegations as proven.",
+      "Add SEC litigation release cross-citation when integrating.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "neil-chandran",
+    "name": "Neil Chandran",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "coindeal",
+      "token",
+      "fraud",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "Associated with CoinDeal; charged in U.S. proceedings and named in SEC litigation related to alleged fraudulent crypto offerings (per SEC/DOJ public materials).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-01-??",
+        "event": "SEC filed/announced litigation naming Neil S. Chandran and others over an alleged fraudulent crypto scheme involving CoinDeal.",
+        "sources": [
+          {
+            "title": "SEC.gov | Neil S. Chandran, Garry J. Davidson, Michael T. Glaspie, and Others",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25608",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Named in SEC litigation release concerning the CoinDeal matter.",
+      "Status set to ‘charged’ (formal enforcement posture; confirm latest criminal posture on merge).",
+      "Keep descriptions narrowly tied to SEC/DOJ wording; do not overstate facts.",
+      "Consider adding DOJ case page citation for criminal case context."
+    ]
+  },
+  {
+    "id": "roman-sterlingov",
+    "name": "Roman Sterlingov",
+    "type": "individual",
+    "status": "convicted",
+    "tags": [
+      "bitcoin-fog",
+      "mixer",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Operator of ‘Bitcoin Fog’ (as described by DOJ); convicted in a U.S. case involving operation of a darknet cryptocurrency money laundering service (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2024-03-12",
+        "event": "DOJ (USAO-DC) announced a jury conviction of the alleged operator of ‘Bitcoin Fog’.",
+        "sources": [
+          {
+            "title": "Jury Finds Russian-Swedish Operator of 'Bitcoin Fog' Guilty of Running Darknet Cryptocurrency Money Laundering Service",
+            "publisher": "U.S. Department of Justice (USAO-DC)",
+            "url": "https://www.justice.gov/usao-dc/pr/jury-finds-russian-swedish-operator-bitcoin-fog-guilty-running-darknet-cryptocurrency",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (USAO-DC) describes a jury conviction relating to operation of ‘Bitcoin Fog’.",
+      "Status set to ‘convicted’ based on DOJ announcement.",
+      "Add sentencing press release / judgment docket links when integrating.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "randall-crater",
+    "name": "Randall Crater",
+    "type": "individual",
+    "status": "convicted",
+    "tags": [
+      "my-big-coin",
+      "fraud",
+      "token",
+      "legal-case"
+    ],
+    "summary": "My Big Coin founder; convicted in a U.S. cryptocurrency fraud scheme (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-07-21",
+        "event": "DOJ announced that the My Big Coin founder was convicted of a cryptocurrency fraud scheme.",
+        "sources": [
+          {
+            "title": "My Big Coin Founder Convicted of Cryptocurrency Fraud Scheme",
+            "publisher": "U.S. Department of Justice (USAO-MA)",
+            "url": "https://www.justice.gov/usao-ma/pr/my-big-coin-founder-convicted-cryptocurrency-fraud-scheme",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (USAO-MA) press release describes conviction for a crypto fraud scheme.",
+      "Status set to ‘convicted’ based on DOJ announcement.",
+      "Add sentencing/restoration orders if/when integrating.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "reginald-fowler",
+    "name": "Reginald Fowler",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "crypto-capital",
+      "banking",
+      "money-transmitting",
+      "legal-case"
+    ],
+    "summary": "Associated with ‘shadow banking’ services for cryptocurrency businesses (per DOJ); pleaded guilty in a U.S. case (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-04-25",
+        "event": "DOJ (SDNY) announced a guilty plea by a former Minnesota Vikings co-owner tied to providing shadow banking services to cryptocurrency businesses.",
+        "sources": [
+          {
+            "title": "Former Co-Owner Of Vikings Pleads Guilty To Providing Shadow Banking Services To Cryptocurrency Businesses",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/former-co-owner-vikings-pleads-guilty-providing-shadow-banking-services-cryptocurrency",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) press release describes a guilty plea tied to ‘shadow banking’ services for crypto businesses.",
+      "Status set to ‘pleaded’ based on DOJ announcement.",
+      "Add sentencing press release as a later timeline item when desired.",
+      "Avoid describing third-party exchange disputes beyond cited materials."
+    ]
+  },
+  {
+    "id": "michael-ackerman-q3",
+    "name": "Michael Ackerman",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "q3",
+      "investment-scam",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Leader of a fake cryptocurrency investment scheme (as described by DOJ); pleaded guilty in U.S. proceedings (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2020-03-10",
+        "event": "DOJ (SDNY) announced that the leader of a fake cryptocurrency investment scheme pleaded guilty to fraud.",
+        "sources": [
+          {
+            "title": "Leader of Fake Cryptocurrency Investment Scheme Pleads Guilty to Fraud",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/leader-fake-cryptocurrency-investment-scheme-pleads-guilty-fraud",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) press release describes a guilty plea for a fake crypto investment scheme.",
+      "Status set to ‘pleaded’ based on DOJ announcement.",
+      "Consider cross-linking SEC/CFTC actions for a fuller enforcement picture.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "zachary-coburn",
+    "name": "Zachary Coburn",
+    "type": "individual",
+    "status": "settled",
+    "tags": [
+      "etherdelta",
+      "dex",
+      "sec",
+      "unregistered-exchange",
+      "legal-case"
+    ],
+    "summary": "EtherDelta founder; settled SEC charges related to operating an unregistered exchange (per SEC public release).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2018-11-08",
+        "event": "SEC announced charges against the EtherDelta founder for operating an unregistered exchange; matter described as a settled administrative action.",
+        "sources": [
+          {
+            "title": "SEC Charges EtherDelta Founder With Operating an Unregistered Exchange",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/newsroom/press-releases/2018-258",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "SEC press release describes an enforcement action against EtherDelta’s founder.",
+      "Status set to ‘settled’ based on SEC release framing.",
+      "This is a civil/administrative posture; keep summary limited to SEC statements.",
+      "Images intentionally omitted unless a clear CC/PD photo is located."
+    ]
+  },
+  {
+    "id": "pablo-rodriguez-airbit",
+    "name": "Pablo Rodriguez",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "airbit-club",
+      "ponzi",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "AirBit Club co-founder; pleaded guilty in U.S. proceedings tied to the AirBit Club cryptocurrency Ponzi scheme (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2021-10-??",
+        "event": "DOJ (SDNY) announced that an AirBit Club co-founder pleaded guilty in connection with the AirBit Club Ponzi scheme.",
+        "sources": [
+          {
+            "title": "Co-Founder Of Global Multi-Million Dollar Cryptocurrency Ponzi Scheme 'AirBit Club' Pleads Guilty",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/co-founder-global-multimillion-dollar-cryptocurrency-ponzi-scheme-airbit-club",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) press release describes a guilty plea by an AirBit Club co-founder.",
+      "Status set to ‘pleaded’ based on DOJ announcement.",
+      "AirBit Club has been publicly characterized as a multi-million-dollar crypto Ponzi scheme (use DOJ wording).",
+      "Add sentencing outcomes as later timeline entries when available."
+    ]
+  },
+  {
+    "id": "gutemberg-dos-santos",
+    "name": "Gutemberg Dos Santos",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "airbit-club",
+      "ponzi",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "AirBit Club operator; named in DOJ SDNY case materials for AirBit Club (verify latest posture and add plea/sentencing as applicable).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2020-05-??",
+        "event": "DOJ SDNY published a case page for U.S. v. Gutemberg Dos Santos et al. (AirBit Club).",
+        "sources": [
+          {
+            "title": "U.S. v. Gutemberg Dos Santos et al., 20 Cr. 398 (GBD) (Airbit Club)",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/us-v-gutemberg-dos-santos-et-al-20-cr-398-gbd-airbit-club",
+            "type": "reference"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ SDNY hosts a case page listing Dos Santos among defendants in the AirBit Club matter.",
+      "Status is conservatively set to ‘charged’ pending a specific guilty-plea/conviction press release link.",
+      "Update to ‘pleaded’ or ‘convicted’ if/when a definitive DOJ press release is added.",
+      "Avoid adding non-DOJ characterizations beyond cited materials."
+    ]
+  },
+  {
+    "id": "james-zhong",
+    "name": "James Zhong",
+    "type": "individual",
+    "status": "convicted",
+    "tags": [
+      "silk-road",
+      "bitcoin",
+      "wire-fraud",
+      "legal-case"
+    ],
+    "summary": "Convicted in U.S. proceedings tied to a historic cryptocurrency seizure and Silk Road-related conduct (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-11-07",
+        "event": "DOJ (SDNY) announced a historic cryptocurrency seizure and conviction in connection with Silk Road-related conduct.",
+        "sources": [
+          {
+            "title": "U.S. Attorney Announces Historic $3.36 Billion Cryptocurrency Seizure and Conviction",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-historic-336-billion-cryptocurrency-seizure-and-conviction",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) press release describes the conviction and a large cryptocurrency seizure.",
+      "Status set to ‘convicted’ based on DOJ announcement.",
+      "Add later sentencing information as a second timeline event if desired.",
+      "Keep the summary limited to DOJ-described facts and posture."
+    ]
+  },
+  {
+    "id": "scott-hughes-airbit",
+    "name": "Scott Hughes",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "airbit-club",
+      "fraud",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Attorney tied to AirBit Club (per DOJ); pleaded guilty in U.S. proceedings related to the AirBit Club Ponzi scheme (per DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2021-10-??",
+        "event": "DOJ (SDNY) announced guilty pleas by AirBit Club operators and an attorney in connection with the AirBit Club Ponzi scheme.",
+        "sources": [
+          {
+            "title": "Operators And Attorney Of Global Multi-Million-Dollar Cryptocurrency Ponzi Scheme 'AirBit Club' Plead Guilty",
+            "publisher": "U.S. Department of Justice (SDNY)",
+            "url": "https://www.justice.gov/usao-sdny/pr/operators-and-attorney-global-multimillion-dollar-cryptocurrency-ponzi-scheme-airbit",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ (SDNY) press release describes guilty pleas including an attorney connected to AirBit Club.",
+      "Status set to ‘pleaded’ based on DOJ announcement.",
+      "Profile should be updated with sentencing details when available.",
+      "Avoid adding claims beyond the cited DOJ release."
+    ]
+  },
+  {
+    "id": "juan-carlos-reynoso",
+    "name": "Juan Carlos Reynoso",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "airbit-club",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Named in DOJ Criminal Division case materials tied to AirBit Club (verify the latest posture when integrating).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2025-10-10",
+        "event": "DOJ Criminal Division (VNS) lists a case captioned United States v. Michael Shannon Sims and Juan Carlos Reynoso.",
+        "sources": [
+          {
+            "title": "United States v. Michael Shannon Sims and Juan Carlos Reynoso",
+            "publisher": "U.S. Department of Justice (Criminal Division, VNS)",
+            "url": "https://www.justice.gov/criminal/criminal-vns/case/united-states-v-michael-shannon-sims-and-juan-carlos-reynoso",
+            "type": "reference"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "DOJ Criminal Division case page lists Reynoso in connection with an AirBit Club-related prosecution.",
+      "Status conservatively set to ‘charged’ based on the case listing.",
+      "Update status to ‘pleaded’/‘convicted’ with a specific plea/conviction source if available.",
+      "Avoid adding details beyond referenced official case material."
+    ]
+  },
+  {
+    "id": "michael-glaspie",
+    "name": "Michael Glaspie",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "coindeal",
+      "fraud",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "Named by the SEC in litigation related to the CoinDeal matter (per SEC litigation release).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-01-??",
+        "event": "SEC litigation release named Michael T. Glaspie (and others) in the CoinDeal matter.",
+        "sources": [
+          {
+            "title": "SEC.gov | Neil S. Chandran, Garry J. Davidson, Michael T. Glaspie, and Others",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25608",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Named in SEC litigation release regarding CoinDeal.",
+      "Status set to ‘charged’ to reflect formal enforcement posture.",
+      "Keep claims limited to the SEC’s description and posture.",
+      "Add criminal-case citations if/when a DOJ press release is added."
+    ]
+  },
+  {
+    "id": "garry-davidson",
+    "name": "Garry Davidson",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "coindeal",
+      "fraud",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "Named by the SEC in litigation related to the CoinDeal matter (per SEC litigation release).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-01-??",
+        "event": "SEC litigation release named Garry J. Davidson (and others) in the CoinDeal matter.",
+        "sources": [
+          {
+            "title": "SEC.gov | Neil S. Chandran, Garry J. Davidson, Michael T. Glaspie, and Others",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25608",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Named in SEC litigation release regarding CoinDeal.",
+      "Status set to ‘charged’ to reflect formal enforcement posture.",
+      "Keep claims limited to the SEC’s description and posture.",
+      "Add criminal-case citations if/when a DOJ press release is added."
+    ]
+  },
+  {
+    "id": "kyle-nagy",
+    "name": "Kyle Nagy",
+    "type": "individual",
+    "status": "wanted",
+    "tags": [
+      "safemoon",
+      "token",
+      "fraud",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "SafeMoon founder/executive named in SEC litigation; reportedly at-large in some reporting (verify current status).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-11-01",
+        "event": "SEC litigation release named SafeMoon LLC and individuals including Kyle Nagy.",
+        "sources": [
+          {
+            "title": "SEC.gov | SafeMoon LLC, SafeMoon US LLC, Kyle Nagy, Braden John Karony, and Thomas Smith",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25888",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Named in SEC litigation release concerning SafeMoon.",
+      "Status set to ‘wanted’ to reflect at-large posture in public reporting; confirm the latest status/custody when merging.",
+      "If ‘wanted’ is retained, add an official custody/USMS/court reference.",
+      "Avoid unverified biographical details."
+    ]
+  },
+  {
+    "id": "michael-shannon-sims",
+    "name": "Michael Shannon Sims",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "airbit-club",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Named in DOJ Criminal Division case materials tied to AirBit Club-related proceedings (verify latest posture when integrating).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2025-10-10",
+        "event": "DOJ Criminal Division (VNS) lists a case captioned United States v. Michael Shannon Sims and Juan Carlos Reynoso.",
+        "sources": [
+          {
+            "title": "United States v. Michael Shannon Sims and Juan Carlos Reynoso",
+            "publisher": "U.S. Department of Justice (Criminal Division, VNS)",
+            "url": "https://www.justice.gov/criminal/criminal-vns/case/united-states-v-michael-shannon-sims-and-juan-carlos-reynoso",
+            "type": "reference"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Listed as a defendant on a DOJ Criminal Division case page in an AirBit Club-related prosecution.",
+      "Status conservatively set to ‘charged’ based on the case listing.",
+      "Update status to ‘pleaded’/‘convicted’ if a definitive plea/conviction source is added.",
+      "Avoid adding narrative claims beyond official case materials."
+    ]
+  },
+  {
+    "id": "thomas-smith-safemoon",
+    "name": "Thomas Smith",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "safemoon",
+      "token",
+      "fraud",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "SafeMoon executive named in SEC litigation and DOJ materials tied to SafeMoon-related allegations (per SEC/DOJ public releases).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2023-11-01",
+        "event": "SEC litigation release named SafeMoon LLC and individuals including Thomas Smith.",
+        "sources": [
+          {
+            "title": "SEC.gov | SafeMoon LLC, SafeMoon US LLC, Kyle Nagy, Braden John Karony, and Thomas Smith",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25888",
+            "type": "press-release"
+          }
+        ]
+      }
+    ],
+    "details": [
+      "Named in SEC litigation release concerning SafeMoon.",
+      "Status set to ‘charged’ to reflect a formal enforcement posture.",
+      "Add DOJ criminal press release citation if a specific individual-naming criminal release is included.",
+      "Keep summary limited to cited material."
+    ]
+  }
+]
