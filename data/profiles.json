@@ -75,6 +75,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: btc-e, exchange, money-laundering, legal-case.",
+        "Key dated item: 2017-07-25 — Arrested in Greece; U.S. charges connected to BTC-e money laundering allegations reported."
       ]
     },
     {
@@ -107,6 +112,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US, TH, CA.",
+        "Key tags: alphabay, darknet, legal-case.",
+        "Key dated item: 2017-07-05 — Arrested in Thailand in connection with AlphaBay takedown."
       ]
     },
     {
@@ -137,6 +147,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Convicted. Jurisdiction: NL.",
+        "Key tags: tornado-cash, mixer, legal-case.",
+        "Key dated item: 2024-05-14 — Reported conviction in the Netherlands connected to Tornado Cash."
       ]
     },
     {
@@ -169,6 +184,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: nft, rug-pull, wire-fraud, money-laundering, legal-case.",
+        "Key dated item: 2022-03-24 — Public reporting of U.S. charges related to “Frosties” NFT fraud and money laundering allegations."
       ]
     },
     {
@@ -200,6 +220,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: bitcoin, money-transmitting, coin-mx, legal-case.",
+        "Key dated item: 2015-07-21 — Reported guilty plea in U.S. federal proceedings involving Coin.mx and operating an unlicensed money transmitting business."
       ]
     },
     {
@@ -230,6 +255,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Convicted. Jurisdiction: US.",
+        "Key tags: liberty-reserve, money-laundering, legal-case.",
+        "Key dated item: 2016-05-06 — Sentenced in U.S. Liberty Reserve money laundering case (verify exact date)."
       ]
     },
     {
@@ -265,7 +295,8 @@
       ],
       "details": [
         "BitMEX co-founder; publicly reported guilty plea in a U.S. Bank Secrecy Act / AML-program case (see timeline sources).",
-        "Further depth should cite DOJ OPA releases and/or court documents rather than summaries where possible."
+        "Further depth should cite DOJ OPA releases and/or court documents rather than summaries where possible.",
+        "Key dated item: 2022-02-24 — Reported guilty plea in U.S. proceedings alleging willful failure to establish, implement, and maintain an AML program at BitMEX."
       ]
     },
     {
@@ -349,6 +380,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: bitmex, exchange, compliance, bsa, legal-case.",
+        "Key dated item: 2022-02-24 — Reported guilty plea in U.S. proceedings for Bank Secrecy Act / AML-program violations."
       ]
     },
     {
@@ -400,6 +436,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: darknet, silk-road-2, money-laundering, legal-case.",
+        "Key dated item: 2014-11-06 — Arrested by the FBI in connection with operation of Silk Road 2.0 (Operation Onymous)."
       ]
     },
     {
@@ -532,6 +573,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: bitcoin, money-transmitting, legal-case.",
+        "Key dated item: 2014-09-04 — Pleaded guilty (SDNY) to aiding and abetting the operation of an unlicensed money transmitting business."
       ]
     },
     {
@@ -572,6 +618,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: ico, promotion, sec, legal-case.",
+        "Key dated item: 2018-11-29 — SEC announced Khaled (and Mayweather) settled charges for failing to disclose compensation for promoting ICOs."
       ]
     },
     {
@@ -656,6 +707,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: nft, rug-pull, wire-fraud, money-laundering, legal-case.",
+        "Key dated item: 2022-03-24 — Public reporting of U.S. charges related to “Frosties” NFT fraud and money laundering allegations."
       ]
     },
     {
@@ -696,6 +752,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: ico, promotion, sec, legal-case.",
+        "Key dated item: 2018-11-29 — SEC announced Mayweather and DJ Khaled settled charges for failing to disclose compensation for promoting ICOs."
       ]
     },
     {
@@ -726,6 +787,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: bitconnect, fraud, legal-case.",
+        "Key dated item: 2021-09-01 — Reported guilty plea in BitConnect case."
       ]
     },
     {
@@ -801,6 +867,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: mining, ponzi, gaw-miners, legal-case.",
+        "Key dated item: 2015-07-20 — DOJ announced Garza pleaded guilty to wire fraud in connection with alleged cryptocurrency mining-related scheme."
       ]
     },
     {
@@ -869,6 +940,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: arisebank, ico, fraud, legal-case.",
+        "Key dated item: 2018-01-25 — DOJ announced AriseBank founder charged in alleged cryptocurrency fraud scheme."
       ]
     },
     {
@@ -901,6 +977,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Convicted. Jurisdiction: US.",
+        "Key tags: fraud, crypto, investment, legal-case.",
+        "Key dated item: 2021-04-30 — DOJ announced sentencing for operator of a cryptocurrency investment scam (“Coin Signals”)."
       ]
     },
     {
@@ -975,6 +1056,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: onecoin, fraud, legal-case.",
+        "Key dated item: 2019-03-06 — Reported guilty plea in OneCoin-related case."
       ]
     },
     {
@@ -1013,6 +1099,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: mixer, helix, money-laundering, legal-case.",
+        "Key dated item: 2022-08-08 — Treasury press release summarizing mixer enforcement and DPRK laundering context (anchor source; verify Harmon-specific case during integration)."
       ]
     },
     {
@@ -1043,6 +1134,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: JP.",
+        "Key tags: mtgox, exchange, legal-case.",
+        "Key dated item: 2015-08-01 — Prosecution/charges in Japan connected to Mt. Gox collapse (verify exact date)."
       ]
     },
     {
@@ -1081,6 +1177,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Convicted. Jurisdiction: US.",
+        "Key tags: onecoin, money-laundering, legal-case.",
+        "Key dated item: 2019-11-21 — Reported conviction in OneCoin-related money laundering case."
       ]
     },
     {
@@ -1113,6 +1214,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: ico, securities-fraud, titanium-blockchain, legal-case.",
+        "Key dated item: 2022-07-25 — DOJ announced Stollery pleaded guilty to one count of securities fraud in connection with TBIS’s ICO."
       ]
     },
     {
@@ -1202,6 +1308,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Wanted. Jurisdiction: US, KP.",
+        "Key tags: north-korea, hacking, lazarus-group, wanted.",
+        "Key dated item: 2022-08-08 — Treasury press release describing DPRK-linked laundering context."
       ]
     },
     {
@@ -1240,6 +1351,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Convicted. Jurisdiction: US.",
+        "Key tags: money-laundering, crime, legal-case.",
+        "Key dated item: 2012-09-01 — Arrested and later pleaded guilty in U.S. federal court (money laundering and other charges) (per public reporting)."
       ]
     },
     {
@@ -1272,6 +1388,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: cryptsy, exchange, fraud, legal-case.",
+        "Key dated item: 2022-05-20 — DOJ announced Cryptsy founder pleaded guilty to wire fraud and money laundering."
       ]
     },
     {
@@ -1310,6 +1431,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: hex, pulsechain, sec, unregistered-offering, legal-case.",
+        "Key dated item: 2023-07-31 — SEC filed civil complaint alleging unregistered crypto asset offerings and fraud allegations related to HEX, PulseChain, and PulseX (verify current docket posture during integration)."
       ]
     },
     {
@@ -1340,6 +1466,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Convicted. Jurisdiction: US.",
+        "Key tags: silk-road, money-transmitting, legal-case.",
+        "Key dated item: 2014-12-19 — Reported guilty plea/conviction in SDNY case involving unlicensed money transmitting tied to Silk Road-related laundering."
       ]
     },
     {
@@ -1372,6 +1503,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: centra-tech, ico, fraud, legal-case.",
+        "Key dated item: 2018-04-02 — DOJ announced charges/arrest related to Centra Tech ICO fraud allegations."
       ]
     },
     {
@@ -1403,6 +1539,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: silk-road, darknet, money-laundering, legal-case.",
+        "Key dated item: 2019-09-06 — Reported guilty plea in U.S. proceedings related to Silk Road money laundering conspiracy."
       ]
     },
     {
@@ -1441,6 +1582,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: bitcoin, tax, legal-case.",
+        "Key dated item: 2024-04-30 — Public reporting of U.S. criminal charges in a tax-related case."
       ]
     },
     {
@@ -1472,6 +1618,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: tornado-cash, mixer, money-laundering, legal-case.",
+        "Key dated item: 2023-08-23 — Reported U.S. criminal charges related to Tornado Cash."
       ]
     },
     {
@@ -1503,6 +1654,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: tornado-cash, mixer, money-laundering, legal-case.",
+        "Key dated item: 2023-08-23 — Reported U.S. criminal charges related to Tornado Cash."
       ]
     },
     {
@@ -1532,6 +1688,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: celsius, legal-case.",
+        "Key dated item: 2023-09-22 — Reported guilty plea in U.S. Celsius-related criminal case (confirm during integration)."
       ]
     },
     {
@@ -1615,6 +1776,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: aml-bitcoin, fraud, money-laundering, legal-case.",
+        "Key dated item: 2020-06-22 — DOJ announced indictment of AML Bitcoin founder for allegedly defrauding investors and laundering proceeds (verify latest posture during integration)."
       ]
     },
     {
@@ -1763,6 +1929,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: bitmex, exchange, compliance, bsa, legal-case.",
+        "Key dated item: 2022-02-24 — Public reporting of guilty plea in U.S. Bank Secrecy Act / AML-program case related to BitMEX."
       ]
     },
     {
@@ -1793,6 +1964,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: bitconnect, fraud, legal-case.",
+        "Key dated item: 2022-02-25 — Reported U.S. indictment/charges in BitConnect case."
       ]
     },
     {
@@ -1825,6 +2001,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: centra-tech, ico, fraud, legal-case.",
+        "Key dated item: 2018-04-02 — DOJ announced charges/arrest related to Centra Tech ICO fraud allegations."
       ]
     },
     {
@@ -1865,6 +2046,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: ico, promotion, sec, legal-case.",
+        "Key dated item: 2019-02-27 — SEC announced Seagal settled charges for failing to disclose compensation received for promoting an ICO."
       ]
     },
     {
@@ -1895,6 +2081,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: silk-road, darknet, legal-case.",
+        "Key dated item: 2014-11-01 — Reported guilty plea in U.S. proceedings connected to operating Silk Road under the alias “Dread Pirate Roberts 2”."
       ]
     },
     {
@@ -1927,6 +2118,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Charged. Jurisdiction: US.",
+        "Key tags: bitcoin, ponzi, securities, sec, legal-case.",
+        "Key dated item: 2013-07-23 — SEC filed civil action related to Bitcoin Savings and Trust (BTCST)."
       ]
     },
     {
@@ -1958,6 +2154,11 @@
             }
           ]
         }
+      ],
+      "details": [
+        "Status: Pleaded guilty. Jurisdiction: US.",
+        "Key tags: ethereum, sanctions, north-korea, legal-case.",
+        "Key dated item: 2021-09-27 — Reported guilty plea in U.S. sanctions-related case involving North Korea."
       ]
     },
     {
