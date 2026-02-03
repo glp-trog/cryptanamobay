@@ -32,7 +32,10 @@ def main():
         pid = p.get('id')
         if not pid:
             continue
+        # keep JS profile page for compatibility
         urls.append((f'/profile.html?id={pid}', updated_at))
+        # prefer static page for indexing
+        urls.append((f'/profiles/{pid}.html', updated_at))
 
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
