@@ -28,7 +28,7 @@ textarea{min-height:110px;resize:vertical}
 .button{cursor:pointer;border:1px solid var(--border);background:rgba(15,23,42,.9);color:var(--text);padding:8px 10px;border-radius:10px;font-size:13px}
 .button:hover{border-color:#2b3a57}
 .pill{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:4px 10px;font-size:12px;border:1px solid var(--border)}
-.avatar{display:block;width:56px;height:56px;border-radius:14px;object-fit:cover;border:1px solid var(--border);background:rgba(15,23,42,.9)}
+.avatar{display:block;flex:0 0 auto;width:56px;height:56px;border-radius:14px;overflow:hidden;object-fit:cover;border:1px solid var(--border);background:rgba(15,23,42,.9)}
 .avatar-lg{width:96px;height:96px;border-radius:18px}
 .pill.alleged{color:var(--warn);background:rgba(251,191,36,.12);border-color:rgba(251,191,36,.25)}
 .pill.charged{color:var(--brand);background:rgba(96,165,250,.12);border-color:rgba(96,165,250,.25)}
