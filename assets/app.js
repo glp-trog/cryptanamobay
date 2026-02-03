@@ -123,7 +123,7 @@ function openModal(id){
   const altText = (p.images?.caption || p.name || 'Profile image');
   const hasMeta = !!p.images?.sourceUrl;
   const imgHtml = `<div style="display:flex;gap:12px;align-items:flex-start;margin-top:10px">
-         <img class="avatar" style="width:88px;height:88px" src="${escapeHtml(imgPath)}" alt="${escapeHtml(altText)}" loading="lazy" />
+         <img class="avatar avatar-lg" src="${escapeHtml(imgPath)}" alt="${escapeHtml(altText)}" loading="lazy" />
          <div class="small">
            <div><strong>Image</strong></div>
            ${hasMeta ? `
