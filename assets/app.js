@@ -70,9 +70,10 @@ function renderTable(rows){
   tbody.innerHTML = rows.map(p=>{
     const tags = (p.tags||[]).slice(0,3).map(t=>`<span class="badge"><strong>#</strong>${escapeHtml(t)}</span>`).join(' ');
     const more = (p.tags||[]).length > 3 ? `<span class="badge">+${(p.tags||[]).length-3}</span>` : '';
-    const imgPath = p.images?.path ? `./${p.images.path}` : './assets/img/profiles/placeholder-person.svg';
-    const altText = (p.images?.caption || p.name || 'Profile image');
-    const avatar = `<img class="avatar" src="${escapeHtml(imgPath)}" alt="${escapeHtml(altText)}" loading="lazy" />`;
+    const imgPath = p.images?.path ? `./${p.images.path}` : null;
+    const avatar = imgPath
+      ? `<img class="avatar" src="${escapeHtml(imgPath)}" alt="${escapeHtml(p.images.caption || p.name)}" loading="lazy" />`
+      : `<div class="avatar" aria-hidden="true"></div>`;
 
     return `
       <tr>
@@ -119,20 +120,18 @@ function openModal(id){
     ['Tags', (p.tags||[]).join(', ') || '—'],
   ];
 
-  const imgPath = p.images?.path ? `./${p.images.path}` : './assets/img/profiles/placeholder-person.svg';
-  const altText = (p.images?.caption || p.name || 'Profile image');
-  const hasMeta = !!p.images?.sourceUrl;
-  const imgHtml = `<div style="display:flex;gap:12px;align-items:flex-start;margin-top:10px">
-         <img class="avatar avatar-lg" src="${escapeHtml(imgPath)}" alt="${escapeHtml(altText)}" loading="lazy" />
+  const imgPath = p.images?.path ? `./${p.images.path}` : null;
+  const imgHtml = imgPath
+    ? `<div style="display:flex;gap:12px;align-items:flex-start;margin-top:10px">
+         <img class="avatar avatar-lg" src="${escapeHtml(imgPath)}" alt="${escapeHtml(p.images.caption || p.name)}" loading="lazy" />
          <div class="small">
-           <div><strong>Image</strong></div>
-           ${hasMeta ? `
-             <div>${escapeHtml(p.images.attribution || '—')}</div>
-             <div>${p.images.licenseUrl ? `<a href="${escapeHtml(p.images.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(p.images.license || 'License')}</a>` : escapeHtml(p.images.license || '—')}</div>
-             <div><a href="${escapeHtml(p.images.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source</a></div>
-           ` : `<div>Placeholder</div>`}
+           <div><strong>Image attribution</strong></div>
+           <div>${escapeHtml(p.images.attribution || '—')}</div>
+           <div>${p.images.licenseUrl ? `<a href="${escapeHtml(p.images.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(p.images.license || 'License')}</a>` : escapeHtml(p.images.license || '—')}</div>
+           <div><a href="${escapeHtml(p.images.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source</a></div>
          </div>
-       </div>`;
+       </div>`
+    : '';
 
   $('#modalKV').innerHTML = kv.map(([k,v])=>`<div>${escapeHtml(k)}</div><div>${escapeHtml(v)}</div>`).join('') + imgHtml;
 
