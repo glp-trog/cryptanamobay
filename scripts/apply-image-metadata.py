@@ -156,6 +156,42 @@ patch = {
     'licenseUrl': 'https://creativecommons.org/licenses/by/2.0',
     'attribution': 'Nicolas Padovani (via Flickr; per Commons)',
     'caption': 'Lil Yachty (Festival d’été de Québec, 2018)'
+  },
+  'changpeng-zhao': {
+    'path': 'assets/img/profiles/changpeng-zhao-2022.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Changpeng_Zhao_in_2022.jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Changpeng_Zhao_in_2022.jpg',
+    'license': 'CC BY-SA 4.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by-sa/4.0',
+    'attribution': 'Aevozer (Own work; per Commons)',
+    'caption': 'Changpeng Zhao speaking at Vietnam NFT Summit (2022)'
+  },
+  'ruja-ignatova': {
+    'path': 'assets/img/profiles/ruja-ignatova-fbi.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Ruja_Ignatova_FBI.jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/7/78/Ruja_Ignatova_FBI.jpg',
+    'license': 'Public domain',
+    'licenseUrl': None,
+    'attribution': 'Federal Bureau of Investigation (FBI) (per Commons)',
+    'caption': 'Ruja Ignatova (FBI wanted poster image)'
+  },
+  'roger-ver': {
+    'path': 'assets/img/profiles/roger-ver.jpg',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Roger_Ver.jpg',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Roger_Ver.jpg',
+    'license': 'CC BY-SA 4.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by-sa/4.0',
+    'attribution': 'Roger Ver (provided by owner; per Commons)',
+    'caption': 'Roger Ver (2016 photo; per Commons)'
+  },
+  'do-kwon': {
+    'path': 'assets/img/profiles/do-kwon.png',
+    'sourceUrl': 'https://commons.wikimedia.org/wiki/File:Do_Kwon.png',
+    'downloadUrl': 'https://upload.wikimedia.org/wikipedia/commons/2/29/Do_Kwon.png',
+    'license': 'CC BY 3.0',
+    'licenseUrl': 'https://creativecommons.org/licenses/by/3.0',
+    'attribution': 'FAQX™ We mining it. (YouTube still; per Commons)',
+    'caption': 'Do Kwon (video still; per Commons)'
   }
 }
 
