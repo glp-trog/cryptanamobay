@@ -1149,19 +1149,11 @@
         "unregistered-offering",
         "legal-case"
       ],
-      "summary": "Crypto promoter associated with HEX/PulseChain; sued by the SEC in a civil enforcement action. Included as Option B with a placeholder image due to no clearly-licensed portrait found.",
+      "summary": "Crypto promoter associated with HEX/PulseChain; sued by the SEC in a civil enforcement action.",
       "jurisdiction": [
         "US"
       ],
-      "images": {
-        "path": "assets/img/profiles/placeholder-person.svg",
-        "sourceUrl": null,
-        "downloadUrl": null,
-        "license": "N/A (placeholder)",
-        "licenseUrl": null,
-        "attribution": "Internal placeholder",
-        "caption": "Placeholder image"
-      },
+      "images": null,
       "timeline": [
         {
           "date": "2023-07-31",
