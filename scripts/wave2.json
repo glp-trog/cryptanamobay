@@ -1,0 +1,819 @@
+[
+  {
+    "id": "arthur-hayes",
+    "name": "Arthur Hayes",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "bitmex",
+      "exchange",
+      "compliance",
+      "bsa",
+      "legal-case"
+    ],
+    "summary": "BitMEX co-founder and former CEO; pleaded guilty in a U.S. Bank Secrecy Act case related to BitMEX’s AML program (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-02-24",
+        "event": "Reported guilty plea in U.S. proceedings alleging willful failure to establish, implement, and maintain an AML program at BitMEX.",
+        "sources": [
+          {
+            "title": "Arthur Hayes (banker)",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Arthur_Hayes_(banker)",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ben-delo",
+    "name": "Ben Delo",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "bitmex",
+      "exchange",
+      "compliance",
+      "bsa",
+      "legal-case"
+    ],
+    "summary": "BitMEX co-founder; pleaded guilty to a U.S. Bank Secrecy Act violation related to BitMEX’s AML program (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-02-24",
+        "event": "Reported guilty plea in U.S. proceedings for Bank Secrecy Act / AML-program violations.",
+        "sources": [
+          {
+            "title": "Ben Delo",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ben_Delo",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samuel-reed-bitmex",
+    "name": "Samuel Reed",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "bitmex",
+      "exchange",
+      "compliance",
+      "bsa",
+      "legal-case"
+    ],
+    "summary": "BitMEX co-founder; publicly reported as pleading guilty in a U.S. Bank Secrecy Act / AML-program case related to BitMEX.",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-02-24",
+        "event": "Public reporting of guilty plea in U.S. Bank Secrecy Act / AML-program case related to BitMEX.",
+        "sources": [
+          {
+            "title": "Arthur Hayes (banker) (mentions BitMEX co-founders’ pleas)",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Arthur_Hayes_(banker)",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "michael-alan-stollery",
+    "name": "Michael Alan Stollery",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "ico",
+      "securities-fraud",
+      "titanium-blockchain",
+      "legal-case"
+    ],
+    "summary": "CEO/founder of Titanium Blockchain Infrastructure Services; pleaded guilty to securities fraud connected to an ICO (per DOJ).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-07-25",
+        "event": "DOJ announced Stollery pleaded guilty to one count of securities fraud in connection with TBIS’s ICO.",
+        "sources": [
+          {
+            "title": "CEO of Titanium Blockchain Pleads Guilty in $21 Million Cryptocurrency Fraud Scheme",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/archives/opa/pr/ceo-titanium-blockchain-pleads-guilty-21-million-cryptocurrency-fraud-scheme",
+            "type": "press-release",
+            "date": "2022-07-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blake-benthall",
+    "name": "Blake Benthall",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "darknet",
+      "silk-road-2",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Operator of Silk Road 2.0 under the pseudonym “Defcon”; arrested in the U.S. and later pleaded guilty (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2014-11-06",
+        "event": "Arrested by the FBI in connection with operation of Silk Road 2.0 (Operation Onymous).",
+        "sources": [
+          {
+            "title": "Blake Benthall",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Blake_Benthall",
+            "type": "reference"
+          }
+        ]
+      },
+      {
+        "date": "2015-07-01",
+        "event": "Reported guilty plea to multiple counts including narcotics trafficking and money laundering.",
+        "sources": [
+          {
+            "title": "Blake Benthall",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Blake_Benthall",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "roger-thomas-clark",
+    "name": "Roger Thomas Clark",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "silk-road",
+      "darknet",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Known as “Variety Jones”; pleaded guilty in U.S. proceedings connected to Silk Road-related money laundering conspiracy (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2019-09-06",
+        "event": "Reported guilty plea in U.S. proceedings related to Silk Road money laundering conspiracy.",
+        "sources": [
+          {
+            "title": "Roger Thomas Clark",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Roger_Thomas_Clark",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thomas-white-silk-road",
+    "name": "Thomas White",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "silk-road",
+      "darknet",
+      "legal-case"
+    ],
+    "summary": "Known as “Dread Pirate Roberts 2”; pleaded guilty in U.S. proceedings connected to Silk Road (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2014-11-01",
+        "event": "Reported guilty plea in U.S. proceedings connected to operating Silk Road under the alias “Dread Pirate Roberts 2”.",
+        "sources": [
+          {
+            "title": "Thomas White (Silk Road)",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Thomas_White_(Silk_Road)",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anthony-murgio",
+    "name": "Anthony Murgio",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "bitcoin",
+      "money-transmitting",
+      "coin-mx",
+      "legal-case"
+    ],
+    "summary": "Operator associated with Coin.mx; pleaded guilty in a U.S. federal case involving an unlicensed bitcoin exchange / money transmitting business (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2015-07-21",
+        "event": "Reported guilty plea in U.S. federal proceedings involving Coin.mx and operating an unlicensed money transmitting business.",
+        "sources": [
+          {
+            "title": "Anthony Murgio",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anthony_Murgio",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trendon-shavers",
+    "name": "Trendon Shavers",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "bitcoin",
+      "ponzi",
+      "securities",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "Operator of Bitcoin Savings and Trust (BTCST); subject of SEC civil enforcement and widely described as operating a bitcoin-denominated Ponzi scheme (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2013-07-23",
+        "event": "SEC filed civil action related to Bitcoin Savings and Trust (BTCST).",
+        "sources": [
+          {
+            "title": "Trendon Shavers",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Trendon_Shavers",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alexander-vinnik",
+    "name": "Alexander Vinnik",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "btc-e",
+      "exchange",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Associated with BTC-e; charged in U.S. proceedings related to alleged money laundering and other offenses (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2017-07-25",
+        "event": "Arrested in Greece; U.S. charges connected to BTC-e money laundering allegations reported.",
+        "sources": [
+          {
+            "title": "Alexander Vinnik",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alexander_Vinnik",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "steven-seagal",
+    "name": "Steven Seagal",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "ico",
+      "promotion",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "Actor; SEC alleged unlawful touting of an ICO (Bitcoiin2Gen) and announced a settlement (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2019-02-27",
+        "event": "SEC announced Seagal settled charges for failing to disclose compensation received for promoting an ICO.",
+        "sources": [
+          {
+            "title": "SEC: Steven Seagal Settles Charges for Unlawfully Touting ICO",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2019-27",
+            "type": "official",
+            "date": "2019-02-27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "floyd-mayweather",
+    "name": "Floyd Mayweather Jr.",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "ico",
+      "promotion",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "Boxer; SEC announced settlement for promoting ICOs without disclosing compensation (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2018-11-29",
+        "event": "SEC announced Mayweather and DJ Khaled settled charges for failing to disclose compensation for promoting ICOs.",
+        "sources": [
+          {
+            "title": "SEC: Floyd Mayweather Jr. and DJ Khaled Charged for Unlawfully Touting ICOs",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2018-268",
+            "type": "official",
+            "date": "2018-11-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dj-khaled",
+    "name": "DJ Khaled",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "ico",
+      "promotion",
+      "sec",
+      "legal-case"
+    ],
+    "summary": "Music producer; SEC announced settlement for promoting an ICO without disclosing compensation (per SEC).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2018-11-29",
+        "event": "SEC announced Khaled (and Mayweather) settled charges for failing to disclose compensation for promoting ICOs.",
+        "sources": [
+          {
+            "title": "SEC: Floyd Mayweather Jr. and DJ Khaled Charged for Unlawfully Touting ICOs",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "url": "https://www.sec.gov/news/press-release/2018-268",
+            "type": "official",
+            "date": "2018-11-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "john-mcafee",
+    "name": "John McAfee",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "crypto",
+      "promotion",
+      "tax",
+      "legal-case"
+    ],
+    "summary": "Cybersecurity entrepreneur and crypto promoter; indicted in the U.S. on tax-evasion and related charges (case later mooted by death) (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2020-10-05",
+        "event": "U.S. authorities announced indictment for tax-related charges (per public reporting).",
+        "sources": [
+          {
+            "title": "John McAfee",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_McAfee",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "homero-joshua-garza",
+    "name": "Homero Joshua Garza",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "mining",
+      "ponzi",
+      "gaw-miners",
+      "legal-case"
+    ],
+    "summary": "Founder of GAW Miners/ZenMiner; pleaded guilty to wire fraud in a U.S. case tied to cryptocurrency mining-related fraud allegations (per DOJ).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2015-07-20",
+        "event": "DOJ announced Garza pleaded guilty to wire fraud in connection with alleged cryptocurrency mining-related scheme.",
+        "sources": [
+          {
+            "title": "Cryptocurrency Executive Pleads Guilty to Wire Fraud in Connection with $9 Million Scheme",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/opa/pr/cryptocurrency-executive-pleads-guilty-wire-fraud-connection-9-million-scheme",
+            "type": "press-release",
+            "date": "2015-07-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paul-leroux",
+    "name": "Paul Le Roux",
+    "type": "individual",
+    "status": "convicted",
+    "tags": [
+      "money-laundering",
+      "crime",
+      "legal-case"
+    ],
+    "summary": "Criminal figure and programmer tied to a transnational crime enterprise; pleaded guilty in U.S. federal court to multiple charges including money laundering (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2012-09-01",
+        "event": "Arrested and later pleaded guilty in U.S. federal court (money laundering and other charges) (per public reporting).",
+        "sources": [
+          {
+            "title": "Paul Le Roux",
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paul_Le_Roux",
+            "type": "reference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sohrab-sharma",
+    "name": "Sohrab Sharma",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "centra-tech",
+      "ico",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Centra Tech co-founder; prosecuted in U.S. proceedings related to the Centra Tech ICO (per DOJ and public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2018-04-02",
+        "event": "DOJ announced charges/arrest related to Centra Tech ICO fraud allegations.",
+        "sources": [
+          {
+            "title": "Centra Tech Co-Founders Charged With Fraud In Connection With Initial Coin Offering",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/opa/pr/centra-tech-co-founders-charged-fraud-connection-initial-coin-offering",
+            "type": "press-release",
+            "date": "2018-04-02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "robert-farkas-centra",
+    "name": "Robert Farkas",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "centra-tech",
+      "ico",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Centra Tech co-founder; prosecuted in U.S. proceedings related to the Centra Tech ICO fraud allegations (per DOJ and public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2018-04-02",
+        "event": "DOJ announced charges/arrest related to Centra Tech ICO fraud allegations.",
+        "sources": [
+          {
+            "title": "Centra Tech Co-Founders Charged With Fraud In Connection With Initial Coin Offering",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/opa/pr/centra-tech-co-founders-charged-fraud-connection-initial-coin-offering",
+            "type": "press-release",
+            "date": "2018-04-02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jared-rice-arisebank",
+    "name": "Jared Rice Sr.",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "arisebank",
+      "ico",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Founder of AriseBank; prosecuted in U.S. proceedings connected to an ICO/cryptocurrency-related fraud case (per DOJ and public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2018-01-25",
+        "event": "DOJ announced AriseBank founder charged in alleged cryptocurrency fraud scheme.",
+        "sources": [
+          {
+            "title": "AriseBank Founder Charged in Cryptocurrency Fraud Scheme",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/opa/pr/arisebank-founder-charged-cryptocurrency-fraud-scheme",
+            "type": "press-release",
+            "date": "2018-01-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paul-vernon",
+    "name": "Paul Vernon",
+    "type": "individual",
+    "status": "pleaded",
+    "tags": [
+      "cryptsy",
+      "exchange",
+      "fraud",
+      "legal-case"
+    ],
+    "summary": "Founder/CEO of Cryptsy; pleaded guilty in U.S. proceedings related to Cryptsy-linked wire fraud / money laundering allegations (per DOJ).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-05-20",
+        "event": "DOJ announced Cryptsy founder pleaded guilty to wire fraud and money laundering.",
+        "sources": [
+          {
+            "title": "Cryptocurrency Exchange Operator Pleads Guilty to Wire Fraud and Money Laundering",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/opa/pr/cryptocurrency-exchange-operator-pleads-guilty-wire-fraud-and-money-laundering",
+            "type": "press-release",
+            "date": "2022-05-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amir-bruno-elmaani",
+    "name": "Amir Bruno Elmaani",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "nft",
+      "rug-pull",
+      "wire-fraud",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Alleged “Frosties” NFT project operator; charged in U.S. proceedings with NFT-related fraud and money laundering (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-03-24",
+        "event": "Public reporting of U.S. charges related to “Frosties” NFT fraud and money laundering allegations.",
+        "sources": [
+          {
+            "title": "The DOJ has charged 2 men over the $1.1 million Frosties NFT 'rug pull' scam",
+            "publisher": "Insider (republished on AOL)",
+            "url": "https://www.aol.com/news/doj-charged-2-men-170838217.html",
+            "type": "news"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ethan-nguyen-frosties",
+    "name": "Ethan Nguyen",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "nft",
+      "rug-pull",
+      "wire-fraud",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Alleged “Frosties” NFT project operator; charged in U.S. proceedings with NFT-related fraud and money laundering (per public reporting).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2022-03-24",
+        "event": "Public reporting of U.S. charges related to “Frosties” NFT fraud and money laundering allegations.",
+        "sources": [
+          {
+            "title": "The DOJ has charged 2 men over the $1.1 million Frosties NFT 'rug pull' scam",
+            "publisher": "Insider (republished on AOL)",
+            "url": "https://www.aol.com/news/doj-charged-2-men-170838217.html",
+            "type": "news"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jeremy-spence",
+    "name": "Jeremy Spence",
+    "type": "individual",
+    "status": "convicted",
+    "tags": [
+      "fraud",
+      "crypto",
+      "investment",
+      "legal-case"
+    ],
+    "summary": "Operator of an alleged crypto investment scam (“Coin Signals”); prosecuted and sentenced in U.S. proceedings (per DOJ).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2021-04-30",
+        "event": "DOJ announced sentencing for operator of a cryptocurrency investment scam (“Coin Signals”).",
+        "sources": [
+          {
+            "title": "Operator of Cryptocurrency Investment Scam Sentenced to 42 Months in Prison",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/opa/pr/operator-cryptocurrency-investment-scam-sentenced-42-months-prison",
+            "type": "press-release",
+            "date": "2021-04-30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rowland-marcus-andrade",
+    "name": "Rowland Marcus Andrade",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "aml-bitcoin",
+      "fraud",
+      "money-laundering",
+      "legal-case"
+    ],
+    "summary": "Founder of AML Bitcoin; indicted in the U.S. on charges related to an alleged cryptocurrency scheme (per DOJ).",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": null,
+    "timeline": [
+      {
+        "date": "2020-06-22",
+        "event": "DOJ announced indictment of AML Bitcoin founder for allegedly defrauding investors and laundering proceeds (verify latest posture during integration).",
+        "sources": [
+          {
+            "title": "Founder of AML Bitcoin Indicted for Wire Fraud and Money Laundering",
+            "publisher": "U.S. Department of Justice (OPA)",
+            "url": "https://www.justice.gov/opa/pr/founder-aml-bitcoin-indicted-wire-fraud-and-money-laundering",
+            "type": "press-release",
+            "date": "2020-06-22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "richard-heart",
+    "name": "Richard Heart (Richard Schueler)",
+    "type": "individual",
+    "status": "charged",
+    "tags": [
+      "hex",
+      "pulsechain",
+      "sec",
+      "unregistered-offering",
+      "legal-case"
+    ],
+    "summary": "Crypto promoter associated with HEX/PulseChain; sued by the SEC in a civil enforcement action. Included as Option B with a placeholder image due to no clearly-licensed portrait found.",
+    "jurisdiction": [
+      "US"
+    ],
+    "images": {
+      "path": "assets/img/profiles/placeholder-person.svg",
+      "sourceUrl": null,
+      "downloadUrl": null,
+      "license": "N/A (placeholder)",
+      "licenseUrl": null,
+      "attribution": "Internal placeholder",
+      "caption": "Placeholder image"
+    },
+    "timeline": [
+      {
+        "date": "2023-07-31",
+        "event": "SEC filed civil complaint alleging unregistered crypto asset offerings and fraud allegations related to HEX, PulseChain, and PulseX (verify current docket posture during integration).",
+        "sources": [
+          {
+            "title": "SEC v. Schueler (CourtListener docket)",
+            "publisher": "CourtListener",
+            "url": "https://www.courtlistener.com/docket/67585298/securities-and-exchange-commission-v-schueler/",
+            "type": "court"
+          },
+          {
+            "title": "SEC charges Hex founder Richard Heart with unregistered crypto offerings, fraud",
+            "publisher": "Reuters",
+            "url": "https://www.reuters.com/article/us-crypto-sec-heart-idUSKBN2ZB1XG",
+            "type": "investigative"
+          }
+        ]
+      }
+    ]
+  }
+]

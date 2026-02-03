@@ -70,7 +70,7 @@ function renderTable(rows){
   tbody.innerHTML = rows.map(p=>{
     const tags = (p.tags||[]).slice(0,3).map(t=>`<span class="badge"><strong>#</strong>${escapeHtml(t)}</span>`).join(' ');
     const more = (p.tags||[]).length > 3 ? `<span class="badge">+${(p.tags||[]).length-3}</span>` : '';
-    const imgPath = p.images?.path ? `./${p.images.path}` : './assets/img/placeholder.svg';
+    const imgPath = p.images?.path ? `./${p.images.path}` : './assets/img/profiles/placeholder-person.svg';
     const altText = (p.images?.caption || p.name || 'Profile image');
     const avatar = `<img class="avatar" src="${escapeHtml(imgPath)}" alt="${escapeHtml(altText)}" loading="lazy" />`;
 
@@ -119,7 +119,7 @@ function openModal(id){
     ['Tags', (p.tags||[]).join(', ') || '—'],
   ];
 
-  const imgPath = p.images?.path ? `./${p.images.path}` : './assets/img/placeholder.svg';
+  const imgPath = p.images?.path ? `./${p.images.path}` : './assets/img/profiles/placeholder-person.svg';
   const altText = (p.images?.caption || p.name || 'Profile image');
   const hasMeta = !!p.images?.sourceUrl;
   const imgHtml = `<div style="display:flex;gap:12px;align-items:flex-start;margin-top:10px">
