@@ -89,6 +89,12 @@ async function load(){
 
   $('#pMeta').innerHTML = meta.map(([k,v])=>`<div>${escapeHtml(k)}</div><div>${typeof v === 'string' && v.startsWith('<a ') ? v : escapeHtml(v)}</div>`).join('');
 
+  // details
+  const details = Array.isArray(p.details) ? p.details : [];
+  $('#pDetails').innerHTML = details.length
+    ? `<ul style="margin:0;padding-left:18px">${details.map(x=>`<li class="small" style="margin:6px 0">${escapeHtml(x)}</li>`).join('')}</ul>`
+    : '<div class="small">No additional details yet.</div>';
+
   // timeline
   const items = (p.timeline||[]).map(item=>{
     const srcs = (item.sources||[]).map(s=>{
