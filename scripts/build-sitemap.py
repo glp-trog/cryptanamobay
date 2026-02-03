@@ -17,7 +17,7 @@ def xml_escape(s: str) -> str:
 
 
 def main():
-    data = json.load(open(DATA_PATH, 'r', encoding='utf-8'))
+    data = json.load(open(DATA_PATH, 'r', encoding='utf-8-sig'))
     updated_at = data.get('updatedAt') or datetime.date.today().isoformat()
     profiles = data.get('profiles', [])
 

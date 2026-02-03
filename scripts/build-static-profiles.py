@@ -184,7 +184,7 @@ def build_page(p: dict, updated_at: str) -> str:
 
 
 def main():
-    data = json.load(open(DATA_PATH, 'r', encoding='utf-8'))
+    data = json.load(open(DATA_PATH, 'r', encoding='utf-8-sig'))
     updated_at = data.get('updatedAt') or datetime.date.today().isoformat()
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
